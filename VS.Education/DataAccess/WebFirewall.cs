@@ -40,7 +40,9 @@ public static class WebFirewall
     {
         context.Response.Clear();
         context.Response.StatusCode = 400;
-        context.Server.Transfer("~/page-400.html");
+        context.Response.TrySkipIisCustomErrors = true;
+        context.Response.Redirect("/page-400.html", false);
+        context.ApplicationInstance.CompleteRequest();
     }
 
     public static void Show404(HttpContext context)
