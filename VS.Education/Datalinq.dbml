@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="unitrend_db" Class="DatalinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-C03SHPB\SQLEXPRESS;Initial Catalog=unitrend_db;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="unitrend_dbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Menu" Member="Menus">
+    <Type Name="Menu">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Parent_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="capp" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="Type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Lang" Type="System.String" DbType="Char(3)" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Url_Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Link" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+      <Column Name="Styleshow" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+      <Column Name="Equals" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Images" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Create_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Views" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShowID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Orders" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[Level]" Member="Level" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="News" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="page_Home" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Status" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Titleseo" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Meta" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Keyword" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Check_01" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_02" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_03" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_04" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_05" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Noidung1" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung2" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung3" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung4" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung5" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Module" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TangName" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Trunggian" Member="Trunggians">
+    <Type Name="Trunggian">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Proid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Icolor" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Trangthai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="icid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.products" Member="products">
+    <Type Name="product">
+      <Column Name="ipid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="icid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_Hang" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="sanxuat" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Code" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Name" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Brief" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Contents" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="search" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Images" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="ImagesSmall" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Equals" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Price" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OldPrice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Chekdata" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Create_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Modified_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Views" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="lang" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="News" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Home" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_01" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_02" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_03" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_04" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_05" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Status" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Titleseo" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Meta" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Keyword" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Anh" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="TangName" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+      <Column Name="RateCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RateSum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.users" Member="users">
+    <Type Name="user">
+      <Column Name="iuser_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="vuserun" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="vuserpwd" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="vfname" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="vlname" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="igender" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="dbirthday" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="vidcard" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="vaddress" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="vphone" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="vemail" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="iregionid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vavatar" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="vavatartitle" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="dcreatedate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="dlastvisited" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="vvalidatekey" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="istatus" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="lang" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="IDFaceBook_Google" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MNews" Member="MNews">
+    <Type Name="MNew">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Menu_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Brief" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Contents" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Keywords" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Equals" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Images" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ImagesSmall" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Url_Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="User_Name" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+      <Column Name="Search" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Orders" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Create_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Modified_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Views" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tags" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Lang" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Types" Type="System.String" DbType="Char(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="TangName" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CartDetail" Member="LCartDetails">
+    <Type Name="LCartDetail">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_Cart" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ipid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Money" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Mausac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Kichco" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Carts" Member="LCarts">
+    <Type Name="LCart">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Contents" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Create_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Money" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="lang" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Phuongthucthanhtoan" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Hinhthucvanchuyen" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="StatusGiaoDich" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tinhthanh" Member="Tinhthanhs">
+    <Type Name="Tinhthanh">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Parent_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="capp" Type="System.String" DbType="Char(2)" CanBeNull="true" />
+      <Column Name="Type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Lang" Type="System.String" DbType="Char(3)" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Url_Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Link" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+      <Column Name="Styleshow" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+      <Column Name="Equals" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Images" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Create_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Views" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShowID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Orders" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[Level]" Member="Level" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="News" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="page_Home" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Status" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Titleseo" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Meta" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Keyword" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Check_01" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_02" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_03" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_04" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Check_05" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Noidung1" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung2" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung3" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung4" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Noidung5" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Module" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TangName" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HistoryLogin" Member="HistoryLogins">
+    <Type Name="HistoryLogin">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NameIP" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Creadate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.History_Producst" Member="History_Producsts">
+    <Type Name="History_Producst">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDSP" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Createby" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="Createdate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TaiLieu_SanPham" Member="TaiLieu_SanPhams">
+    <Type Name="TaiLieu_SanPham">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDSP" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="icidphanmen" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Link" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="Create_By" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Create_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TuVanSanPham" Member="TuVan_SanPhams">
+    <Type Name="TuVan_SanPham">
+      <Column Name="ino" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="vtitle" Type="System.String" DbType="NVarChar(900)" CanBeNull="true" />
+      <Column Name="vname" Type="System.String" DbType="NVarChar(900)" CanBeNull="true" />
+      <Column Name="vaddress" Type="System.String" DbType="NVarChar(900)" CanBeNull="true" />
+      <Column Name="vphone" Type="System.String" DbType="NVarChar(900)" CanBeNull="true" />
+      <Column Name="vemail" Type="System.String" DbType="NVarChar(900)" CanBeNull="true" />
+      <Column Name="vcontent" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="File1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="File2" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="MaBaoGia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="dcreatedate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="lang" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="istatus" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SoSanh_SanPham" Member="SoSanh_SanPhams">
+    <Type Name="SoSanh_SanPham">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ipid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="icid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idthuoctinh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NoiDungSoSanh" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="create_by" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="create_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LienQuan_SanPham" Member="LienQuan_SanPhams">
+    <Type Name="LienQuan_SanPham">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ipid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ipid_lienquan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Create_By" Type="System.String" DbType="NVarChar(550)" CanBeNull="true" />
+      <Column Name="Create_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.S_Trunggian_Delete" Method="S_Trunggian_Delete">
+    <Parameter Name="Proid" Parameter="proid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

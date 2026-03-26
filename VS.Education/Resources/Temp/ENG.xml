@@ -1,0 +1,2850 @@
+<?xml version="1.0" standalone="yes"?>
+<template>
+  <item>
+    <ID>lt_membership</ID>
+    <VALUE>Membership Category</VALUE>
+  </item>
+  <item>
+    <ID>l_home</ID>
+    <VALUE>Homepage</VALUE>
+  </item>
+  <item>
+    <ID>l_contact</ID>
+    <VALUE>Contact</VALUE>
+  </item>
+  <item>
+    <ID>l_search</ID>
+    <VALUE>Search</VALUE>
+  </item>
+  <item>
+    <ID>l_configtemplates</ID>
+    <VALUE>Configuration Templates</VALUE>
+  </item>
+  <item>
+    <ID>l_productprices</ID>
+    <VALUE>Price Management</VALUE>
+  </item>
+  <item>
+    <ID>l_articles</ID>
+    <VALUE>Articles</VALUE>
+  </item>
+  <item>
+    <ID>l_faqm</ID>
+    <VALUE>FAQ</VALUE>
+  </item>
+  <item>
+    <ID>l_lnkweb</ID>
+    <VALUE>Website Links</VALUE>
+  </item>
+  <item>
+    <ID>l_sitemap</ID>
+    <VALUE>Sitemap</VALUE>
+  </item>
+  <item>
+    <ID>l_gotop</ID>
+    <VALUE>Go top</VALUE>
+  </item>
+  <item>
+    <ID>l_gotosite</ID>
+    <VALUE>Go to site</VALUE>
+  </item>
+  <item>
+    <ID>l_website</ID>
+    <VALUE>Website</VALUE>
+  </item>
+  <item>
+    <ID>l_language</ID>
+    <VALUE>Language</VALUE>
+  </item>
+  <item>
+    <ID>l_in</ID>
+    <VALUE>In</VALUE>
+  </item>
+  <item>
+    <ID>l_systemusers</ID>
+    <VALUE>System Users</VALUE>
+  </item>
+  <item>
+    <ID>l_welcome</ID>
+    <VALUE>Welcome</VALUE>
+  </item>
+  <item>
+    <ID>l_news</ID>
+    <VALUE>News</VALUE>
+  </item>
+  <item>
+    <ID>l_firstpage</ID>
+    <VALUE>News HomePage</VALUE>
+  </item>
+  <item>
+    <ID>l_intro</ID>
+    <VALUE>It is developing powerful, you have opportunity to success by IT? People say that " The life begin at NIIT". NIIT can satisfy your requirement. [break]You are interest in career, study abroad or benifits which are supplied by NIIT. Remember, you have so much things that people fell unfair</VALUE>
+  </item>
+  <item>
+    <ID>l_copyright</ID>
+    <VALUE>Copyright by [item]</VALUE>
+  </item>
+  <item>
+    <ID>l_devpby</ID>
+    <VALUE>Developed by [item]</VALUE>
+  </item>
+  <item>
+    <ID>l_bestview</ID>
+    <VALUE>Best view with [item] screen size</VALUE>
+  </item>
+  <item>
+    <ID>l_help</ID>
+    <VALUE>Help</VALUE>
+  </item>
+  <item>
+    <ID>l_view</ID>
+    <VALUE>View</VALUE>
+  </item>
+  <item>
+    <ID>l_alls</ID>
+    <VALUE>Alls</VALUE>
+  </item>
+  <item>
+    <ID>lt_url</ID>
+    <VALUE>URL</VALUE>
+  </item>
+  <item>
+    <ID>l_staticcontact</ID>
+    <VALUE>You can contact me at: </VALUE>
+  </item>
+  <item>
+    <ID>l_name</ID>
+    <VALUE>Name</VALUE>
+  </item>
+  <item>
+    <ID>l_email</ID>
+    <VALUE>Email</VALUE>
+  </item>
+  <item>
+    <ID>l_address</ID>
+    <VALUE>Address</VALUE>
+  </item>
+  <item>
+    <ID>l_phone</ID>
+    <VALUE>Phone</VALUE>
+  </item>
+  <item>
+    <ID>l_mobile</ID>
+    <VALUE>Mobile</VALUE>
+  </item>
+  <item>
+    <ID>l_title</ID>
+    <VALUE>Subject</VALUE>
+  </item>
+  <item>
+    <ID>l_content</ID>
+    <VALUE>Content</VALUE>
+  </item>
+  <item>
+    <ID>l_send</ID>
+    <VALUE>Send</VALUE>
+  </item>
+  <item>
+    <ID>l_poweredby</ID>
+    <VALUE>Powered by</VALUE>
+  </item>
+  <item>
+    <ID>l_cancel</ID>
+    <VALUE>Cancel</VALUE>
+  </item>
+  <item>
+    <ID>l_contactalert</ID>
+    <VALUE>You can post your request after [minute]</VALUE>
+  </item>
+  <item>
+    <ID>l_checkdata</ID>
+    <VALUE>Please check your input data!!!</VALUE>
+  </item>
+  <item>
+    <ID>l_checkuserpass</ID>
+    <VALUE>Please check your UN and password!!!</VALUE>
+  </item>
+  <item>
+    <ID>l_postsucess</ID>
+    <VALUE>Your request has been sent sucessfully!!!</VALUE>
+  </item>
+  <item>
+    <ID>l_continue</ID>
+    <VALUE>Continue</VALUE>
+  </item>
+  <item>
+    <ID>l_dontwanttoappear</ID>
+    <VALUE>Dont want to appear</VALUE>
+  </item>
+  <item>
+    <ID>l_members</ID>
+    <VALUE>Members</VALUE>
+  </item>
+  <item>
+    <ID>l_choose</ID>
+    <VALUE>Choose</VALUE>
+  </item>
+  <item>
+    <ID>l_insert</ID>
+    <VALUE>Insert</VALUE>
+  </item>
+  <item>
+    <ID>l_update</ID>
+    <VALUE>Update</VALUE>
+  </item>
+  <item>
+    <ID>l_close</ID>
+    <VALUE>Close</VALUE>
+  </item>
+  <item>
+    <ID>l_print</ID>
+    <VALUE>Print</VALUE>
+  </item>
+  <item>
+    <ID>l_mainmenu</ID>
+    <VALUE>Main Menu</VALUE>
+  </item>
+  <item>
+    <ID>l_keyword</ID>
+    <VALUE>Key word</VALUE>
+  </item>
+  <item>
+    <ID>l_search_found</ID>
+    <VALUE>We found [founditems] results with your keyword</VALUE>
+  </item>
+  <item>
+    <ID>l_today</ID>
+    <VALUE>Today</VALUE>
+  </item>
+  <item>
+    <ID>l_news_homepage</ID>
+    <VALUE>Home Page</VALUE>
+  </item>
+  <item>
+    <ID>l_news_news</ID>
+    <VALUE>News</VALUE>
+  </item>
+  <item>
+    <ID>l_news_event</ID>
+    <VALUE>News n Events</VALUE>
+  </item>
+  <item>
+    <ID>l_news_othernews</ID>
+    <VALUE>Other News</VALUE>
+  </item>
+  <item>
+    <ID>l_news_topnews</ID>
+    <VALUE>Top News</VALUE>
+  </item>
+  <item>
+    <ID>l_news_topreadnews</ID>
+    <VALUE>Hot News</VALUE>
+  </item>
+  <item>
+    <ID>l_News_Relatednews</ID>
+    <VALUE>Related News</VALUE>
+  </item>
+  <item>
+    <ID>lemail_sendemailsucessfully</ID>
+    <VALUE>Your email has sent sucessfully</VALUE>
+  </item>
+  <item>
+    <ID>lemail_to</ID>
+    <VALUE>Send to</VALUE>
+  </item>
+  <item>
+    <ID>lemail_sendmail</ID>
+    <VALUE>Send mail</VALUE>
+  </item>
+  <item>
+    <ID>ltopsearchkeyword</ID>
+    <VALUE>Top Search Keyword</VALUE>
+  </item>
+  <item>
+    <ID>lstatistic</ID>
+    <VALUE>Statistic</VALUE>
+  </item>
+  <item>
+    <ID>lt_visitors</ID>
+    <VALUE>Visitor</VALUE>
+  </item>
+  <item>
+    <ID>lbrowsecategory</ID>
+    <VALUE>Browse Categories</VALUE>
+  </item>
+  <item>
+    <ID>lt_categorymanagement</ID>
+    <VALUE>Categories Management</VALUE>
+  </item>
+  <item>
+    <ID>ladvancesearch</ID>
+    <VALUE>Advance Search</VALUE>
+  </item>
+  <item>
+    <ID>lviewnext</ID>
+    <VALUE>View Next</VALUE>
+  </item>
+  <item>
+    <ID>lnext</ID>
+    <VALUE>Next</VALUE>
+  </item>
+  <item>
+    <ID>lprevious</ID>
+    <VALUE>Previous</VALUE>
+  </item>
+  <item>
+    <ID>lcategory</ID>
+    <VALUE>Categories</VALUE>
+  </item>
+  <item>
+    <ID>lobject</ID>
+    <VALUE>Objects</VALUE>
+  </item>
+  <item>
+    <ID>lproducts</ID>
+    <VALUE>Products</VALUE>
+  </item>
+  <item>
+    <ID>lproductsincart</ID>
+    <VALUE>Products in Cart</VALUE>
+  </item>
+  <item>
+    <ID>lt_cartbox</ID>
+    <VALUE>Your Cartbox</VALUE>
+  </item>
+  <item>
+    <ID>ltotalvalue</ID>
+    <VALUE>Total Value</VALUE>
+  </item>
+  <item>
+    <ID>lbrand</ID>
+    <VALUE>Brands</VALUE>
+  </item>
+  <item>
+    <ID>lprice</ID>
+    <VALUE>Price</VALUE>
+  </item>
+  <item>
+    <ID>lnewprice</ID>
+    <VALUE>New Price</VALUE>
+  </item>
+  <item>
+    <ID>loldprice</ID>
+    <VALUE>Old Price</VALUE>
+  </item>
+  <item>
+    <ID>lquantity</ID>
+    <VALUE>Quantity</VALUE>
+  </item>
+  <item>
+    <ID>ltotal</ID>
+    <VALUE>Total</VALUE>
+  </item>
+  <item>
+    <ID>ldeleteselectedproduct</ID>
+    <VALUE>Delete selected product?</VALUE>
+  </item>
+  <item>
+    <ID>lshoppingcancel</ID>
+    <VALUE>Shopping Cancel?</VALUE>
+  </item>
+  <item>
+    <ID>lupdate</ID>
+    <VALUE>Update</VALUE>
+  </item>
+  <item>
+    <ID>ldelete</ID>
+    <VALUE>Delete</VALUE>
+  </item>
+  <item>
+    <ID>lt_utilities</ID>
+    <VALUE>Utilities</VALUE>
+  </item>
+  <item>
+    <ID>lt_exchangerate</ID>
+    <VALUE>Exchange Rate</VALUE>
+  </item>
+  <item>
+    <ID>lt_onlinestock</ID>
+    <VALUE>Stock Online</VALUE>
+  </item>
+  <item>
+    <ID>l_fastsiteadditemtopanel</ID>
+    <VALUE>Add Item to Panel</VALUE>
+  </item>
+  <item>
+    <ID>l_fastsiteadditemtorelatedgroup</ID>
+    <VALUE>Add Item to Related Group News</VALUE>
+  </item>
+  <item>
+    <ID>answers_answerlist</ID>
+    <VALUE>Answers List</VALUE>
+  </item>
+  <item>
+    <ID>answers_answernoanswers</ID>
+    <VALUE>There is no answer for this question</VALUE>
+  </item>
+  <item>
+    <ID>answers_title</ID>
+    <VALUE>Title</VALUE>
+  </item>
+  <item>
+    <ID>answers_content</ID>
+    <VALUE>Content</VALUE>
+  </item>
+  <item>
+    <ID>answers_postquestion</ID>
+    <VALUE>Post Question</VALUE>
+  </item>
+  <item>
+    <ID>answers_postanswer</ID>
+    <VALUE>Post Answer</VALUE>
+  </item>
+  <item>
+    <ID>answers_editquestion</ID>
+    <VALUE>Edit Question</VALUE>
+  </item>
+  <item>
+    <ID>answers_editanswer</ID>
+    <VALUE>Edit Answer</VALUE>
+  </item>
+  <item>
+    <ID>answers_savequestion</ID>
+    <VALUE>Save Question</VALUE>
+  </item>
+  <item>
+    <ID>answers_saveanswer</ID>
+    <VALUE>Save Answer</VALUE>
+  </item>
+  <item>
+    <ID>answers_notlogin</ID>
+    <VALUE>Please login to use Service!</VALUE>
+  </item>
+  <item>
+    <ID>answers_notvaliditem</ID>
+    <VALUE>Not valid Item!</VALUE>
+  </item>
+  <item>
+    <ID>answers_notrole</ID>
+    <VALUE>You are not asigned to access this area! Please contact Admin for more information!</VALUE>
+  </item>
+  <item>
+    <ID>answers_postsucess</ID>
+    <VALUE>Post sucessfully!</VALUE>
+  </item>
+  <item>
+    <ID>answers_updatesucess</ID>
+    <VALUE>Update sucessfully!</VALUE>
+  </item>
+  <item>
+    <ID>answers_gobackcategory</ID>
+    <VALUE>Go back Category!</VALUE>
+  </item>
+  <item>
+    <ID>answers_gobackquestion</ID>
+    <VALUE>Go back Question!</VALUE>
+  </item>
+  <item>
+    <ID>answers_answerthisquestion</ID>
+    <VALUE>Answer this Question!</VALUE>
+  </item>
+  <item>
+    <ID>answers_resean</ID>
+    <VALUE>Resean!</VALUE>
+  </item>
+  <item>
+    <ID>answers_computerworry</ID>
+    <VALUE>Share your ideas!</VALUE>
+  </item>
+  <item>
+    <ID>answers_starthere</ID>
+    <VALUE>Start Here!</VALUE>
+  </item>
+  <item>
+    <ID>answers_checkflood</ID>
+    <VALUE>You are only post 1 time in 1 minutes</VALUE>
+  </item>
+  <item>
+    <ID>answers_homeanswer</ID>
+    <VALUE>Q &amp; A Home Page </VALUE>
+  </item>
+  <item>
+    <ID>answers_newquestions</ID>
+    <VALUE>New Questions </VALUE>
+  </item>
+  <item>
+    <ID>answers_qa</ID>
+    <VALUE>Q&amp;A </VALUE>
+  </item>
+  <item>
+    <ID>answers_move</ID>
+    <VALUE>Move</VALUE>
+  </item>
+  <item>
+    <ID>answers_movequestion</ID>
+    <VALUE>Move Question </VALUE>
+  </item>
+  <item>
+    <ID>answers_movetocategory</ID>
+    <VALUE>Move to Category </VALUE>
+  </item>
+  <item>
+    <ID>answers_youareat</ID>
+    <VALUE>You are at </VALUE>
+  </item>
+  <item>
+    <ID>l_login</ID>
+    <VALUE>Login</VALUE>
+  </item>
+  <item>
+    <ID>l_register</ID>
+    <VALUE>Register</VALUE>
+  </item>
+  <item>
+    <ID>l_username</ID>
+    <VALUE>Username</VALUE>
+  </item>
+  <item>
+    <ID>lt_member_detail</ID>
+    <VALUE>Member Information Details</VALUE>
+  </item>
+  <item>
+    <ID>lt_requiredinfo</ID>
+    <VALUE>Required Information</VALUE>
+  </item>
+  <item>
+    <ID>lt_fullname</ID>
+    <VALUE>Full Name</VALUE>
+  </item>
+  <item>
+    <ID>lt_lastname</ID>
+    <VALUE>Last Name</VALUE>
+  </item>
+  <item>
+    <ID>lt_firstname</ID>
+    <VALUE>First Name</VALUE>
+  </item>
+  <item>
+    <ID>lt_membername</ID>
+    <VALUE>Member Name</VALUE>
+  </item>
+  <item>
+    <ID>lt_checkid</ID>
+    <VALUE>Check ID</VALUE>
+  </item>
+  <item>
+    <ID>lt_password</ID>
+    <VALUE>Password</VALUE>
+  </item>
+  <item>
+    <ID>lt_checkpassword</ID>
+    <VALUE>Check Password</VALUE>
+  </item>
+  <item>
+    <ID>lt_securityquestion</ID>
+    <VALUE>Sercurity Question</VALUE>
+  </item>
+  <item>
+    <ID>lt_securityanswer</ID>
+    <VALUE>Sercurity Answer</VALUE>
+  </item>
+  <item>
+    <ID>lt_gender</ID>
+    <VALUE>Gender</VALUE>
+  </item>
+  <item>
+    <ID>lt_birthday</ID>
+    <VALUE>Birthday</VALUE>
+  </item>
+  <item>
+    <ID>lt_day</ID>
+    <VALUE>Day</VALUE>
+  </item>
+  <item>
+    <ID>lt_securitycode</ID>
+    <VALUE>Sercurity Code</VALUE>
+  </item>
+  <item>
+    <ID>lt_month</ID>
+    <VALUE>Month</VALUE>
+  </item>
+  <item>
+    <ID>lt_year</ID>
+    <VALUE>Year</VALUE>
+  </item>
+  <item>
+    <ID>lt_checkemail</ID>
+    <VALUE>Check Email</VALUE>
+  </item>
+  <item>
+    <ID>lt_yourknowusfrom</ID>
+    <VALUE>You know [] from</VALUE>
+  </item>
+  <item>
+    <ID>lt_agreetoregister</ID>
+    <VALUE>Agree to become our Member</VALUE>
+  </item>
+  <item>
+    <ID>lt_completeinstall</ID>
+    <VALUE>Complete Install</VALUE>
+  </item>
+  <item>
+    <ID>lt_completeregister</ID>
+    <VALUE>Registration Complete</VALUE>
+  </item>
+  <item>
+    <ID>lt_male</ID>
+    <VALUE>Male</VALUE>
+  </item>
+  <item>
+    <ID>lt_female</ID>
+    <VALUE>Female</VALUE>
+  </item>
+  <item>
+    <ID>lt_checkyourusername</ID>
+    <VALUE>Check your Username</VALUE>
+  </item>
+  <item>
+    <ID>lt_thisusernamenotavailable</ID>
+    <VALUE>This Username is not available</VALUE>
+  </item>
+  <item>
+    <ID>lt_validusername</ID>
+    <VALUE>Valid Username</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalidpassword</ID>
+    <VALUE>Invalid Password</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalidfullname</ID>
+    <VALUE>Invalid FullName</VALUE>
+  </item>
+  <item>
+    <ID>lt_youmustchoosesecurityquestion</ID>
+    <VALUE>You must choose security question</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalidbirthday</ID>
+    <VALUE>Invalid Birthday</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalidemail</ID>
+    <VALUE>Invalid Email</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalidcheckemail</ID>
+    <VALUE>Invalid Confirm Email</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalidsecuritycode</ID>
+    <VALUE>Invalid Security Code</VALUE>
+  </item>
+  <item>
+    <ID>lt_usernaemguide</ID>
+    <VALUE>Username Guide</VALUE>
+  </item>
+  <item>
+    <ID>lt_lVALUEth</ID>
+    <VALUE>LVALUEth</VALUE>
+  </item>
+  <item>
+    <ID>lt_characters</ID>
+    <VALUE>Character</VALUE>
+  </item>
+  <item>
+    <ID>lt_nospace</ID>
+    <VALUE>no space</VALUE>
+  </item>
+  <item>
+    <ID>lt_notdisplay</ID>
+    <VALUE>Not display</VALUE>
+  </item>
+  <item>
+    <ID>lt_changepassword</ID>
+    <VALUE>Change password</VALUE>
+  </item>
+  <item>
+    <ID>lt_Whenyouforgetpasswordweusethisanswertohelpyouregetpassword</ID>
+    <VALUE>When you forget your password, this question will help you get your password</VALUE>
+  </item>
+  <item>
+    <ID>lt_remembermeonthiscomputer</ID>
+    <VALUE>Remember my account on this machine</VALUE>
+  </item>
+  <item>
+    <ID>lt_guest</ID>
+    <VALUE>Customer</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalIDemailorpassword</ID>
+    <VALUE>Incorrect username or password</VALUE>
+  </item>
+  <item>
+    <ID>lt_userinformation</ID>
+    <VALUE>User Information</VALUE>
+  </item>
+  <item>
+    <ID>lt_commonformation</ID>
+    <VALUE>General Information</VALUE>
+  </item>
+  <item>
+    <ID>lt_privateinformation</ID>
+    <VALUE>Personal Information</VALUE>
+  </item>
+  <item>
+    <ID>lt_contactinformation</ID>
+    <VALUE>Contact Information</VALUE>
+  </item>
+  <item>
+    <ID>lt_avatar</ID>
+    <VALUE>Icon</VALUE>
+  </item>
+  <item>
+    <ID>lt_deleteavatar</ID>
+    <VALUE>Delete icon</VALUE>
+  </item>
+  <item>
+    <ID>lt_signature</ID>
+    <VALUE>Signature</VALUE>
+  </item>
+  <item>
+    <ID>lt_joindate</ID>
+    <VALUE>Join Date</VALUE>
+  </item>
+  <item>
+    <ID>lt_lastvisited</ID>
+    <VALUE>Last login</VALUE>
+  </item>
+  <item>
+    <ID>lt_changeinformation</ID>
+    <VALUE>Change Information</VALUE>
+  </item>
+  <item>
+    <ID>lt_changeinfor_easy</ID>
+    <VALUE>Change password. Please enter a member name</VALUE>
+  </item>
+  <item>
+    <ID>lt_nextstep</ID>
+    <VALUE>Next step</VALUE>
+  </item>
+  <item>
+    <ID>lt_updatenewpassword</ID>
+    <VALUE>Update new password</VALUE>
+  </item>
+  <item>
+    <ID>lt_oldpassword</ID>
+    <VALUE>Old password</VALUE>
+  </item>
+  <item>
+    <ID>lt_newpassword</ID>
+    <VALUE>New Password</VALUE>
+  </item>
+  <item>
+    <ID>lt_again</ID>
+    <VALUE>again</VALUE>
+  </item>
+  <item>
+    <ID>lt_finish</ID>
+    <VALUE>Finished</VALUE>
+  </item>
+  <item>
+    <ID>lt_updatesucessfull</ID>
+    <VALUE>Successful update</VALUE>
+  </item>
+  <item>
+    <ID>lt_maximize</ID>
+    <VALUE>To</VALUE>
+  </item>
+  <item>
+    <ID>lt_checkyourpassword</ID>
+    <VALUE>Check your password</VALUE>
+  </item>
+  <item>
+    <ID>lt_display</ID>
+    <VALUE>Display</VALUE>
+  </item>
+  <item>
+    <ID>lt_access</ID>
+    <VALUE>Access</VALUE>
+  </item>
+  <item>
+    <ID>lt_authentication</ID>
+    <VALUE>Rights</VALUE>
+  </item>
+  <item>
+    <ID>lt_authentication1</ID>
+    <VALUE>Permissions</VALUE>
+  </item>
+  <item>
+    <ID>lt_checking</ID>
+    <VALUE>Test</VALUE>
+  </item>
+  <item>
+    <ID>lt_checkingaccessauthentication</ID>
+    <VALUE>Access Control</VALUE>
+  </item>
+  <item>
+    <ID>lt_goback</ID>
+    <VALUE>Back</VALUE>
+  </item>
+  <item>
+    <ID>lt_regetpassword</ID>
+    <VALUE>Get Password</VALUE>
+  </item>
+  <item>
+    <ID>lt_inputusername</ID>
+    <VALUE>Enter member name</VALUE>
+  </item>
+  <item>
+    <ID>lt_securityinformation</ID>
+    <VALUE>Security Information</VALUE>
+  </item>
+  <item>
+    <ID>lt_youmustdeleteallitemsinthiscategoryfirst</ID>
+    <VALUE>Deletes the information in this category before you delete it!</VALUE>
+  </item>
+  <item>
+    <ID>lt_youmustdeleteallitemsinthiscategoryfirstproduct</ID>
+    <VALUE>Remove products in this category before you delete it!</VALUE>
+  </item>
+  <item>
+    <ID>lt_managementtools</ID>
+    <VALUE>Management Tools</VALUE>
+  </item>
+  <item>
+    <ID>lt_management</ID>
+    <VALUE>Management</VALUE>
+  </item>
+  <item>
+    <ID>lt_exit</ID>
+    <VALUE>Exit</VALUE>
+  </item>
+  <item>
+    <ID>lt_systemmanagement</ID>
+    <VALUE>General Settings</VALUE>
+  </item>
+  <item>
+    <ID>lt_systemsetting</ID>
+    <VALUE>System Settings</VALUE>
+  </item>
+  <item>
+    <ID>lt_propertiessetting</ID>
+    <VALUE>Attribute Settings</VALUE>
+  </item>
+  <item>
+    <ID>lt_users</ID>
+    <VALUE>User</VALUE>
+  </item>
+  <item>
+    <ID>lt_contentpage</ID>
+    <VALUE>Content page</VALUE>
+  </item>
+  <item>
+    <ID>lt_vIDeofile</ID>
+    <VALUE>File VIDeo</VALUE>
+  </item>
+  <item>
+    <ID>lt_homepagedesign</ID>
+    <VALUE>Design home page</VALUE>
+  </item>
+  <item>
+    <ID>lt_pagemanagement</ID>
+    <VALUE>Managing Pages</VALUE>
+  </item>
+  <item>
+    <ID>lt_groupcategory</ID>
+    <VALUE>Classification Group</VALUE>
+  </item>
+  <item>
+    <ID>lt_relatedcategory</ID>
+    <VALUE>Related Groups</VALUE>
+  </item>
+  <item>
+    <ID>lt_newslist</ID>
+    <VALUE>News Directory</VALUE>
+  </item>
+  <item>
+    <ID>lt_image_advs</ID>
+    <VALUE>Image - Advertisement</VALUE>
+  </item>
+  <item>
+    <ID>l_images</ID>
+    <VALUE>Image</VALUE>
+  </item>
+  <item>
+    <ID>lt_contactmanagement</ID>
+    <VALUE>Contact Management</VALUE>
+  </item>
+  <item>
+    <ID>lt_contactlist</ID>
+    <VALUE>Contacts</VALUE>
+  </item>
+  <item>
+    <ID>lt_report</ID>
+    <VALUE>Report</VALUE>
+  </item>
+  <item>
+    <ID>lt_statisticdiagram</ID>
+    <VALUE>Statistical Chart</VALUE>
+  </item>
+  <item>
+    <ID>lt_order</ID>
+    <VALUE>Order</VALUE>
+  </item>
+  <item>
+    <ID>lt_click</ID>
+    <VALUE>Click</VALUE>
+  </item>
+  <item>
+    <ID>lt_time</ID>
+    <VALUE>Time</VALUE>
+  </item>
+  <item>
+    <ID>lt_shop</ID>
+    <VALUE>Shop</VALUE>
+  </item>
+  <item>
+    <ID>lt_album</ID>
+    <VALUE>Gallery</VALUE>
+  </item>
+  <item>
+    <ID>lt_groupalbum</ID>
+    <VALUE>Image Library Group</VALUE>
+  </item>
+  <item>
+    <ID>lt_custommodules</ID>
+    <VALUE>External Features</VALUE>
+  </item>
+  <item>
+    <ID>lt_modulename</ID>
+    <VALUE>Feature name</VALUE>
+  </item>
+  <item>
+    <ID>lt_inputyouremailtogetpassword</ID>
+    <VALUE>Provide email to receive password</VALUE>
+  </item>
+  <item>
+    <ID>lt_or1</ID>
+    <VALUE>Or</VALUE>
+  </item>
+  <item>
+    <ID>lt_or2</ID>
+    <VALUE>Hay</VALUE>
+  </item>
+  <item>
+    <ID>lt_passwordwassenttoyourmail</ID>
+    <VALUE>Your password has been sent to your email</VALUE>
+  </item>
+  <item>
+    <ID>dictionary</ID>
+    <VALUE>Dictionary</VALUE>
+  </item>
+  <item>
+    <ID>lt_tools</ID>
+    <VALUE>Tools</VALUE>
+  </item>
+  <item>
+    <ID>lt_like</ID>
+    <VALUE>Same</VALUE>
+  </item>
+  <item>
+    <ID>lt_exactly</ID>
+    <VALUE>Exactly</VALUE>
+  </item>
+  <item>
+    <ID>lt_word</ID>
+    <VALUE>From</VALUE>
+  </item>
+  <item>
+    <ID>lt_meaning</ID>
+    <VALUE>Meaning</VALUE>
+  </item>
+  <item>
+    <ID>lt_addword</ID>
+    <VALUE>Add From</VALUE>
+  </item>
+  <item>
+    <ID>lt_author</ID>
+    <VALUE>Author</VALUE>
+  </item>
+  <item>
+    <ID>lt_refurl</ID>
+    <VALUE>Source Address</VALUE>
+  </item>
+  <item>
+    <ID>lt_lookup</ID>
+    <VALUE>Lookup</VALUE>
+  </item>
+  <item>
+    <ID>lt_dictguIDe</ID>
+    <VALUE>Select the search type, then provide keywords to start</VALUE>
+  </item>
+  <item>
+    <ID>lt_newsmanagement</ID>
+    <VALUE>Managing News</VALUE>
+  </item>
+  <item>
+    <ID>lt_updatemodulessuccess</ID>
+    <VALUE>Feature Update Success</VALUE>
+  </item>
+  <item>
+    <ID>lt_modules</ID>
+    <VALUE>Features</VALUE>
+  </item>
+  <item>
+    <ID>lt_buildinmodules</ID>
+    <VALUE>Built-in</VALUE>
+  </item>
+  <item>
+    <ID>lt_files</ID>
+    <VALUE>Files</VALUE>
+  </item>
+  <item>
+    <ID>lt_testonline</ID>
+    <VALUE>Tests</VALUE>
+  </item>
+  <item>
+    <ID>lt_library</ID>
+    <VALUE>Library</VALUE>
+  </item>
+  <item>
+    <ID>lt_fileslibrary</ID>
+    <VALUE>Files Library</VALUE>
+  </item>
+  <item>
+    <ID>lt_fileslist</ID>
+    <VALUE>Files list</VALUE>
+  </item>
+  <item>
+    <ID>lt_filemanagement</ID>
+    <VALUE>Managing Files</VALUE>
+  </item>
+  <item>
+    <ID>lt_doesnotexistchildcate</ID>
+    <VALUE>No branch directory exists</VALUE>
+  </item>
+  <item>
+    <ID>lt_size</ID>
+    <VALUE>Size</VALUE>
+  </item>
+  <item>
+    <ID>lt_toolsbox</ID>
+    <VALUE>Toolbox</VALUE>
+  </item>
+  <item>
+    <ID>lt_related</ID>
+    <VALUE>Related</VALUE>
+  </item>
+  <item>
+    <ID>lt_downloadfile</ID>
+    <VALUE>Download file</VALUE>
+  </item>
+  <item>
+    <ID>lt_downloadtime</ID>
+    <VALUE>Downloads</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalID_search_condition</ID>
+    <VALUE>Invalid lookup conditions</VALUE>
+  </item>
+  <item>
+    <ID>lt_pleasetryagain</ID>
+    <VALUE>Please try next</VALUE>
+  </item>
+  <item>
+    <ID>lt_VALUEwmark</ID>
+    <VALUE>Lookup Points</VALUE>
+  </item>
+  <item>
+    <ID>lt_choosecontest</ID>
+    <VALUE>Choose exam</VALUE>
+  </item>
+  <item>
+    <ID>lt_sobaodanh</ID>
+    <VALUE>Account number</VALUE>
+  </item>
+  <item>
+    <ID>lt_viewall</ID>
+    <VALUE>View all</VALUE>
+  </item>
+  <item>
+    <ID>lt_contest</ID>
+    <VALUE>Exam</VALUE>
+  </item>
+  <item>
+    <ID>lt_pupillistresult</ID>
+    <VALUE>Student Results List</VALUE>
+  </item>
+  <item>
+    <ID>lt_VALUEwyourresult</ID>
+    <VALUE>View Results</VALUE>
+  </item>
+  <item>
+    <ID>lt_memberarea</ID>
+    <VALUE>Member Area</VALUE>
+  </item>
+  <item>
+    <ID>lt_directory</ID>
+    <VALUE>Category</VALUE>
+  </item>
+  <item>
+    <ID>lt_directories</ID>
+    <VALUE>Category</VALUE>
+  </item>
+  <item>
+    <ID>lt_directorywebsite</ID>
+    <VALUE>Website Directory</VALUE>
+  </item>
+  <item>
+    <ID>lt_websitelist</ID>
+    <VALUE>List of Websites</VALUE>
+  </item>
+  <item>
+    <ID>lt_example</ID>
+    <VALUE>Example</VALUE>
+  </item>
+  <item>
+    <ID>lt_adm_mn_slmd</ID>
+    <VALUE>Select Module</VALUE>
+  </item>
+  <item>
+    <ID>l_wIDth</ID>
+    <VALUE>Width</VALUE>
+  </item>
+  <item>
+    <ID>l_height</ID>
+    <VALUE>Cao</VALUE>
+  </item>
+  <item>
+    <ID>lt_websize</ID>
+    <VALUE>Page size</VALUE>
+  </item>
+  <item>
+    <ID>lt_banner</ID>
+    <VALUE>Banner</VALUE>
+  </item>
+  <item>
+    <ID>lt_color</ID>
+    <VALUE>Colors</VALUE>
+  </item>
+  <item>
+    <ID>lt_bgcolor</ID>
+    <VALUE>Background color</VALUE>
+  </item>
+  <item>
+    <ID>lt_webbgcolor</ID>
+    <VALUE>Web background color</VALUE>
+  </item>
+  <item>
+    <ID>lt_alignment</ID>
+    <VALUE>Alignment</VALUE>
+  </item>
+  <item>
+    <ID>lt_sitealignment</ID>
+    <VALUE>Align Pages</VALUE>
+  </item>
+  <item>
+    <ID>lt_customepagemana</ID>
+    <VALUE>Administration home page</VALUE>
+  </item>
+  <item>
+    <ID>lt_templatemana</ID>
+    <VALUE>Administrative Templates Interface</VALUE>
+  </item>
+  <item>
+    <ID>lt_templatename</ID>
+    <VALUE>Interface name</VALUE>
+  </item>
+  <item>
+    <ID>lt_templateUClocaltion</ID>
+    <VALUE>UserControl file path</VALUE>
+  </item>
+  <item>
+    <ID>lt_templateimagelocation</ID>
+    <VALUE>Image Folder Path</VALUE>
+  </item>
+  <item>
+    <ID>lt_folderlocation</ID>
+    <VALUE>Folder Path</VALUE>
+  </item>
+  <item>
+    <ID>lt_hIDe</ID>
+    <VALUE>Hidden</VALUE>
+  </item>
+  <item>
+    <ID>l_enable</ID>
+    <VALUE>Activate</VALUE>
+  </item>
+  <item>
+    <ID>l_disable</ID>
+    <VALUE>Not activated</VALUE>
+  </item>
+  <item>
+    <ID>l_changeskin</ID>
+    <VALUE>Change the look</VALUE>
+  </item>
+  <item>
+    <ID>lt_adm_igcmsv3</ID>
+    <VALUE>WebSite Administration System version 3.0</VALUE>
+  </item>
+  <item>
+    <ID>lt_adm_igcmsv3managertool</ID>
+    <VALUE>V 3.0 MANAGEMENT TOOL</VALUE>
+  </item>
+  <item>
+    <ID>lt_adm_websitetitle</ID>
+    <VALUE>Site name</VALUE>
+  </item>
+  <item>
+    <ID>lt_adm_searchkeywork</ID>
+    <VALUE>Search keywords</VALUE>
+  </item>
+  <item>
+    <ID>lt_adm_visitedtime</ID>
+    <VALUE>Visitors to the site</VALUE>
+  </item>
+  <item>
+    <ID>lt_adm_hit</ID>
+    <VALUE>Hits to the site</VALUE>
+  </item>
+  <item>
+    <ID>lt_configsystem</ID>
+    <VALUE>System Configuration</VALUE>
+  </item>
+  <item>
+    <ID>lt_startmodule</ID>
+    <VALUE>First Display Module</VALUE>
+  </item>
+  <item>
+    <ID>lt_defaultlanguage</ID>
+    <VALUE>Default language</VALUE>
+  </item>
+  <item>
+    <ID>lt_pagetitle</ID>
+    <VALUE>Page Title</VALUE>
+  </item>
+  <item>
+    <ID>lt_pagetitle_intro</ID>
+    <VALUE>appears on the target of the user's browser</VALUE>
+  </item>
+  <item>
+    <ID>lt_keywebsite</ID>
+    <VALUE>Site Keywords</VALUE>
+  </item>
+  <item>
+    <ID>lt_websitedesckeyword</ID>
+    <VALUE>Description keywords</VALUE>
+  </item>
+  <item>
+    <ID>lt_keywebsite_intro</ID>
+    <VALUE>is used to support search engines, separated by commas;</VALUE>
+  </item>
+  <item>
+    <ID>lt_contentconfig</ID>
+    <VALUE>Content Configuration</VALUE>
+  </item>
+  <item>
+    <ID>lt_productconfig</ID>
+    <VALUE>ProductItem Configuration</VALUE>
+  </item>
+  <item>
+    <ID>lt_contentfooter</ID>
+    <VALUE>The content of the page under</VALUE>
+  </item>
+  <item>
+    <ID>lt_contentcontact</ID>
+    <VALUE>Content at the contact page</VALUE>
+  </item>
+  <item>
+    <ID>lt_languagemanagement</ID>
+    <VALUE>Managing languages ​​</VALUE>
+  </item>
+  <item>
+    <ID>lt_key</ID>
+    <VALUE>Keywords</VALUE>
+  </item>
+  <item>
+    <ID>lt_displaytitle</ID>
+    <VALUE>Display Title</VALUE>
+  </item>
+  <item>
+    <ID>lt_name</ID>
+    <VALUE>Name</VALUE>
+  </item>
+  <item>
+    <ID>lt_admnewlanguage</ID>
+    <VALUE>Add new language</VALUE>
+  </item>
+  <item>
+    <ID>lt_edit</ID>
+    <VALUE>Edit</VALUE>
+  </item>
+  <item>
+    <ID>lt_enable</ID>
+    <VALUE>Select Display</VALUE>
+  </item>
+  <item>
+    <ID>l_systemusermanager</ID>
+    <VALUE>Account Management System</VALUE>
+  </item>
+  <item>
+    <ID>l_assigndate</ID>
+    <VALUE>Account creation date</VALUE>
+  </item>
+  <item>
+    <ID>l_role</ID>
+    <VALUE>Powers</VALUE>
+  </item>
+  <item>
+    <ID>l_addsystemuser</ID>
+    <VALUE>Create a system account</VALUE>
+  </item>
+  <item>
+    <ID>l_mainmenumanagement</ID>
+    <VALUE>Main Menu Manager</VALUE>
+  </item>
+  <item>
+    <ID>l_topmainmenumana</ID>
+    <VALUE>Top Menu Manager</VALUE>
+  </item>
+  <item>
+    <ID>l_bottommainmenumana</ID>
+    <VALUE>Bottom Menu Management</VALUE>
+  </item>
+  <item>
+    <ID>admin_title</ID>
+    <VALUE>Title</VALUE>
+  </item>
+  <item>
+    <ID>l_status</ID>
+    <VALUE>Status</VALUE>
+  </item>
+  <item>
+    <ID>l_createnewmenu</ID>
+    <VALUE>Add New Menu</VALUE>
+  </item>
+  <item>
+    <ID>l_up</ID>
+    <VALUE>Increase</VALUE>
+  </item>
+  <item>
+    <ID>l_down</ID>
+    <VALUE>Discount</VALUE>
+  </item>
+  <item>
+    <ID>l_typeofVALUEwcontent</ID>
+    <VALUE>Content page style displayed</VALUE>
+  </item>
+  <item>
+    <ID>l_displaylistcontentpage</ID>
+    <VALUE>Display the content page category</VALUE>
+  </item>
+  <item>
+    <ID>l_displayin1page</ID>
+    <VALUE>Displays on the same page</VALUE>
+  </item>
+  <item>
+    <ID>l_displayinortherpage</ID>
+    <VALUE>Show on separate pages</VALUE>
+  </item>
+  <item>
+    <ID>l_contentmenu</ID>
+    <VALUE>Content page</VALUE>
+  </item>
+  <item>
+    <ID>l_linkmenu</ID>
+    <VALUE>Link Page</VALUE>
+  </item>
+  <item>
+    <ID>l_linkopentype</ID>
+    <VALUE>Page style</VALUE>
+  </item>
+  <item>
+    <ID>l_modulelink</ID>
+    <VALUE>Page Module</VALUE>
+  </item>
+  <item>
+    <ID>l_listpagecontent</ID>
+    <VALUE>Content Page Directory</VALUE>
+  </item>
+  <item>
+    <ID>l_createdate</ID>
+    <VALUE>Created date</VALUE>
+  </item>
+  <item>
+    <ID>l_addnewpagecontent</ID>
+    <VALUE>Add new content page</VALUE>
+  </item>
+  <item>
+    <ID>l_reporttype</ID>
+    <VALUE>Report by</VALUE>
+  </item>
+  <item>
+    <ID>l_dayreport</ID>
+    <VALUE>Report by day</VALUE>
+  </item>
+  <item>
+    <ID>l_choosemonth</ID>
+    <VALUE>Select month</VALUE>
+  </item>
+  <item>
+    <ID>l_showreport</ID>
+    <VALUE>Show reporting</VALUE>
+  </item>
+  <item>
+    <ID>l_monthreport</ID>
+    <VALUE>Monthly Report</VALUE>
+  </item>
+  <item>
+    <ID>l_chooseyear</ID>
+    <VALUE>Select year</VALUE>
+  </item>
+  <item>
+    <ID>l_yearreport</ID>
+    <VALUE>Report by year</VALUE>
+  </item>
+  <item>
+    <ID>l_commentlist</ID>
+    <VALUE>Feedback</VALUE>
+  </item>
+  <item>
+    <ID>l_groupcommet</ID>
+    <VALUE>Feedback topic group</VALUE>
+  </item>
+  <item>
+    <ID>l_groupcommetmanager</ID>
+    <VALUE>MANAGING THE SUBMISSION SUBJECT SUBSCRIPTION</VALUE>
+  </item>
+  <item>
+    <ID>l_createnew</ID>
+    <VALUE>Add new</VALUE>
+  </item>
+  <item>
+    <ID>l_back</ID>
+    <VALUE>Back</VALUE>
+  </item>
+  <item>
+    <ID>l_rootcate</ID>
+    <VALUE>Root Categories</VALUE>
+  </item>
+  <item>
+    <ID>l_showcontentmanage</ID>
+    <VALUE>Independent Display Page Manager</VALUE>
+  </item>
+  <item>
+    <ID>l_showcontentdetail</ID>
+    <VALUE>Page details displayed</VALUE>
+  </item>
+  <item>
+    <ID>l_nickchatmangate</ID>
+    <VALUE>Manage nick chat</VALUE>
+  </item>
+  <item>
+    <ID>l_nickchattype</ID>
+    <VALUE>Type chat nick</VALUE>
+  </item>
+  <item>
+    <ID>l_groupnewmanager</ID>
+    <VALUE>Newsgroup Management</VALUE>
+  </item>
+  <item>
+    <ID>l_catenewmanager</ID>
+    <VALUE>Managing newsItems</VALUE>
+  </item>
+  <item>
+    <ID>l_newlist</ID>
+    <VALUE>News List</VALUE>
+  </item>
+  <item>
+    <ID>l_groupproductmanager</ID>
+    <VALUE>Product Group Management</VALUE>
+  </item>
+  <item>
+    <ID>l_productslist</ID>
+    <VALUE>Product List</VALUE>
+  </item>
+  <item>
+    <ID>l_template</ID>
+    <VALUE>Interface management</VALUE>
+  </item>
+  <item>
+    <ID>l_orderformmanager</ID>
+    <VALUE>Order Management</VALUE>
+  </item>
+  <item>
+    <ID>l_setting</ID>
+    <VALUE>Configuration</VALUE>
+  </item>
+  <item>
+    <ID>l_advertisingpossion</ID>
+    <VALUE>Ad position</VALUE>
+  </item>
+  <item>
+    <ID>l_advertisinglist</ID>
+    <VALUE>Ad List</VALUE>
+  </item>
+  <item>
+    <ID>l_advertisingpossionmanagement</ID>
+    <VALUE>Manage ad position</VALUE>
+  </item>
+  <item>
+    <ID>l_loadtype</ID>
+    <VALUE>Obtain images by</VALUE>
+  </item>
+  <item>
+    <ID>l_template_title</ID>
+    <VALUE>Interface name</VALUE>
+  </item>
+  <item>
+    <ID>l_numofdisplayedimages</ID>
+    <VALUE>Number of images displayed</VALUE>
+  </item>
+  <item>
+    <ID>l_possion</ID>
+    <VALUE>Location</VALUE>
+  </item>
+  <item>
+    <ID>l_showintop3</ID>
+    <VALUE>Show top 3</VALUE>
+  </item>
+  <item>
+    <ID>l_showSub_Menuathomepage</ID>
+    <VALUE>Show submenu</VALUE>
+  </item>
+  <item>
+    <ID>l_moneyrate</ID>
+    <VALUE>Currency</VALUE>
+  </item>
+  <item>
+    <ID>l_rateofexchange</ID>
+    <VALUE>Relative to copper</VALUE>
+  </item>
+  <item>
+    <ID>l_itemperpageproduct</ID>
+    <VALUE>Number of products per line (category page)</VALUE>
+  </item>
+  <item>
+    <ID>l_datesend</ID>
+    <VALUE>Posted date</VALUE>
+  </item>
+  <item>
+    <ID>l_orderform</ID>
+    <VALUE>Order</VALUE>
+  </item>
+  <item>
+    <ID>l_viewdetail</ID>
+    <VALUE>View Details</VALUE>
+  </item>
+  <item>
+    <ID>l_iviews</ID>
+    <VALUE>Views</VALUE>
+  </item>
+  <item>
+    <ID>l_oldprice</ID>
+    <VALUE>Old Price</VALUE>
+  </item>
+  <item>
+    <ID>l_curentprice</ID>
+    <VALUE>Current Price</VALUE>
+  </item>
+  <item>
+    <ID>l_productcontent</ID>
+    <VALUE>Product Information</VALUE>
+  </item>
+  <item>
+    <ID>l_productdesc</ID>
+    <VALUE>Product Description</VALUE>
+  </item>
+  <item>
+    <ID>l_producttitle</ID>
+    <VALUE>Product Name</VALUE>
+  </item>
+  <item>
+    <ID>l_productID</ID>
+    <VALUE>Product Code</VALUE>
+  </item>
+  <item>
+    <ID>l_productcategories</ID>
+    <VALUE>Product Classification</VALUE>
+  </item>
+  <item>
+    <ID>l_productgroups</ID>
+    <VALUE>Product Group</VALUE>
+  </item>
+  <item>
+    <ID>l_image</ID>
+    <VALUE>Image</VALUE>
+  </item>
+  <item>
+    <ID>l_description</ID>
+    <VALUE>Description</VALUE>
+  </item>
+  <item>
+    <ID>l_option</ID>
+    <VALUE>Options</VALUE>
+  </item>
+  <item>
+    <ID>lt_emotionscate</ID>
+    <VALUE>Group Icon</VALUE>
+  </item>
+  <item>
+    <ID>lt_emotionsitem</ID>
+    <VALUE>Icon</VALUE>
+  </item>
+  <item>
+    <ID>l_emoticons</ID>
+    <VALUE>Emotion Icon</VALUE>
+  </item>
+  <item>
+    <ID>lEmotion_Management</ID>
+    <VALUE>Manage icon groups</VALUE>
+  </item>
+  <item>
+    <ID>l_newitemsshow</ID>
+    <VALUE>Display Number</VALUE>
+  </item>
+  <item>
+    <ID>l_displaytype</ID>
+    <VALUE>Display Type</VALUE>
+  </item>
+  <item>
+    <ID>l_topnewshomepage</ID>
+    <VALUE>Top news outside home page</VALUE>
+  </item>
+  <item>
+    <ID>l_rightnews</ID>
+    <VALUE>Right of the news page</VALUE>
+  </item>
+  <item>
+    <ID>l_leftnews</ID>
+    <VALUE>Left side of the news page</VALUE>
+  </item>
+  <item>
+    <ID>l_imagetitledesc</ID>
+    <VALUE>Image, title, description</VALUE>
+  </item>
+  <item>
+    <ID>l_imagetitle</ID>
+    <VALUE>Image, title</VALUE>
+  </item>
+  <item>
+    <ID>l_titledesc</ID>
+    <VALUE>Title, description</VALUE>
+  </item>
+  <item>
+    <ID>l_show</ID>
+    <VALUE>Show</VALUE>
+  </item>
+  <item>
+    <ID>l_category</ID>
+    <VALUE>Subdivision</VALUE>
+  </item>
+  <item>
+    <ID>l_newslistmanagement</ID>
+    <VALUE>Manage Newsletters</VALUE>
+  </item>
+  <item>
+    <ID>l_hotnews</ID>
+    <VALUE>Full page news</VALUE>
+  </item>
+  <item>
+    <ID>l_enablecomment</ID>
+    <VALUE>Allow comment</VALUE>
+  </item>
+  <item>
+    <ID>l_updatecratedate</ID>
+    <VALUE>Updated post date</VALUE>
+  </item>
+  <item>
+    <ID>l_displayincate</ID>
+    <VALUE>Displayed on the Category</VALUE> page
+  </item>
+  <item>
+    <ID>l_displayinindnex</ID>
+    <VALUE>Displayed on the Index</VALUE>
+  </item>
+  <item>
+    <ID>l_iteminpage</ID>
+    <VALUE>Number ofItems on the page</VALUE>
+  </item>
+  <item>
+    <ID>l_iteminrow</ID>
+    <VALUE>Number ofItems per line</VALUE>
+  </item>
+  <item>
+    <ID>l_orthersetting</ID>
+    <VALUE>Other configurations</VALUE>
+  </item>
+  <item>
+    <ID>l_itemsinsamecate</ID>
+    <VALUE>Number of Same Category</VALUE>
+  </item>
+  <item>
+    <ID>l_itemsshowsearchinpage</ID>
+    <VALUE>Search Sections</VALUE>
+  </item>
+  <item>
+    <ID>l_unchecked</ID>
+    <VALUE>Not approved</VALUE>
+  </item>
+  <item>
+    <ID>l_checked</ID>
+    <VALUE>Approved</VALUE>
+  </item>
+  <item>
+    <ID>l_prdnews</ID>
+    <VALUE>New Product</VALUE>
+  </item>
+  <item>
+    <ID>l_prdselloff</ID>
+    <VALUE>Discount</VALUE>
+  </item>
+  <item>
+    <ID>l_prdbestsell</ID>
+    <VALUE>Best Sellers</VALUE>
+  </item>
+  <item>
+    <ID>l_prdsale</ID>
+    <VALUE>Promotional Products</VALUE>
+  </item>
+  <item>
+    <ID>l_orderdetail</ID>
+    <VALUE>LETTER OF DETAILS</VALUE>
+  </item>
+  <item>
+    <ID>l_tomoney</ID>
+    <VALUE>Sum money</VALUE>
+  </item>
+  <item>
+    <ID>l_closewindow</ID>
+    <VALUE>Close window</VALUE>
+  </item>
+  <item>
+    <ID>l_0pxshowtruesizeimage</ID>
+    <VALUE>To 0 px will display the actual size of the image</VALUE>
+  </item>
+  <item>
+    <ID>l_topproductincate</ID>
+    <VALUE>Top display products by cate</VALUE>
+  </item>
+  <item>
+    <ID>l_productshows</ID>
+    <VALUE>Number of products</VALUE>
+  </item>
+  <item>
+    <ID>l_topprodnewhotsale</ID>
+    <VALUE>Top News, Hots, Sales</VALUE>
+  </item>
+  <item>
+    <ID>l_imagesize</ID>
+    <VALUE>Image size</VALUE>
+  </item>
+  <item>
+    <ID>l_enableodthercart</ID>
+    <VALUE>Activate the cart</VALUE>
+  </item>
+  <item>
+    <ID>l_forumcategoriesmanager</ID>
+    <VALUE>Manage Forum Categories</VALUE>
+  </item>
+  <item>
+    <ID>l_numofdown</ID>
+    <VALUE>Downloads</VALUE>
+  </item>
+  <item>
+    <ID>l_capacity</ID>
+    <VALUE>Capacity</VALUE>
+  </item>
+  <item>
+    <ID>l_showinhomepage</ID>
+    <VALUE>Show on Home</VALUE>
+  </item>
+  <item>
+    <ID>l_filesincate</ID>
+    <VALUE>Number of files attached to group</VALUE>
+  </item>
+  <item>
+    <ID>l_filesinpage</ID>
+    <VALUE>Number of files per page</VALUE>
+  </item>
+  <item>
+    <ID>l_filesshowsearchinpage</ID>
+    <VALUE>Search Files</VALUE>
+  </item>
+  <item>
+    <ID>l_numofimgperpage</ID>
+    <VALUE>Number of images displayed per page</VALUE>
+  </item>
+  <item>
+    <ID>l_votecate</ID>
+    <VALUE>Assessment Team</VALUE>
+  </item>
+  <item>
+    <ID>l_voteitems</ID>
+    <VALUE>Review List</VALUE>
+  </item>
+  <item>
+    <ID>l_enddate</ID>
+    <VALUE>End date</VALUE>
+  </item>
+  <item>
+    <ID>l_numofvote</ID>
+    <VALUE>Vote</VALUE>
+  </item>
+  <item>
+    <ID>l_ID</ID>
+    <VALUE>Code</VALUE>
+  </item>
+  <item>
+    <ID>l_representationsID</ID>
+    <VALUE>Wildcard</VALUE>
+  </item>
+  <item>
+    <ID>l_default</ID>
+    <VALUE>Default</VALUE>
+  </item>
+  <item>
+    <ID>l_createadv</ID>
+    <VALUE>Create a new billboard</VALUE>
+  </item>
+  <item>
+    <ID>l_advtype</ID>
+    <VALUE>Ad Type</VALUE>
+  </item>
+  <item>
+    <ID>l_openpagetype</ID>
+    <VALUE>How to open the page</VALUE>
+  </item>
+  <item>
+    <ID>l_openinthispage</ID>
+    <VALUE>Open in current page</VALUE>
+  </item>
+  <item>
+    <ID>l_openinnewpage</ID>
+    <VALUE>Open a new page</VALUE>
+  </item>
+  <item>
+    <ID>l_showtitle-text</ID>
+    <VALUE>Display Title (-Text)</VALUE>
+  </item>
+  <item>
+    <ID>l_feedbackcomments</ID>
+    <VALUE>Feedback, suggestions</VALUE>
+  </item>
+  <item>
+    <ID>l_sender</ID>
+    <VALUE>Sender</VALUE>
+  </item>
+  <item>
+    <ID>l_managermember</ID>
+    <VALUE>Managing Members</VALUE>
+  </item>
+  <item>
+    <ID>l_locked</ID>
+    <VALUE>Locked</VALUE>
+  </item>
+  <item>
+    <ID>l_joindate</ID>
+    <VALUE>Date of Visit</VALUE>
+  </item>
+  <item>
+    <ID>l_account</ID>
+    <VALUE>Account</VALUE>
+  </item>
+  <item>
+    <ID>l_colorlist</ID>
+    <VALUE>Color List</VALUE>
+  </item>
+  <item>
+    <ID>l_colormember</ID>
+    <VALUE>Color Members</VALUE>
+  </item>
+  <item>
+    <ID>l_descendent</ID>
+    <VALUE>Descending</VALUE>
+  </item>
+  <item>
+    <ID>l_increasing</ID>
+    <VALUE>Ascending</VALUE>
+  </item>
+  <item>
+    <ID>l_timejoin</ID>
+    <VALUE>Registration time</VALUE>
+  </item>
+  <item>
+    <ID>l_lastjoin</ID>
+    <VALUE>Last login</VALUE>
+  </item>
+  <item>
+    <ID>l_voteting</ID>
+    <VALUE>Voters</VALUE>
+  </item>
+  <item>
+    <ID>l_reseults</ID>
+    <VALUE>Results</VALUE>
+  </item>
+  <item>
+    <ID>l_supportonline</ID>
+    <VALUE>Online Support</VALUE>
+  </item>
+  <item>
+    <ID>l_sendcomment</ID>
+    <VALUE>Send comments</VALUE>
+  </item>
+  <item>
+    <ID>l_redo</ID>
+    <VALUE>Redo</VALUE>
+  </item>
+  <item>
+    <ID>l_sendcomments</ID>
+    <VALUE>Send feedback</VALUE>
+  </item>
+  <item>
+    <ID>l_sendforfriend</ID>
+    <VALUE>Send to friends</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalIDcontent</ID>
+    <VALUE>Invalid content</VALUE>
+  </item>
+  <item>
+    <ID>lt_invalIDsendername</ID>
+    <VALUE>The sender name is invalid</VALUE>
+  </item>
+  <item>
+    <ID>l_leftprods</ID>
+    <VALUE>Left side of product page</VALUE>
+  </item>
+  <item>
+    <ID>l_youmustchosevotes</ID>
+    <VALUE>You need to select comments!</VALUE>
+  </item>
+  <item>
+    <ID>l_thankforvote</ID>
+    <VALUE>Thanks for choosing comments!</VALUE>
+  </item>
+  <item>
+    <ID>l_have</ID>
+    <VALUE>Yes</VALUE>
+  </item>
+  <item>
+    <ID>l_samevotewithyou</ID>
+    <VALUE>people with your opinion</VALUE>
+  </item>
+  <item>
+    <ID>l_voteproduct</ID>
+    <VALUE>Comments</VALUE>
+  </item>
+  <item>
+    <ID>l_rate</ID>
+    <VALUE>Rating</VALUE>
+  </item>
+  <item>
+    <ID>l_leftcontent</ID>
+    <VALUE>Left of content page</VALUE>
+  </item>
+  <item>
+    <ID>l_rightcontent</ID>
+    <VALUE>Right side of content page</VALUE>
+  </item>
+  <item>
+    <ID>l_error</ID>
+    <VALUE>Sorry, there was an error in the page</VALUE>
+  </item>
+  <item>
+    <ID>l_notfount</ID>
+    <VALUE>Path not found</VALUE>
+  </item>
+  <item>
+    <ID>l_orderVALUEs</ID>
+    <VALUE>OrderVALUE</VALUE>
+  </item>
+  <item>
+    <ID>l_process</ID>
+    <VALUE>Process</VALUE>
+  </item>
+  <item>
+    <ID>l_prdhot</ID>
+    <VALUE>Special Products</VALUE>
+  </item>
+  <item>
+    <ID>l_topnews</ID>
+    <VALUE>Hot News</VALUE>
+  </item>
+  <item>
+    <ID>l_commonvote</ID>
+    <VALUE>Votes</VALUE>
+  </item>
+  <item>
+    <ID>l_disable_not</ID>
+    <VALUE>Not enabled</VALUE>
+  </item>
+  <item>
+    <ID>l_screen_setting</ID>
+    <VALUE>Configure interface</VALUE>
+  </item>
+  <item>
+    <ID>l_linked_site</ID>
+    <VALUE>Link to website</VALUE>
+  </item>
+  <item>
+    <ID>l_vIDeomusic</ID>
+    <VALUE>Rich Media</VALUE>
+  </item>
+  <item>
+    <ID>l_indexcontent</ID>
+    <VALUE>Homepage content</VALUE>
+  </item>
+  <item>
+    <ID>l_displaysettings</ID>
+    <VALUE>Display Configuration</VALUE>
+  </item>
+  <item>
+    <ID>l_newshomedisplaystyle</ID>
+    <VALUE>News homepage display style</VALUE>
+  </item>
+  <item>
+    <ID>l_producthomedisplaystyle</ID>
+    <VALUE>Product home page display style</VALUE>
+  </item>
+  <item>
+    <ID>lt_in</ID>
+    <VALUE>in</VALUE>
+  </item>
+  <item>
+    <ID>lt_to</ID>
+    <VALUE>to</VALUE>
+  </item>
+  <item>
+    <ID>l_viewbytime</ID>
+    <VALUE>View by time</VALUE>
+  </item>
+  <item>
+    <ID>l_faq</ID>
+    <VALUE>Frequently Asked Questions</VALUE>
+  </item>
+  <item>
+    <ID>l_articleslibrary</ID>
+    <VALUE>Article library</VALUE>
+  </item>
+  <item>
+    <ID>l_suggestionmanagementcategory</ID>
+    <VALUE>Managing contact groups</VALUE>
+  </item>
+  <item>
+    <ID>l_suggestionmanagement</ID>
+    <VALUE>Contact Management</VALUE>
+  </item>
+  <item>
+    <ID>l_rating</ID>
+    <VALUE>Rate</VALUE>
+  </item>
+  <item>
+    <ID>lt_singer</ID>
+    <VALUE>Singer</VALUE>
+  </item>
+  <item>
+    <ID>lt_present</ID>
+    <VALUE>Presentations</VALUE>
+  </item>
+  <item>
+    <ID>lt_position</ID>
+    <VALUE>Location</VALUE>
+  </item>
+  <item>
+    <ID>Ig_com_functionsmanagement</ID>
+    <VALUE>Application Features Management</VALUE>
+  </item>
+  <item>
+    <ID>Ig_com_functioncode</ID>
+    <VALUE>Feature Code</VALUE>
+  </item>
+  <item>
+    <ID>lt_membersanalytics</ID>
+    <VALUE>Member Stats</VALUE>
+  </item>
+  <item>
+    <ID>lt_membergroups</ID>
+    <VALUE>Membership Group</VALUE>
+  </item>
+  <item>
+    <ID>l_newest</ID>
+    <VALUE>Last</VALUE>
+  </item>
+  <item>
+    <ID>l_in24hpast</ID>
+    <VALUE>24 hours ago</VALUE>
+  </item>
+  <item>
+    <ID>l_prv24hpast</ID>
+    <VALUE>before 24 hours</VALUE>
+  </item>
+  <item>
+    <ID>l_versions</ID>
+    <VALUE>Version</VALUE>
+  </item>
+  <item>
+    <ID>l_cssclass</ID>
+    <VALUE>CSS Class</VALUE>
+  </item>
+  <item>
+    <ID>l_showincategories</ID>
+    <VALUE>Displayed in (group) group</VALUE>
+  </item>
+  <item>
+    <ID>l_commentoptions</ID>
+    <VALUE>Feedback options</VALUE>
+  </item>
+  <item>
+    <ID>l_commentoptionscheck</ID>
+    <VALUE>Browse feedback before displaying</VALUE>
+  </item>
+  <item>
+    <ID>l_commentoptionsnotcheck</ID>
+    <VALUE>Displays feedback without browsing</VALUE>
+  </item>
+  <item>
+    <ID>l_restrictedaccess</ID>
+    <VALUE>Access Limits</VALUE>
+  </item>
+  <item>
+    <ID>l_siteconnects</ID>
+    <VALUE>Connect the website</VALUE>
+  </item>
+  <item>
+    <ID>l_siteconnectsettings</ID>
+    <VALUE>Install SiteConnect service</VALUE>
+  </item>
+  <item>
+    <ID>l_enablesendmailwhengetsuggestion</ID>
+    <VALUE>Automatically send mail when connected</VALUE>
+  </item>
+  <item>
+    <ID>l_suggestionsendcontacttoemail</ID>
+    <VALUE>Send email contact</VALUE>
+  </item>
+  <item>
+    <ID>l_customers</ID>
+    <VALUE>Customer</VALUE>
+  </item>
+  <item>
+    <ID>l_customerslist</ID>
+    <VALUE>Customer List</VALUE>
+  </item>
+  <item>
+    <ID>scrolltop</ID>
+    <VALUE>Go to the top</VALUE>
+  </item>
+  <item>
+    <ID>ltotherart</ID>
+    <VALUE>More Articles</VALUE>
+  </item>
+  <item>
+    <ID>lt_hotarticles</ID>
+    <VALUE>Featured article</VALUE>
+  </item>
+  <item>
+    <ID>lt_newarticles</ID>
+    <VALUE>New post</VALUE>
+  </item>
+  <item>
+    <ID>lt_catearticles</ID>
+    <VALUE>Article Directory</VALUE>
+  </item>
+  <item>
+    <ID>lt_faqcate</ID>
+    <VALUE>Question Category</VALUE>
+  </item>
+  <item>
+    <ID>lt_lasted</ID>
+    <VALUE>Last</VALUE>
+  </item>
+  <item>
+    <ID>lt_mostdown</ID>
+    <VALUE>Most downloaded</VALUE>
+  </item>
+  <item>
+    <ID>lt_catedown</ID>
+    <VALUE>Download Categories</VALUE>
+  </item>
+  <item>
+    <ID>lt_openall</ID>
+    <VALUE>Open all</VALUE>
+  </item>
+  <item>
+    <ID>lt_closeall</ID>
+    <VALUE>Close all socks</VALUE>
+  </item>
+  <item>
+    <ID>lt_updatenws</ID>
+    <VALUE>New Updates</VALUE>
+  </item>
+  <item>
+    <ID>lt_postednws</ID>
+    <VALUE>Published articles</VALUE>
+  </item>
+  <item>
+    <ID>l_newnews</ID>
+    <VALUE>What's New</VALUE>
+  </item>
+  <item>
+    <ID>lt_newscate</ID>
+    <VALUE>News Directory</VALUE>
+  </item>
+  <item>
+    <ID>lt_procate</ID>
+    <VALUE>Product catalog</VALUE>
+  </item>
+  <item>
+    <ID>lt_relatedpro</ID>
+    <VALUE>Related Products</VALUE>
+  </item>
+  <item>
+    <ID>lt_pricesearch</ID>
+    <VALUE>Search by price</VALUE>
+  </item>
+  <item>
+    <ID>lt_othervIDeo</ID>
+    <VALUE>Other Works</VALUE>
+  </item>
+  <item>
+    <ID>lt_newmul</ID>
+    <VALUE>New Multimedia</VALUE>
+  </item>
+  <item>
+    <ID>lt_vIDeocate</ID>
+    <VALUE>Media Categories</VALUE>
+  </item>
+  <item>
+    <ID>lt_singerlist</ID>
+    <VALUE>Artist List</VALUE>
+  </item>
+  <item>
+    <ID>lt_visitor</ID>
+    <VALUE>Access Statistics</VALUE>
+  </item>
+  <item>
+    <ID>lt_weather</ID>
+    <VALUE>Weather information</VALUE>
+  </item>
+  <item>
+    <ID>lt_song</ID>
+    <VALUE>Song</VALUE>
+  </item>
+  <item>
+    <ID>lt_tructuyen</ID>
+    <VALUE>Online</VALUE>
+  </item>
+  <item>
+    <ID>lt_tongsotruycap</ID>
+    <VALUE>Total Visits</VALUE>
+  </item>
+  <item>
+    <ID>lt_tongsohit</ID>
+    <VALUE>Total Hits</VALUE>
+  </item>
+  <item>
+    <ID>lt_ucusmdl</ID>
+    <VALUE>User-built features</VALUE>
+  </item>
+  <item>
+    <ID>l_membership</ID>
+    <VALUE>Members</VALUE>
+  </item>
+  <item>
+    <ID>l_ordermember</ID>
+    <VALUE>Request membership</VALUE>
+  </item>
+  <item>
+    <ID>l_order</ID>
+    <VALUE>Order</VALUE>
+  </item>
+  <item>
+    <ID>l_checkout</ID>
+    <VALUE>Payment Order</VALUE>
+  </item>
+  <item>
+    <ID>l_ultiaddon</ID>
+    <VALUE>Application</VALUE>
+  </item>
+  <item>
+    <ID>l_singerlist</ID>
+    <VALUE>Singer List</VALUE>
+  </item>
+  <item>
+    <ID>l_co</ID>
+    <VALUE>Yes</VALUE>
+  </item>
+  <item>
+    <ID>l_votesame</ID>
+    <VALUE>vote similar</VALUE>
+  </item>
+  <item>
+    <ID>I_huongdanbaiviet</ID>
+    <VALUE>Article guide</VALUE>
+  </item>
+  <item>
+    <ID>I_Information_AboutUs</ID>
+    <VALUE>Information - Introduction</VALUE>
+  </item>
+  <item>
+    <ID>I_Information_Services</ID>
+    <VALUE>Information - Services</VALUE>
+  </item>
+  <item>
+    <ID>I_Ad_Management</ID>
+    <VALUE>Image - Advertisement</VALUE>
+  </item>
+  <item>
+    <ID>I_Information_news</ID>
+    <VALUE>Information - News</VALUE>
+  </item>
+  <item>
+    <ID>I_Utilities</ID>
+    <VALUE>Utilities</VALUE>
+  </item>
+  <item>
+    <ID>AboutUs</ID>
+    <VALUE>Introduction</VALUE>
+  </item>
+  <item>
+    <ID>Services</ID>
+    <VALUE>Services</VALUE>
+  </item>
+  <item>
+    <ID>I_dulieuchuadccapnhat</ID>
+    <VALUE>Data not yet updated</VALUE>
+  </item>
+  <item>
+    <ID>l_produc_Canceled_order</ID>
+    <VALUE>
+      Order canceled!
+      Thank you for using the service.
+    </VALUE>
+  </item>
+  <item>
+    <ID>l_produc_Order_successful</ID>
+    <VALUE>
+      Order Success !.
+      Thank you for choosing and using the product.
+      We will contact you through the information provided
+    </VALUE>
+  </item>
+  <item>
+    <ID>l_produc_Orders_exist</ID>
+    <VALUE>
+      This order does not exist !.
+      Thank you for using the service.
+    </VALUE>
+  </item>
+  <item>
+    <ID>l_produc_our_place</ID>
+    <VALUE>
+      Thank you to place your order!
+      Your order has been archived and processed within 24 hours.
+    </VALUE>
+  </item>
+  <item>
+    <ID>Not_empty_cart</ID>
+    <VALUE>
+      There are no shopping carts
+    </VALUE>
+  </item>
+  <item>
+    <ID>Giohang</ID>
+    <VALUE>Shopping Cart</VALUE>
+  </item>
+  <item>
+    <ID>lienhe2</ID>
+    <VALUE>All inquiries, please send us an email, thank you!</VALUE>
+  </item>
+  <item>
+    <ID>nowcapnhat</ID>
+    <VALUE>Updated date</VALUE>
+  </item>
+  <item>
+    <ID>cactintieptheo</ID>
+    <VALUE>The next</VALUE>
+  </item>
+  <item>
+    <ID>cactintruoc</ID>
+    <VALUE>Previous articles</VALUE>
+  </item>
+  <item>
+    <ID>Sua</ID>
+    <VALUE>Fix</VALUE>
+  </item>
+  <item>
+    <ID>tieptucmuahang</ID>
+    <VALUE>Continue to purchase</VALUE>
+  </item>
+  <item>
+    <ID>datdonhang</ID>
+    <VALUE>Order</VALUE>
+  </item>
+  <item>
+    <ID>Buy</ID>
+    <VALUE>Buy</VALUE>
+  </item>
+  <item>
+    <ID>Themvaogiohang</ID>
+    <VALUE>Add to Cart</VALUE>
+  </item>
+  <item>
+    <ID>Timkiemsanpham</ID>
+    <VALUE>Search for products</VALUE>
+  </item>
+  <item>
+    <ID>celebrity</ID>
+    <VALUE>Category</VALUE>
+  </item>
+  <item>
+    <ID>mucgia</ID>
+    <VALUE>Rates</VALUE>
+  </item>
+  <item>
+    <ID>heart</ID>
+    <VALUE>Find</VALUE>
+  </item>
+  <item>
+    <ID>gui</ID>
+    <VALUE>Submit</VALUE>
+  </item>
+  <item>
+    <ID>danhmucspham</ID>
+    <VALUE>Product catalog</VALUE>
+  </item>
+  <item>
+    <ID>HotProducts</ID>
+    <VALUE>Featured Products</VALUE>
+  </item>
+  <item>
+    <ID>l_produc_contact_information</ID>
+    <VALUE>Please enter your contact information to process your order!</VALUE>
+  </item>
+  <item>
+    <ID>Thank_you_roducts</ID>
+    <VALUE>Thank you for choosing our products</VALUE>
+  </item>
+  <item>
+    <ID>lt_updatepass</ID>
+    <VALUE>Password update</VALUE>
+  </item>
+  <item>
+    <ID>loitrang</ID>
+    <VALUE>Page Not Found Error</VALUE>
+  </item>
+  <item>
+    <ID>giaiphap</ID>
+    <VALUE>Solutions</VALUE>
+  </item>
+  <item>
+    <ID>dangkythanhvien</ID>
+    <VALUE>Register</VALUE>
+  </item>
+  <item>
+    <ID>ttthanhvien</ID>
+    <VALUE>Member Information</VALUE>
+  </item>
+  <item>
+    <ID>capthanhvien</ID>
+    <VALUE>Update information</VALUE>
+  </item>
+  <item>
+    <ID>change</ID>
+    <VALUE>Change Password</VALUE>
+  </item>
+  <item>
+    <ID>chitiet</ID>
+    <VALUE>Details</VALUE>
+  </item>
+  <item>
+    <ID>quick preview</ID>
+    <VALUE>Quick View</VALUE>
+  </item>
+  <item>
+    <ID>hdmuahang</ID>
+    <VALUE>INSTRUCTIONS FOR PURCHASING</VALUE>
+  </item>
+  <item>
+    <ID>hdthanhtoan</ID>
+    <VALUE>PAYMENT GUIDELINES</VALUE>
+  </item>
+  <item>
+    <ID>pththanhtoan</ID>
+    <VALUE>TRANSPORTATION METHOD</VALUE>
+  </item>
+  <item>
+    <ID>xinchao</ID>
+    <VALUE>Hello</VALUE>
+  </item>
+  <item>
+    <ID>downloads</ID>
+    <VALUE>Download Library</VALUE>
+  </item>
+  <item>
+    <ID>dangkytin</ID>
+    <VALUE>Sign up for free newsletters or consultations</VALUE>
+  </item>
+  <item>
+    <ID>Emailcb</ID>
+    <VALUE>Your Email</VALUE>
+  </item>
+  <item>
+    <ID>Emailtb</ID>
+    <VALUE>Please enter a valid email</VALUE>
+  </item>
+  <item>
+    <ID>ketnoicht</ID>
+    <VALUE>Connect with us</VALUE>
+  </item>
+  <item>
+    <ID>emailtt</ID>
+    <VALUE>This email already exists in the system</VALUE>
+  </item>
+  <item>
+    <ID>barcontemail</ID>
+    <VALUE>Successful Email Newsletter</VALUE>
+  </item>
+  <item>
+    <ID>Timtheotag</ID>
+    <VALUE>Search by tag</VALUE>
+  </item>
+  <item>
+    <ID>page</ID>
+    <VALUE>First page</VALUE>
+  </item>
+  <item>
+    <ID>trangcuoi</ID>
+    <VALUE>Last page</VALUE>
+  </item>
+  <item>
+    <ID>cannang</ID>
+    <VALUE>Weight</VALUE>
+  </item>
+  <item>
+    <ID>Niemyet</ID>
+    <VALUE>Price of NY</VALUE>
+  </item>
+  <item>
+    <ID>sanphamcungloai</ID>
+    <VALUE>Products of the same type</VALUE>
+  </item>
+  <item>
+    <ID>themvaogh</ID>
+    <VALUE>Added product to cart</VALUE>
+  </item>
+  <item>
+    <ID>Dongian</ID>
+    <VALUE>Unit price</VALUE>
+  </item>
+  <item>
+    <ID>Donvinh</ID>
+    <VALUE>Unit</VALUE>
+  </item>
+  <item>
+    <ID>ghichu</ID>
+    <VALUE>Note</VALUE>
+  </item>
+  <item>
+    <ID>phivchuyen</ID>
+    <VALUE>Not including shipping fee</VALUE>
+  </item>
+  <item>
+    <ID>ttkhachhang</ID>
+    <VALUE>Customer Information</VALUE>
+  </item>
+  <item>
+    <ID>tthanhpho</ID>
+    <VALUE>Province / City</VALUE>
+  </item>
+  <item>
+    <ID>Arounduyen</ID>
+    <VALUE>District / District</VALUE>
+  </item>
+  <item>
+    <ID>sochinh</ID>
+    <VALUE>Primary</VALUE>
+  </item>
+  <item>
+    <ID>sochinhdp</ID>
+    <VALUE>Backup Number</VALUE>
+  </item>
+  <item>
+    <ID>phthanhtoan</ID>
+    <VALUE>Payment and shipping method</VALUE>
+  </item>
+  <item>
+    <ID>tt1</ID>
+    <VALUE>In-store payment</VALUE>
+  </item>
+  <item>
+    <ID>tt2</ID>
+    <VALUE>COD payment</VALUE>
+  </item>
+  <item>
+    <ID>tt3</ID>
+    <VALUE>Payment via bank</VALUE>
+  </item>
+  <item>
+    <ID>tt4</ID>
+    <VALUE>View bank account information</VALUE>
+  </item>
+  <item>
+    <ID>tt5</ID>
+    <VALUE>Transaction Account</VALUE>
+  </item>
+  <item>
+    <ID>tt6</ID>
+    <VALUE>Form of transportation</VALUE>
+  </item>
+  <item>
+    <ID>tt7</ID>
+    <VALUE>Delivery in store</VALUE>
+  </item>
+  <item>
+    <ID>tt8</ID>
+    <VALUE>Courier</VALUE>
+  </item>
+  <item>
+    <ID>tt9</ID>
+    <VALUE>See Shipping Policy</VALUE>
+  </item>
+  <item>
+    <ID>tt10</ID>
+    <VALUE>Freight units designated by the customer</VALUE>
+  </item>
+  <item>
+    <ID>tt11</ID>
+    <VALUE>After packing, the goods will be transported to your designated transport unit (Passenger cars, trucks, buses ...)</VALUE>
+  </item>
+  <item>
+    <ID>tt12</ID>
+    <VALUE>Please enter shipping unit information in the box below</VALUE>
+  </item>
+  <item>
+    <ID>huydathang</ID>
+    <VALUE>Cancel order</VALUE>
+  </item>
+  <item>
+    <ID>muahtem</ID>
+    <VALUE>Continue to buy</VALUE>
+  </item>
+  <item>
+    <ID>chontp</ID>
+    <VALUE>Select a province / city</VALUE>
+  </item>
+  <item>
+    <ID>chonqh</ID>
+    <VALUE>Select a district</VALUE>
+  </item>
+  <item>
+    <ID>gh1</ID>
+    <VALUE>Show cart without product</VALUE>
+  </item>
+  <item>
+    <ID>gh2</ID>
+    <VALUE>Minimum orderVALUE is greater than 100,000</VALUE>
+  </item>
+  <item>
+    <ID>ttdh2</ID>
+    <VALUE>You must enter the address</VALUE>
+  </item>
+  <item>
+    <ID>ttdh3</ID>
+    <VALUE>You must enter the contact phone number</VALUE>
+  </item>
+  <item>
+    <ID>ttdh4</ID>
+    <VALUE>You must enter your email address</VALUE>
+  </item>
+  <item>
+    <ID>ttdh5</ID>
+    <VALUE>Valid email address</VALUE>
+  </item>
+  <item>
+    <ID>ttdh1</ID>
+    <VALUE>You must enter a name</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien1</ID>
+    <VALUE>Forgot Password</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien2</ID>
+    <VALUE>Enter email address</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien3</ID>
+    <VALUE>Please enter a valid email address</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien4</ID>
+    <VALUE>Email can not be left blank</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien5</ID>
+    <VALUE>Get Password</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien6</ID>
+    <VALUE>Successful registration</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien7</ID>
+    <VALUE>You may use your registration information to use the features of our website.</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien8</ID>
+    <VALUE>Username must not be empty</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien9</ID>
+    <VALUE>Password can not be left blank</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien10</ID>
+    <VALUE>Full name can not be left blank</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien11</ID>
+    <VALUE>Cell number may not be left blank</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien12</ID>
+    <VALUE>Phone number must be</VALUE>
+  </item>
+  <item>
+    <ID>thanhvien13</ID>
+    <VALUE>Address can not be empty</VALUE>
+  </item>
+  <item>
+    <ID>login1</ID>
+    <VALUE>Account login</VALUE>
+  </item>
+  <item>
+    <ID>login2</ID>
+    <VALUE>Create new account</VALUE>
+  </item>
+  <item>
+    <ID>login3</ID>
+    <VALUE>Forgot Password</VALUE>
+  </item>
+  <item>
+    <ID>login4</ID>
+    <VALUE>The username or password is incorrect</VALUE>
+  </item>
+  <item>
+    <ID>login5</ID>
+    <VALUE>Account is not login or locked</VALUE>
+  </item>
+  <item>
+    <ID>login6</ID>
+    <VALUE>Updating member information</VALUE>
+  </item>
+  <item>
+    <ID>login7</ID>
+    <VALUE>Save information</VALUE>
+  </item>
+  <item>
+    <ID>dangxuly</ID>
+    <VALUE>Processing</VALUE>
+  </item>
+  <item>
+    <ID>tim</ID>
+    <VALUE>search</VALUE>
+  </item>
+  <Item>
+     <ID>With </ID>
+     <VALUE>Not found </VALUE>
+   </Item>
+   <Item>
+     <ID>T1 </ID>
+     <VALUE>in any document </VALUE>
+   </Item>
+   <Item>
+     <ID>T2 </ID>
+     <VALUE>Recommendations </VALUE>
+   </Item>
+   <Item>
+     <ID>T3 </ID>
+     <VALUE>Please make sure all words are spelled </VALUE>
+   </Item>
+   <Item>
+     <ID>T4 </ID>
+     <VALUE>Try different keywords </VALUE>
+   </Item>
+   <Item>
+     <ID>T5 </ID>
+     <VALUE>Try more general keywords </VALUE>
+   </Item>
+  <item>
+    <ID>Giohangt1</ID>
+    <VALUE>You will pay at the shop after purchase</VALUE>
+  </item>
+  <item>
+    <ID>Giohangt2</ID>
+    <VALUE>The item will be sent to the guest address. You receive and pay directly to the delivery staff</VALUE>
+  </item>
+  <item>
+    <ID>Giohangt3</ID>
+    <VALUE>You will be paid via bank transfer to our account numbers.</VALUE>
+  </item>
+ <item>
+    <ID>trongluong</ID>
+    <VALUE>Weight</VALUE>
+  </item>
+  <Item>
+     <ID>trongluong1</ID>
+     <VALUE> Total weight </VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann1</ID>
+     <VALUE> In-store Billing and Delivery </VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann2</ID>
+     <VALUE> Free </VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann3</ID>
+     <VALUE> Bank payment and delivery via courier </VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann4</ID>
+     <VALUE> COD - Receive and pay the delivery staff </VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann5</ID>
+     <VALUE> Quick change:</VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann6</ID>
+     <VALUE> Delay:</VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann7</ID>
+     <VALUE> Quickly:</VALUE>
+   </Item>
+   <Item>
+     <ID>Thanhtoann8</ID>
+     <VALUE> Move:</VALUE>
+   </Item>
+  <item>
+    <ID>phaithanhtoan</ID>
+    <VALUE>Total amount to be paid</VALUE>
+  </item>
+  <item>
+    <ID>phaithanhtoan1</ID>
+    <VALUE>Money + Shipping</VALUE>
+  </item>
+  <item>
+    <ID>Tbrgam</ID>
+    <VALUE>Đơn hàng không được quá 5000 Gram</VALUE>
+  </item>
+    <item>
+    <ID>Giatrikhong</ID>
+    <VALUE>Dữ liệu đang được cập nhật, vui lòng liên hệ trực tiếp</VALUE>
+  </item>
+</template>

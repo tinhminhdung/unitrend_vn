@@ -1,0 +1,48 @@
+﻿/*btn*/
+.btn
+{
+    background: url('../Uploads/pic/web/button/btn.png');
+    width: 96px;
+    height: 49px;
+    color: White;
+    font-size: 12px;
+    font-weight: bold;
+    border: 0;
+}
+span.c3d9ff-top1, span.c3d9ff-top1 span
+{
+    font-size: 1px;
+    line-height: 1px;
+    display: block;
+    height: 4px;
+}
+span.c3d9ff-top1
+{
+    background: url('../Uploads/pic/web/rc/c3d9ff_4.png') no-repeat 0 0;
+}
+span.c3d9ff-top1 span
+{
+    background-color: #c3d9ff;
+    width: 100%;
+    margin-left: 4px;
+}
+
+.commonvotehr .title
+{
+    padding: 2px 5px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 14px;
+}
+.cvote-content
+{
+    padding: 0 2px;
+    border-left: solid 4px #c3d9ff;
+    border-right: solid 4px #c3d9ff;
+}
+.cvote-content div
+{
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-top: 5px;
+}

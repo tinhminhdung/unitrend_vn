@@ -1,0 +1,347 @@
+﻿.Mobile{ display:none}
+.Destop{ display:block}
+@media screen and (min-width:768px) and (max-width:1024px)
+{
+.timkiem{display:none!important}
+.giohang{display:none!important}
+.container {width: 100%!important;}
+.hidden-md {display: block!important;}
+.header-content-right .col-md-2{display:none!important}
+.header-content-right .col-md-7{width: 100%!important;}
+.header-search {float: left;width: 83%!important;}
+}
+
+@media screen and (min-width:640px) and (max-width:767px)
+{
+}
+@media screen and (min-width:480px) and (max-width:639px)
+{
+/*.blog-item div.row div.col-md-8.col-sm-8.col-xs-8{width:100% !important;}
+.blog-item div.row div.col-md-4.col-sm-4.col-xs-4{width:100% !important;}*/
+.product-home-content .col-sm-3 {width: 50%!important;}
+.prod_text {float: none;width: 100%;}
+.prod-price .price{float: none;width: 100%;}
+.prod-price .compare-price{float: none;width: 100%;}
+.sp-thumbs a:link, .sp-thumbs a:visited{ width:64px!important}
+
+}
+@media screen and (min-width:1px) and (max-width:479px)
+{
+.blog-item div.row div.col-md-8.col-sm-8.col-xs-8{width:100% !important;}
+.blog-item div.row div.col-md-4.col-sm-4.col-xs-4{width:100% !important;}
+.prod_text {float: none;width: 100%;}
+.prod-price .price{float: none;width: 100%;}
+.prod-price .compare-price{float: none;width: 100%;}
+.sp-thumbs a:link, .sp-thumbs a:visited{ width:61px!important}
+footer.footer div.footer-content div.container div.row div.col-lg-3.col-md-6.col-sm-6.col-xs-6{ width:100%}
+}
+@media screen and (min-width:1px) and (max-width:1024px) {
+    img {
+        border: medium none;
+        height: auto;
+        line-height: normal;
+        margin: 0;
+        max-width: 100%;
+        padding: 0;
+        vertical-align: middle;
+        width: auto;
+        transition: all 0.2s ease-in;
+    }
+
+    body {
+        width: 100%;
+    }
+
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    #divAdvLeft {
+        display: none
+    }
+
+    #divAdvRight {
+        display: none
+    }
+
+    .guithongntin table tr td input {
+        width: 275px !important;
+        border: 1px solid #d7d7d7;
+        border-radius: 3px;
+        height: 20px
+    }
+
+    .guithongntin table tr td textarea {
+        width: 275px !important;
+        border: 1px solid #d7d7d7;
+        border-radius: 3px;
+    }
+
+    .An {
+        display: none
+    }
+
+    .Hien {
+        display: block
+    }
+
+    #divAdvLeft {
+        display: none
+    }
+
+    #divAdvRight {
+        display: none
+    }
+
+    .News-content {
+        margin: 0;
+        width: 100%;
+    }
+
+        .News-content div {
+            width: 100% !important;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .News-content p {
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+
+        .News-content table tbody {
+            width: 100% !important;
+        }
+
+        .News-content table tr {
+            width: 100% !important;
+        }
+
+            .News-content table tr td {
+                width: 100%;
+            }
+
+                .News-content table tr td img {
+                    width: 98% !important;
+                }
+
+        .News-content img {
+            margin: 0px;
+            padding: 0px;
+            height: auto !important;
+            width: 100% !important
+        }
+
+        .News-content p img {
+            margin: 0px;
+            padding: 0px;
+            height: auto !important;
+            width: 100% !important
+        }
+
+        .News-content p embed {
+            width: 100% !important;
+        }
+
+        .News-content p iframe {
+            width: 100% !important;
+        }
+
+        .News-content p object {
+            width: 100% !important;
+        }
+
+        .News-content embed {
+            width: 100% !important;
+        }
+
+        .News-content iframe {
+            width: 100% !important;
+        }
+
+        .News-content object {
+            width: 100% !important;
+        }
+
+        .News-content table tr td embed {
+            width: 100% !important;
+        }
+
+        .News-content table tr td iframe {
+            width: 100% !important;
+        }
+
+        .News-content table tr td object {
+            width: 100% !important;
+        }
+
+    .Mobile {
+        display: block
+    }
+
+    .Destop {
+        display: none
+    }
+
+    .biz-qv-button-wrap {
+        display: none !important
+    }
+
+        .biz-qv-button-wrap a.popup.biz-qv-button {
+            display: none !important
+        }
+
+    .best-seller-title h3 a {
+        font-size: 15px;
+        padding: 0 0px
+    }
+
+    .header-top-right {
+        color: #fff;
+        height: auto;
+        text-align: left;
+    }
+
+    .product-item img {
+        padding: 0;
+    }
+
+    .footer-info iframe {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .blog-new.block {
+        margin-top: 3px;
+    }
+
+    .bacoc {
+        float: left;
+        margin-right: 10px;
+        width: 100%
+    }
+
+    .thanhtoanp {
+        color: Red;
+        font-weight: bold;
+        padding-left: 10px;
+        font-size: 17px;
+        text-align: right;
+        float: left;
+        margin-right: 0px;
+        margin-top: 13px;
+    }
+
+    .thanhtoan1 {
+        margin-left: 0px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .noidungtimkiem {
+        text-align: left;
+        width: 100%;
+        margin: auto;
+        line-height: 24px;
+        padding: 10px
+    }
+
+    .fomyeucau {
+        display: block;
+        border: 1px solid #00502f;
+        float: left;
+        padding: 10px;
+        background: #f4f5ee
+    }
+
+    .yeucauinn {
+        border: 1px solid #a4b5ae;
+        background: #f3f3f3;
+        margin-bottom: 13px;
+        padding-right: 0 !important
+    }
+
+    .KK {
+        padding: 0 !important
+    }
+
+    .KK1 {
+        margin-right: 0px !important
+    }
+
+    .KK2 {
+        margin-left: 0px !important
+    }
+
+    .yeucaaa {
+        padding: 20px;
+        text-align: center;
+        font-size: 22px;
+        font-weight: 700
+    }
+
+    .yeucauName {
+        font-size: 14px;
+        font-weight: 700;
+        padding-top: 4px
+    }
+
+    .noidungtimkiem input {
+        width: 100%;
+        height: 32px;
+        border: none;
+        padding-left: 0px
+    }
+
+    .chung {
+        width: 100% !important
+    }
+
+    .TextBoxs {
+        padding-right: 0 !important
+    }
+
+    .file-upload, .file-upload span {
+        width: 100%;
+        margin-right: 10px;
+    }
+
+    .product-info .col-md-6 {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .giabancang {
+        padding-top: 0px !important;
+    }
+
+    .chitietsp .modal-overlay {
+        top: -172px;
+    }
+    .chitietsp .modal-left img {
+        max-width: 90%;
+        height: auto !important;
+    }
+    .chitietssossanh .comparison {
+        padding: 0px !important;
+        position: relative;
+    }
+    .specifications th, .specifications td {
+        width: 100% !important;
+    }
+    .Mobile {
+        display: none
+    }
+    .footer-info h3 {
+        font-size: 14px;
+    }
+
+    .footer-info strong {
+        font-size: 14px;
+    }
+}
+
+
+
+

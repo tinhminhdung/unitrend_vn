@@ -1,0 +1,2866 @@
+<?xml version="1.0" standalone="yes"?>
+<template>
+<item>
+<ID>lt_membership</ID>
+<VALUE>Danh mục hội viên</VALUE>
+</item>
+<item>
+<ID>l_home</ID>
+<VALUE>Trang chủ</VALUE>
+</item>
+<item>
+<ID>lt_relatednews</ID>
+<VALUE>Bài viết liên quan</VALUE>
+</item>
+<item>
+<ID>l_contact</ID>
+<VALUE>Liên hệ</VALUE>
+</item>
+<item>
+<ID>l_search</ID>
+<VALUE>Tìm kiếm</VALUE>
+</item>
+<item>
+<ID>l_sitemap</ID>
+<VALUE>Sơ đồ</VALUE>
+</item>
+<item>
+<ID>l_productprices</ID>
+<VALUE>Quản lý khoảng giá</VALUE>
+</item>
+<item>
+<ID>l_configtemplates</ID>
+<VALUE>Cấu hình giao diện</VALUE>
+</item>
+<item>
+<ID>l_articles</ID>
+<VALUE>Thư viện bài viết</VALUE>
+</item>
+<item>
+<ID>l_lnkweb</ID>
+<VALUE>Liên kết website</VALUE>
+</item>
+<item>
+<ID>l_faqm</ID>
+<VALUE>Hỏi đáp</VALUE>
+</item>
+<item>
+<ID>l_gotop</ID>
+<VALUE>Về đầu trang</VALUE>
+</item>
+<item>
+<ID>l_gotosite</ID>
+<VALUE>Chuyển đến trang</VALUE>
+</item>
+<item>
+<ID>l_website</ID>
+<VALUE>Trang web</VALUE>
+</item>
+<item>
+<ID>l_language</ID>
+<VALUE>Ngôn ngữ</VALUE>
+</item>
+<item>
+<ID>l_in</ID>
+<VALUE>Trong</VALUE>
+</item>
+<item>
+<ID>l_systemusers</ID>
+<VALUE>Tài khoản hệ thống</VALUE>
+</item>
+<item>
+<ID>l_welcome</ID>
+<VALUE>Chào mừng</VALUE>
+</item>
+<item>
+<ID>l_news</ID>
+<VALUE>Tin tức</VALUE>
+</item>
+<item>
+<ID>l_firstpage</ID>
+<VALUE>Trang chủ tin tức</VALUE>
+</item>
+<item>
+<ID>l_intro</ID>
+<VALUE>Công nghệ thông tin đang phát triển mạnh mẽ, bạn đã thấy cơ hội thành đạt nhờ CNTT? nhiều người nói với chúng tôi "Cuộc sống bắt đầu tại NIIT". Mọi nhu cầu của bạn NIIT đều có thể thỏa mãn. [break]Và nếu bạn có quan tâm đến việc làm, du học hay những lợi ích được cung cấp tại NIIT. Hãy nhớ bạn được nhiều đến làm nhiều người cảm thấy bất công . </VALUE>
+</item>
+<item>
+<ID>l_copyright</ID>
+<VALUE>Bản quyền thuộc về [item]</VALUE>
+</item>
+<item>
+<ID>l_devpby</ID>
+<VALUE>Phát triển bởi [item]</VALUE>
+</item>
+<item>
+<ID>l_bestview</ID>
+<VALUE>Hiển thị tốt nhất với kích thước màn hình [item]</VALUE>
+</item>
+<item>
+<ID>l_help</ID>
+<VALUE>Giúp đỡ</VALUE>
+</item>
+<item>
+<ID>l_view</ID>
+<VALUE>Xem</VALUE>
+</item>
+<item>
+<ID>l_alls</ID>
+<VALUE>Tất cả các mục</VALUE>
+</item>
+<item>
+<ID>lt_url</ID>
+<VALUE>Liên kết</VALUE>
+</item>
+<item>
+<ID>l_staticcontact</ID>
+<VALUE>Vui lòng liên hệ với chúng tôi theo địa chỉ:</VALUE>
+</item>
+<item>
+<ID>l_name</ID>
+<VALUE>Họ và tên</VALUE>
+</item>
+<item>
+<ID>l_email</ID>
+<VALUE>Thư điện tử</VALUE>
+</item>
+<item>
+<ID>l_address</ID>
+<VALUE>Địa chỉ</VALUE>
+</item>
+<item>
+<ID>l_phone</ID>
+<VALUE>Điện thoại</VALUE>
+</item>
+<item>
+<ID>l_mobile</ID>
+<VALUE>Điện thoại di động</VALUE>
+</item>
+<item>
+<ID>l_title</ID>
+<VALUE>Tiêu đề</VALUE>
+</item>
+<item>
+<ID>l_content</ID>
+<VALUE>Nội dung</VALUE>
+</item>
+<item>
+<ID>l_send</ID>
+<VALUE>Gởi</VALUE>
+</item>
+<item>
+<ID>l_poweredby</ID>
+<VALUE>Được viết bởi</VALUE>
+</item>
+<item>
+<ID>l_cancel</ID>
+<VALUE>Huỷ bỏ</VALUE>
+</item>
+<item>
+<ID>l_contactalert</ID>
+<VALUE>Bạn chỉ có thể gởi sau [minute]</VALUE>
+</item>
+<item>
+<ID>l_checkdata</ID>
+<VALUE>Vui lòng kiểm tra dữ liệu nhập</VALUE>
+</item>
+<item>
+<ID>l_checkuserpass</ID>
+<VALUE>Vui lòng kiểm tra tên đăng nhập hoặc mật khẩu</VALUE>
+</item>
+<item>
+<ID>l_postsucess</ID>
+<VALUE>Gởi thành công, chúng tôi sẽ sớm trả lời bạn</VALUE>
+</item>
+<item>
+<ID>l_continue</ID>
+<VALUE>Tiếp tục</VALUE>
+</item>
+<item>
+<ID>l_dontwanttoappear</ID>
+<VALUE>Không muốn xuất hiện nữa</VALUE>
+</item>
+<item>
+<ID>l_members</ID>
+<VALUE>Thành viên</VALUE>
+</item>
+<item>
+<ID>l_choose</ID>
+<VALUE>Chọn</VALUE>
+</item>
+<item>
+<ID>l_insert</ID>
+<VALUE>Thêm vào</VALUE>
+</item>
+<item>
+<ID>l_update</ID>
+<VALUE>Cập nhật</VALUE>
+</item>
+<item>
+<ID>l_close</ID>
+<VALUE>Đóng</VALUE>
+</item>
+<item>
+<ID>l_print</ID>
+<VALUE>In</VALUE>
+</item>
+<item>
+<ID>l_mainmenu</ID>
+<VALUE>Menu chính</VALUE>
+</item>
+<item>
+<ID>l_keyword</ID>
+<VALUE>Từ khóa</VALUE>
+</item>
+<item>
+<ID>l_search_found</ID>
+<VALUE>Chúng tôi tìm thấy [founditems] kết quả với từ khoá của bạn</VALUE>
+</item>
+<item>
+<ID>l_today</ID>
+<VALUE> Hôm nay</VALUE>
+</item>
+<item>
+<ID>l_news_homepage</ID>
+<VALUE> Trang Chính</VALUE>
+</item>
+<item>
+<ID>l_news_news</ID>
+<VALUE>Thông tin - Tin tức</VALUE>
+</item>
+<item>
+<ID>l_news_event</ID>
+<VALUE> Tin tức và sự kiện</VALUE>
+</item>
+<item>
+<ID>l_news_othernews</ID>
+<VALUE> Các tin khác</VALUE>
+</item>
+<item>
+<ID>l_news_topnews</ID>
+<VALUE>Bài mới</VALUE>
+</item>
+<item>
+<ID>l_news_topreadnews</ID>
+<VALUE>Tâm điểm</VALUE>
+</item>
+<item>
+<ID>l_News_Relatednews</ID>
+<VALUE>Tin liên quan</VALUE>
+</item>
+<item>
+<ID>lemail_sendemailsucessfully</ID>
+<VALUE>Mail của bạn đã được gởi thành công</VALUE>
+</item>
+<item>
+<ID>lemail_to</ID>
+<VALUE>Gởi đến</VALUE>
+</item>
+<item>
+<ID>lemail_sendmail</ID>
+<VALUE>Gởi Mail</VALUE>
+</item>
+<item>
+<ID>ltopsearchkeyword</ID>
+<VALUE>Từ khóa tìm nhiều nhất</VALUE>
+</item>
+<item>
+<ID>lstatistic</ID>
+<VALUE>Thống Kê</VALUE>
+</item>
+<item>
+<ID>lt_visitors</ID>
+<VALUE>Truy Cập</VALUE>
+</item>
+<item>
+<ID>lbrowsecategory</ID>
+<VALUE>Danh mục phân loại</VALUE>
+</item>
+<item>
+<ID>lt_categorymanagement</ID>
+<VALUE>Quản trị phân loại</VALUE>
+</item>
+<item>
+<ID>ladvancesearch</ID>
+<VALUE>Tìm nâng cao</VALUE>
+</item>
+<item>
+<ID>lviewnext</ID>
+<VALUE>Xem tiếp</VALUE>
+</item>
+<item>
+<ID>lnext</ID>
+<VALUE>Sau</VALUE>
+</item>
+<item>
+<ID>lprevious</ID>
+<VALUE>Trước</VALUE>
+</item>
+<item>
+<ID>lcategory</ID>
+<VALUE>Phân loại</VALUE>
+</item>
+<item>
+<ID>lobject</ID>
+<VALUE>Đối tượng</VALUE>
+</item>
+<item>
+<ID>lproducts</ID>
+<VALUE>Sản phẩm</VALUE>
+</item>
+<item>
+<ID>lproductsincart</ID>
+<VALUE>Sản phẩm trong giỏ hàng</VALUE>
+</item>
+<item>
+<ID>lt_cartbox</ID>
+<VALUE>Giỏ hàng của bạn</VALUE>
+</item>
+<item>
+<ID>ltotalvalue</ID>
+<VALUE>Tổng giá trị</VALUE>
+</item>
+<item>
+<ID>lbrand</ID>
+<VALUE>Thương hiệu</VALUE>
+</item>
+<item>
+<ID>lprice</ID>
+<VALUE>Giá</VALUE>
+</item>
+<item>
+<ID>lnewprice</ID>
+<VALUE>Giá mới</VALUE>
+</item>
+<item>
+<ID>loldprice</ID>
+<VALUE>Giá cũ</VALUE>
+</item>
+<item>
+<ID>lquantity</ID>
+<VALUE>Số lượng</VALUE>
+</item>
+<item>
+<ID>ltotal</ID>
+<VALUE>Tổng cộng</VALUE>
+</item>
+<item>
+<ID>ldeleteselectedproduct</ID>
+<VALUE>Xóa sản phẩm này?</VALUE>
+</item>
+<item>
+<ID>lshoppingcancel</ID>
+<VALUE>Hủy bỏ giỏ hàng?</VALUE>
+</item>
+<item>
+<ID>lupdate</ID>
+<VALUE>Cập nhật</VALUE>
+</item>
+<item>
+<ID>ldelete</ID>
+<VALUE>Xóa</VALUE>
+</item>
+<item>
+<ID>lt_utilities</ID>
+<VALUE>Tiện ích</VALUE>
+</item>
+<item>
+<ID>lt_exchangerate</ID>
+<VALUE>Tỷ giá ngoại tệ</VALUE>
+</item>
+<item>
+<ID>lt_onlinestock</ID>
+<VALUE>Chứng khoán Online</VALUE>
+</item>
+<item>
+<ID>l_fastsiteadditemtopanel</ID>
+<VALUE>Chèn bài viết vào Nhóm bài viết</VALUE>
+</item>
+<item>
+<ID>l_fastsiteadditemtorelatedgroup</ID>
+<VALUE>Chèn bài viết vào Danh mục bài viết liên quan</VALUE>
+</item>
+<item>
+<ID>answers_answerlist</ID>
+<VALUE>Thành viên trả lời</VALUE>
+</item>
+<item>
+<ID>answers_answernoanswers</ID>
+<VALUE>Chưa có trả lời cho câu hỏi này</VALUE>
+</item>
+<item>
+<ID>answers_title</ID>
+<VALUE>Tiêu đề</VALUE>
+</item>
+<item>
+<ID>answers_content</ID>
+<VALUE>Nội dung</VALUE>
+</item>
+<item>
+<ID>answers_postquestion</ID>
+<VALUE>Đăng Câu hỏi</VALUE>
+</item>
+<item>
+<ID>answers_postanswer</ID>
+<VALUE>Đăng Trả lời</VALUE>
+</item>
+<item>
+<ID>answers_editquestion</ID>
+<VALUE>Hiệu chỉnh Câu hỏi</VALUE>
+</item>
+<item>
+<ID>answers_editanswer</ID>
+<VALUE>Hiệu chỉnh Trả lời</VALUE>
+</item>
+<item>
+<ID>answers_savequestion</ID>
+<VALUE>Lưu Câu hỏi</VALUE>
+</item>
+<item>
+<ID>answers_saveanswer</ID>
+<VALUE>Lưu Trả lời</VALUE>
+</item>
+<item>
+<ID>answers_notlogin</ID>
+<VALUE>Vui lòng đăng nhập để sử dụng dịch vụ!</VALUE>
+</item>
+<item>
+<ID>answers_notvaliditem</ID>
+<VALUE>Không tồn tại mục này!</VALUE>
+</item>
+<item>
+<ID>answers_notrole</ID>
+<VALUE>Bạn chưa được phân quyền để truy cập vùng này! Vui lòng liên hệ Quản trị để có thêm thông tin!</VALUE>
+</item>
+<item>
+<ID>answers_postsucess</ID>
+<VALUE>Đăng thành công!</VALUE>
+</item>
+<item>
+<ID>answers_updatesucess</ID>
+<VALUE>Cập nhật thành công!</VALUE>
+</item>
+<item>
+<ID>answers_gobackcategory</ID>
+<VALUE>Trở lại Phân mục!</VALUE>
+</item>
+<item>
+<ID>answers_gobackquestion</ID>
+<VALUE>Trở lại Câu hỏi!</VALUE>
+</item>
+<item>
+<ID>answers_answerthisquestion</ID>
+<VALUE>Trả lời Câu hỏi này!</VALUE>
+</item>
+<item>
+<ID>answers_resean</ID>
+<VALUE>Lý do!</VALUE>
+</item>
+<item>
+<ID>answers_computerworry</ID>
+<VALUE>Bạn cần chia sẻ!!</VALUE>
+</item>
+<item>
+<ID>answers_starthere</ID>
+<VALUE>Bắt đầu tại đây!</VALUE>
+</item>
+<item>
+<ID>answers_checkflood</ID>
+<VALUE>Trong 1 phút bản chỉ có thể đăng 1 bài viết bất kỳ</VALUE>
+</item>
+<item>
+<ID>answers_homeanswer</ID>
+<VALUE>Trang chủ Q và A</VALUE>
+</item>
+<item>
+<ID>answers_newquestions</ID>
+<VALUE>Những câu hỏi mới nhất</VALUE>
+</item>
+<item>
+<ID>answers_qa</ID>
+<VALUE>Q&amp;A</VALUE>
+</item>
+<item>
+<ID>answers_move</ID>
+<VALUE>Di chuyển</VALUE>
+</item>
+<item>
+<ID>answers_movequestion</ID>
+<VALUE>Di chuyển câu hỏi</VALUE>
+</item>
+<item>
+<ID>answers_movetocategory</ID>
+<VALUE>Di chuyển đến chuyên mục</VALUE>
+</item>
+<item>
+<ID>answers_youareat</ID>
+<VALUE>Bạn đang ở tại</VALUE>
+</item>
+<item>
+<ID>l_login</ID>
+<VALUE>Đăng nhập</VALUE>
+</item>
+<item>
+<ID>l_register</ID>
+<VALUE>Đăng ký</VALUE>
+</item>
+<item>
+<ID>l_username</ID>
+<VALUE>Tên đăng nhập</VALUE>
+</item>
+<item>
+<ID>lt_member_detail</ID>
+<VALUE>Thông tin chi tiết Thành Viên</VALUE>
+</item>
+<item>
+<ID>lt_requiredinfo</ID>
+<VALUE>Thông tin yêu cầu</VALUE>
+</item>
+<item>
+<ID>lt_fullname</ID>
+<VALUE>Họ và Tên</VALUE>
+</item>
+<item>
+<ID>lt_lastname</ID>
+<VALUE>Họ</VALUE>
+</item>
+<item>
+<ID>lt_firstname</ID>
+<VALUE>Tên</VALUE>
+</item>
+<item>
+<ID>lt_membername</ID>
+<VALUE>Tên thành viên</VALUE>
+</item>
+<item>
+<ID>lt_checkid</ID>
+<VALUE>Kiểm tra ID</VALUE>
+</item>
+<item>
+<ID>lt_password</ID>
+<VALUE>Mật khẩu</VALUE>
+</item>
+<item>
+<ID>lt_checkpassword</ID>
+<VALUE>Xác nhận mật khẩu</VALUE>
+</item>
+<item>
+<ID>lt_securityquestion</ID>
+<VALUE>Câu hỏi bảo mật</VALUE>
+</item>
+<item>
+<ID>lt_securityanswer</ID>
+<VALUE>Trả lời bảo mật</VALUE>
+</item>
+<item>
+<ID>lt_gender</ID>
+<VALUE>Giới tính</VALUE>
+</item>
+<item>
+<ID>lt_birthday</ID>
+<VALUE>Ngày sinh</VALUE>
+</item>
+<item>
+<ID>lt_day</ID>
+<VALUE>Ngày</VALUE>
+</item>
+<item>
+<ID>lt_securitycode</ID>
+<VALUE>Mã số bảo mật</VALUE>
+</item>
+<item>
+<ID>lt_month</ID>
+<VALUE>Tháng</VALUE>
+</item>
+<item>
+<ID>lt_year</ID>
+<VALUE>Năm</VALUE>
+</item>
+<item>
+<ID>lt_checkemail</ID>
+<VALUE>Xác nhận Email</VALUE>
+</item>
+<item>
+<ID>lt_yourknowusfrom</ID>
+<VALUE>Bạn biết [] từ</VALUE>
+</item>
+<item>
+<ID>lt_agreetoregister</ID>
+<VALUE>Đồng ý trở thành Thành Viên của chúng tôi</VALUE>
+</item>
+<item>
+<ID>lt_completeinstall</ID>
+<VALUE>Hoàn tất đăng ký</VALUE>
+</item>
+<item>
+<ID>lt_completeregister</ID>
+<VALUE>Hoàn tất đăng ký</VALUE>
+</item>
+<item>
+<ID>lt_male</ID>
+<VALUE>Nam</VALUE>
+</item>
+<item>
+<ID>lt_female</ID>
+<VALUE>Nữ</VALUE>
+</item>
+<item>
+<ID>lt_checkyourusername</ID>
+<VALUE>Vui lòng kiểm tra tên thành viên</VALUE>
+</item>
+<item>
+<ID>lt_thisusernamenotavailable</ID>
+<VALUE>Tên thành viên này đã được sử dụng</VALUE>
+</item>
+<item>
+<ID>lt_validusername</ID>
+<VALUE>Tên thành viên hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_invalidpassword</ID>
+<VALUE>Mật khẩu không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_invalidfullname</ID>
+<VALUE>Họ và tên không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_youmustchoosesecurityquestion</ID>
+<VALUE>Bạn phải chọn một câu hỏi bảo mật</VALUE>
+</item>
+<item>
+<ID>lt_invalidbirthday</ID>
+<VALUE>Ngày sinh không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_invalidemail</ID>
+<VALUE>Email không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_invalidcheckemail</ID>
+<VALUE>Email xác nhận không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_invalidsecuritycode</ID>
+<VALUE>Mã số bảo mật không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_usernaemguide</ID>
+<VALUE>Gợi ý tên thành viên</VALUE>
+</item>
+<item>
+<ID>lt_length</ID>
+<VALUE>Độ rộng</VALUE>
+</item>
+<item>
+<ID>lt_characters</ID>
+<VALUE>Ký Tự</VALUE>
+</item>
+<item>
+<ID>lt_nospace</ID>
+<VALUE>không có khoảng trắng</VALUE>
+</item>
+<item>
+<ID>lt_notdisplay</ID>
+<VALUE>không hiển thị</VALUE>
+</item>
+<item>
+<ID>lt_changepassword</ID>
+<VALUE>Đổi mật khẩu</VALUE>
+</item>
+<item>
+<ID>lt_Whenyouforgetpasswordweusethisanswertohelpyouregetpassword</ID>
+<VALUE>Khi bạn quên mật khẩu, câu hỏi này sẽ giúp bạn nhận lại mật khẩu</VALUE>
+</item>
+<item>
+<ID>lt_remembermeonthiscomputer</ID>
+<VALUE>Nhớ tài khoản tôi trên máy này</VALUE>
+</item>
+<item>
+<ID>lt_guest</ID>
+<VALUE>Khách hàng</VALUE>
+</item>
+<item>
+<ID>lt_invalidemailorpassword</ID>
+<VALUE>Không đúng tên thành viên hoặc mật khẩu</VALUE>
+</item>
+<item>
+<ID>lt_userinformation</ID>
+<VALUE>Thông tin người dùng</VALUE>
+</item>
+<item>
+<ID>lt_commonformation</ID>
+<VALUE>Thông tin chung</VALUE>
+</item>
+<item>
+<ID>lt_privateinformation</ID>
+<VALUE>Thông tin cá nhân</VALUE>
+</item>
+<item>
+<ID>lt_contactinformation</ID>
+<VALUE>Thông tin liên hệ</VALUE>
+</item>
+<item>
+<ID>lt_avatar</ID>
+<VALUE>Biểu tượng</VALUE>
+</item>
+<item>
+<ID>lt_deleteavatar</ID>
+<VALUE>Xóa biểu tượng</VALUE>
+</item>
+<item>
+<ID>lt_signature</ID>
+<VALUE>Chữ ký</VALUE>
+</item>
+<item>
+<ID>lt_joindate</ID>
+<VALUE>Ngày tham gia</VALUE>
+</item>
+<item>
+<ID>lt_lastvisited</ID>
+<VALUE>Lần cuối đăng nhập</VALUE>
+</item>
+<item>
+<ID>lt_changeinformation</ID>
+<VALUE>Thay đổi thông tin</VALUE>
+</item>
+<item>
+<ID>lt_changeinfor_easy</ID>
+<VALUE>Thay đổi mật khẩu. Vui lòng nhập tên thành viên</VALUE>
+</item>
+<item>
+<ID>lt_nextstep</ID>
+<VALUE>Bước kế tiếp</VALUE>
+</item>
+<item>
+<ID>lt_updatenewpassword</ID>
+<VALUE>Cập nhật mật khẩu mới</VALUE>
+</item>
+<item>
+<ID>lt_oldpassword</ID>
+<VALUE>Mật khẩu cũ</VALUE>
+</item>
+<item>
+<ID>lt_newpassword</ID>
+<VALUE>Mật khẩu mới</VALUE>
+</item>
+<item>
+<ID>lt_again</ID>
+<VALUE>lần nữa</VALUE>
+</item>
+<item>
+<ID>lt_finish</ID>
+<VALUE>Kết thúc</VALUE>
+</item>
+<item>
+<ID>lt_updatesucessfull</ID>
+<VALUE>Cập nhật thành công</VALUE>
+</item>
+<item>
+<ID>lt_maximize</ID>
+<VALUE>To</VALUE>
+</item>
+<item>
+<ID>lt_checkyourpassword</ID>
+<VALUE>Kiểm tra lại mật khẩu của bạn</VALUE>
+</item>
+<item>
+<ID>lt_display</ID>
+<VALUE>Hiển thị</VALUE>
+</item>
+<item>
+<ID>lt_access</ID>
+<VALUE>Truy cập</VALUE>
+</item>
+<item>
+<ID>lt_authentication</ID>
+<VALUE>Quyền</VALUE>
+</item>
+<item>
+<ID>lt_authentication1</ID>
+<VALUE>Phân quyền</VALUE>
+</item>
+<item>
+<ID>lt_checking</ID>
+<VALUE>Kiểm tra</VALUE>
+</item>
+<item>
+<ID>lt_checkingaccessauthentication</ID>
+<VALUE>Kiểm tra quyền truy cập</VALUE>
+</item>
+<item>
+<ID>lt_goback</ID>
+<VALUE>Trở về</VALUE>
+</item>
+<item>
+<ID>lt_regetpassword</ID>
+<VALUE>Nhận lại mật khẩu</VALUE>
+</item>
+<item>
+<ID>lt_inputusername</ID>
+<VALUE>Nhập tên thành viên</VALUE>
+</item>
+<item>
+<ID>lt_securityinformation</ID>
+<VALUE>Thông tin bảo mật</VALUE>
+</item>
+<item>
+<ID>lt_youmustdeleteallitemsinthiscategoryfirst</ID>
+<VALUE>Xóa thông tin trong phân mục này trước khi muốn xóa nó!</VALUE>
+</item>
+<item>
+<ID>lt_youmustdeleteallitemsinthiscategoryfirstproduct</ID>
+<VALUE>Xóa sản phẩm trong danh mục này trước khi muốn xóa nó!</VALUE>
+</item>
+<item>
+<ID>lt_managementtools</ID>
+<VALUE>Công cụ quản lý</VALUE>
+</item>
+<item>
+<ID>lt_management</ID>
+<VALUE>Quản lý</VALUE>
+</item>
+<item>
+<ID>lt_exit</ID>
+<VALUE>Thoát</VALUE>
+</item>
+<item>
+<ID>lt_systemmanagement</ID>
+<VALUE>Cài đặt chung</VALUE>
+</item>
+<item>
+<ID>lt_systemsetting</ID>
+<VALUE>Cài đặt hệ thống</VALUE>
+</item>
+<item>
+<ID>lt_propertiessetting</ID>
+<VALUE>Cài đặt thuộc tính</VALUE>
+</item>
+<item>
+<ID>lt_users</ID>
+<VALUE>Người dùng</VALUE>
+</item>
+<item>
+<ID>lt_contentpage</ID>
+<VALUE>Trang nội dung</VALUE>
+</item>
+<item>
+<ID>lt_videofile</ID>
+<VALUE>File Video</VALUE>
+</item>
+<item>
+<ID>lt_homepagedesign</ID>
+<VALUE>Thiết kế trang chủ</VALUE>
+</item>
+<item>
+<ID>lt_pagemanagement</ID>
+<VALUE>Quản lý trang</VALUE>
+</item>
+<item>
+<ID>lt_groupcategory</ID>
+<VALUE>Nhóm phân loại</VALUE>
+</item>
+<item>
+<ID>lt_relatedcategory</ID>
+<VALUE>Nhóm liên quan</VALUE>
+</item>
+<item>
+<ID>lt_newslist</ID>
+<VALUE>Danh mục tin</VALUE>
+</item>
+<item>
+<ID>lt_image_advs</ID>
+<VALUE>Hình ảnh - Quảng cáo</VALUE>
+</item>
+<item>
+<ID>l_images</ID>
+<VALUE>Hình ảnh</VALUE>
+</item>
+<item>
+<ID>lt_contactmanagement</ID>
+<VALUE>Quản lý liên hệ</VALUE>
+</item>
+<item>
+<ID>lt_contactlist</ID>
+<VALUE>Danh sách liên hệ</VALUE>
+</item>
+<item>
+<ID>lt_report</ID>
+<VALUE>Báo cáo</VALUE>
+</item>
+<item>
+<ID>lt_statisticdiagram</ID>
+<VALUE>Biểu đồ thống kê</VALUE>
+</item>
+<item>
+<ID>lt_order</ID>
+<VALUE>Thứ tự</VALUE>
+</item>
+<item>
+<ID>lt_click</ID>
+<VALUE>Click</VALUE>
+</item>
+<item>
+<ID>lt_time</ID>
+<VALUE>Thời gian</VALUE>
+</item>
+<item>
+<ID>lt_shop</ID>
+<VALUE>Cửa hàng</VALUE>
+</item>
+<item>
+<ID>lt_album</ID>
+<VALUE>Thư viện hình</VALUE>
+</item>
+<item>
+<ID>lt_groupalbum</ID>
+<VALUE>Nhóm thư viện hình</VALUE>
+</item>
+<item>
+<ID>lt_custommodules</ID>
+<VALUE>Tính năng ngoài</VALUE>
+</item>
+<item>
+<ID>lt_modulename</ID>
+<VALUE>Tên tính năng</VALUE>
+</item>
+<item>
+<ID>lt_inputyouremailtogetpassword</ID>
+<VALUE>Cung cấp email để nhận mật khẩu</VALUE>
+</item>
+<item>
+<ID>lt_or1</ID>
+<VALUE>Hoặc</VALUE>
+</item>
+<item>
+<ID>lt_or2</ID>
+<VALUE>Hay</VALUE>
+</item>
+<item>
+<ID>lt_passwordwassenttoyourmail</ID>
+<VALUE>Mật khẩu đã được gởi đến email của bạn</VALUE>
+</item>
+<item>
+<ID>dictionary</ID>
+<VALUE>Từ Điển</VALUE>
+</item>
+<item>
+<ID>lt_tools</ID>
+<VALUE>Công cụ</VALUE>
+</item>
+<item>
+<ID>lt_like</ID>
+<VALUE>Giống</VALUE>
+</item>
+<item>
+<ID>lt_exactly</ID>
+<VALUE>Chính xác</VALUE>
+</item>
+<item>
+<ID>lt_word</ID>
+<VALUE>Từ</VALUE>
+</item>
+<item>
+<ID>lt_meaning</ID>
+<VALUE>Nghĩa</VALUE>
+</item>
+<item>
+<ID>lt_addword</ID>
+<VALUE>Thêm Từ</VALUE>
+</item>
+<item>
+<ID>lt_author</ID>
+<VALUE>Tác giả</VALUE>
+</item>
+<item>
+<ID>lt_refurl</ID>
+<VALUE>Địa chỉ nguồn</VALUE>
+</item>
+<item>
+<ID>lt_lookup</ID>
+<VALUE>Tra Cứu</VALUE>
+</item>
+<item>
+<ID>lt_dictguide</ID>
+<VALUE>Chọn kiểu tìm kiếm, sau đó cung cấp từ khóa để bắt đầu</VALUE>
+</item>
+<item>
+<ID>lt_newsmanagement</ID>
+<VALUE>Quản lý tin tức</VALUE>
+</item>
+<item>
+<ID>lt_updatemodulessuccess</ID>
+<VALUE>Cập nhật tính năng thành công</VALUE>
+</item>
+<item>
+<ID>lt_modules</ID>
+<VALUE>Tính năng</VALUE>
+</item>
+<item>
+<ID>lt_buildinmodules</ID>
+<VALUE>Tính năng xây dựng sẵn</VALUE>
+</item>
+<item>
+<ID>lt_files</ID>
+<VALUE>Files</VALUE>
+</item>
+<item>
+<ID>lt_testonline</ID>
+<VALUE>Trắc nghiệm</VALUE>
+</item>
+<item>
+<ID>lt_library</ID>
+<VALUE>Thư viện </VALUE>
+</item>
+<item>
+<ID>lt_fileslibrary</ID>
+<VALUE>Thư viện Files</VALUE>
+</item>
+<item>
+<ID>lt_fileslist</ID>
+<VALUE>Danh sách files </VALUE>
+</item>
+<item>
+<ID>lt_filemanagement</ID>
+<VALUE>Quản trị Files</VALUE>
+</item>
+<item>
+<ID>lt_doesnotexistchildcate</ID>
+<VALUE>Không tồn tại phân mục nhánh</VALUE>
+</item>
+<item>
+<ID>lt_size</ID>
+<VALUE>Kích thước</VALUE>
+</item>
+<item>
+<ID>lt_toolsbox</ID>
+<VALUE>Hộp công cụ</VALUE>
+</item>
+<item>
+<ID>lt_related</ID>
+<VALUE>Liên quan</VALUE>
+</item>
+<item>
+<ID>lt_downloadfile</ID>
+<VALUE>Tải file</VALUE>
+</item>
+<item>
+<ID>lt_downloadtime</ID>
+<VALUE>Lần tải</VALUE>
+</item>
+<item>
+<ID>lt_invalid_search_condition</ID>
+<VALUE>Điều kiện tra cứu không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_pleasetryagain</ID>
+<VALUE>Vui lòng thử lần sau</VALUE>
+</item>
+<item>
+<ID>lt_VALUEwmark</ID>
+<VALUE>Tra cứu điểm</VALUE>
+</item>
+<item>
+<ID>lt_choosecontest</ID>
+<VALUE>Chọn kỳ thi</VALUE>
+</item>
+<item>
+<ID>lt_sobaodanh</ID>
+<VALUE>Số báo danh</VALUE>
+</item>
+<item>
+<ID>lt_viewall</ID>
+<VALUE>Xem tất cả</VALUE>
+</item>
+<item>
+<ID>lt_contest</ID>
+<VALUE>Kỳ thi</VALUE>
+</item>
+<item>
+<ID>lt_pupillistresult</ID>
+<VALUE>Danh sách Kết quả Học sinh</VALUE>
+</item>
+<item>
+<ID>lt_VALUEwyourresult</ID>
+<VALUE>Xem kết quả đã thực hiện</VALUE>
+</item>
+<item>
+<ID>lt_memberarea</ID>
+<VALUE>Khu vực thành viên</VALUE>
+</item>
+<item>
+<ID>lt_directory</ID>
+<VALUE>Danh mục</VALUE>
+</item>
+<item>
+<ID>lt_directories</ID>
+<VALUE>Danh mục</VALUE>
+</item>
+<item>
+<ID>lt_directorywebsite</ID>
+<VALUE>Danh mục Website</VALUE>
+</item>
+<item>
+<ID>lt_websitelist</ID>
+<VALUE>Danh sách Websites </VALUE>
+</item>
+<item>
+<ID>lt_example</ID>
+<VALUE>Ví dụ</VALUE>
+</item>
+<item>
+<ID>lt_adm_mn_slmd</ID>
+<VALUE>Chọn Module</VALUE>
+</item>
+<item>
+<ID>l_width</ID>
+<VALUE>Rộng</VALUE>
+</item>
+<item>
+<ID>l_height</ID>
+<VALUE>Cao</VALUE>
+</item>
+<item>
+<ID>lt_websize</ID>
+<VALUE>Kích thước trang</VALUE>
+</item>
+<item>
+<ID>lt_banner</ID>
+<VALUE>Banner</VALUE>
+</item>
+<item>
+<ID>lt_color</ID>
+<VALUE>Màu sắc</VALUE>
+</item>
+<item>
+<ID>lt_bgcolor</ID>
+<VALUE>Màu nền</VALUE>
+</item>
+<item>
+<ID>lt_webbgcolor</ID>
+<VALUE>Màu nền web</VALUE>
+</item>
+<item>
+<ID>lt_alignment</ID>
+<VALUE>Canh lề</VALUE>
+</item>
+<item>
+<ID>lt_sitealignment</ID>
+<VALUE>Canh lề trang</VALUE>
+</item>
+<item>
+<ID>lt_customepagemana</ID>
+<VALUE>Quản trị trang chủ</VALUE>
+</item>
+<item>
+<ID>lt_templatemana</ID>
+<VALUE>Quản trị khuôn giao diện</VALUE>
+</item>
+<item>
+<ID>lt_templatename</ID>
+<VALUE>Tên giao diện</VALUE>
+</item>
+<item>
+<ID>lt_templateUClocaltion</ID>
+<VALUE>Đường dẫn file UserControl</VALUE>
+</item>
+<item>
+<ID>lt_templateimagelocation</ID>
+<VALUE>Đường dẫn Folder hình</VALUE>
+</item>
+<item>
+<ID>lt_folderlocation</ID>
+<VALUE>Đường dẫn Folder</VALUE>
+</item>
+<item>
+<ID>lt_hide</ID>
+<VALUE>Ẩn</VALUE>
+</item>
+<item>
+<ID>l_enable</ID>
+<VALUE>Kích hoạt</VALUE>
+</item>
+<item>
+<ID>l_disable</ID>
+<VALUE>Chưa kích hoạt</VALUE>
+</item>
+<item>
+<ID>l_changeskin</ID>
+<VALUE>Thay đổi giao diện</VALUE>
+</item>
+<item>
+<ID>lt_adm_igcmsv3</ID>
+<VALUE>Hệ thống quản trị WebSite phiên bản3.0</VALUE>
+</item>
+<item>
+<ID>lt_adm_igcmsv3managertool</ID>
+<VALUE>CÔNG CỤ QUẢN LÝ V 3.0</VALUE>
+</item>
+<item>
+<ID>lt_adm_websitetitle</ID>
+<VALUE>Tên trang web</VALUE>
+</item>
+<item>
+<ID>lt_adm_searchkeywork</ID>
+<VALUE>Từ khóa tìm kiếm</VALUE>
+</item>
+<item>
+<ID>lt_adm_visitedtime</ID>
+<VALUE>Số lượt khách vào trang</VALUE>
+</item>
+<item>
+<ID>lt_adm_hit</ID>
+<VALUE>Số lần click (Hits)</VALUE>
+</item>
+<item>
+<ID>lt_configsystem</ID>
+<VALUE>Cấu hình hệ thống</VALUE>
+</item>
+<item>
+<ID>lt_startmodule</ID>
+<VALUE>Module hiển thị đầu tiên</VALUE>
+</item>
+<item>
+<ID>lt_defaultlanguage</ID>
+<VALUE>Ngôn ngữ mặc định</VALUE>
+</item>
+<item>
+<ID>lt_pagetitle</ID>
+<VALUE>Tiêu đề trang</VALUE>
+</item>
+<item>
+<ID>lt_pagetitle_intro</ID>
+<VALUE>được xuất hiện trên tiêu đều của trình duyệt người dùng</VALUE>
+</item>
+<item>
+<ID>lt_keywebsite</ID>
+<VALUE>Từ khóa trang web</VALUE>
+</item>
+<item>
+<ID>lt_websitedesckeyword</ID>
+<VALUE>Từ khóa mô tả</VALUE>
+</item>
+<item>
+<ID>lt_keywebsite_intro</ID>
+<VALUE>được sử dụng để hỗ trợ các công cụ tìm kiếm, cách nhau dấu ;</VALUE>
+</item>
+<item>
+<ID>lt_contentconfig</ID>
+<VALUE>Cấu hình nội dung</VALUE>
+</item>
+<item>
+<ID>lt_productconfig</ID>
+<VALUE>Cấu hình mục sản phẩm</VALUE>
+</item>
+<item>
+<ID>lt_contentfooter</ID>
+<VALUE>Nội dung trang dưới</VALUE>
+</item>
+<item>
+<ID>lt_contentcontact</ID>
+<VALUE>Nội dung tại trang liên hệ</VALUE>
+</item>
+<item>
+<ID>lt_languagemanagement</ID>
+<VALUE>Quản lý ngôn ngữ</VALUE>
+</item>
+<item>
+<ID>lt_key</ID>
+<VALUE>Từ khóa</VALUE>
+</item>
+<item>
+<ID>lt_displaytitle</ID>
+<VALUE>Tiêu đề hiển thị</VALUE>
+</item>
+<item>
+<ID>lt_name</ID>
+<VALUE>Tên</VALUE>
+</item>
+<item>
+<ID>lt_admnewlanguage</ID>
+<VALUE>Thêm mới ngôn ngữ</VALUE>
+</item>
+<item>
+<ID>lt_edit</ID>
+<VALUE>Hiệu chỉnh</VALUE>
+</item>
+<item>
+<ID>lt_enable</ID>
+<VALUE>Chọn hiển thị</VALUE>
+</item>
+<item>
+<ID>l_systemusermanager</ID>
+<VALUE>Quản lý Account hệ thống</VALUE>
+</item>
+<item>
+<ID>l_assigndate</ID>
+<VALUE>Ngày tạo Account</VALUE>
+</item>
+<item>
+<ID>l_role</ID>
+<VALUE>Quyền hạn</VALUE>
+</item>
+<item>
+<ID>l_addsystemuser</ID>
+<VALUE>Tạo tài khoản hệ thống</VALUE>
+</item>
+<item>
+<ID>l_mainmenumanagement</ID>
+<VALUE>Quản lý menu chính</VALUE>
+</item>
+<item>
+<ID>l_topmainmenumana</ID>
+<VALUE>Quản lý Thực đơn trên cùng</VALUE>
+</item>
+<item>
+<ID>l_bottommainmenumana</ID>
+<VALUE>Quản lý Thực đơn dưới cùng</VALUE>
+</item>
+<item>
+<ID>admin_title</ID>
+<VALUE>Tiêu đề</VALUE>
+</item>
+<item>
+<ID>l_status</ID>
+<VALUE>Trạng thái</VALUE>
+</item>
+<item>
+<ID>l_createnewmenu</ID>
+<VALUE>Thêm mới Menu</VALUE>
+</item>
+<item>
+<ID>l_up</ID>
+<VALUE>Tăng</VALUE>
+</item>
+<item>
+<ID>l_down</ID>
+<VALUE>Giảm</VALUE>
+</item>
+<item>
+<ID>l_typeofVALUEwcontent</ID>
+<VALUE>Kiểu trang nội dung hiển thị</VALUE>
+</item>
+<item>
+<ID>l_displaylistcontentpage</ID>
+<VALUE>Hiển thị danh mục trang nội dung</VALUE>
+</item>
+<item>
+<ID>l_displayin1page</ID>
+<VALUE>Hiển thị trên cùng một trang</VALUE>
+</item>
+<item>
+<ID>l_displayinortherpage</ID>
+<VALUE>Hiển thị trên từng trang riêng biệt</VALUE>
+</item>
+<item>
+<ID>l_contentmenu</ID>
+<VALUE>Trang nội dung</VALUE>
+</item>
+<item>
+<ID>l_linkmenu</ID>
+<VALUE>Trang liên kết</VALUE>
+</item>
+<item>
+<ID>l_linkopentype</ID>
+<VALUE>Kiểu mở trang</VALUE>
+</item>
+<item>
+<ID>l_modulelink</ID>
+<VALUE>Trang Module</VALUE>
+</item>
+<item>
+<ID>l_listpagecontent</ID>
+<VALUE>Danh mục trang nội dung</VALUE>
+</item>
+<item>
+<ID>l_createdate</ID>
+<VALUE>Ngày tạo</VALUE>
+</item>
+<item>
+<ID>l_addnewpagecontent</ID>
+<VALUE>Thêm mới trang nội dung</VALUE>
+</item>
+<item>
+<ID>l_reporttype</ID>
+<VALUE>Báo cáo theo</VALUE>
+</item>
+<item>
+<ID>l_dayreport</ID>
+<VALUE>Báo cáo theo ngày</VALUE>
+</item>
+<item>
+<ID>l_choosemonth</ID>
+<VALUE>Chọn tháng</VALUE>
+</item>
+<item>
+<ID>l_showreport</ID>
+<VALUE>Hiện báo cáo</VALUE>
+</item>
+<item>
+<ID>l_monthreport</ID>
+<VALUE>Báo cáo theo tháng</VALUE>
+</item>
+<item>
+<ID>l_chooseyear</ID>
+<VALUE>Chọn năm</VALUE>
+</item>
+<item>
+<ID>l_yearreport</ID>
+<VALUE>Báo cáo theo năm</VALUE>
+</item>
+<item>
+<ID>l_commentlist</ID>
+<VALUE>Ý kiến phản hồi</VALUE>
+</item>
+<item>
+<ID>l_groupcommet</ID>
+<VALUE>Nhóm chủ đề phản hồi</VALUE>
+</item>
+<item>
+<ID>l_groupcommetmanager</ID>
+<VALUE>QUẢN LÝ NHÓM CHỦ ĐỀ HÒM THƯ GÓP Ý</VALUE>
+</item>
+<item>
+<ID>l_createnew</ID>
+<VALUE>Thêm mới</VALUE>
+</item>
+<item>
+<ID>l_back</ID>
+<VALUE>Trở lại</VALUE>
+</item>
+<item>
+<ID>l_rootcate</ID>
+<VALUE>Phân mục gốc</VALUE>
+</item>
+<item>
+<ID>l_showcontentmanage</ID>
+<VALUE>Quản lý Trang hiển thị độc lập</VALUE>
+</item>
+<item>
+<ID>l_showcontentdetail</ID>
+<VALUE>Chi tiết trang hiển thị</VALUE>
+</item>
+<item>
+<ID>l_nickchatmangate</ID>
+<VALUE>Quản lý nick chat</VALUE>
+</item>
+<item>
+<ID>l_nickchattype</ID>
+<VALUE>Loại nick chat</VALUE>
+</item>
+<item>
+<ID>l_groupnewmanager</ID>
+<VALUE>Quản lý nhóm tin</VALUE>
+</item>
+<item>
+<ID>l_catenewmanager</ID>
+<VALUE>Quản lý phân mục tin</VALUE>
+</item>
+<item>
+<ID>l_newlist</ID>
+<VALUE>Danh sách tin tức</VALUE>
+</item>
+<item>
+<ID>l_groupproductmanager</ID>
+<VALUE>Quản lý nhóm sản phẩm</VALUE>
+</item>
+<item>
+<ID>l_productslist</ID>
+<VALUE>Danh sách sản phẩm</VALUE>
+</item>
+<item>
+<ID>l_template</ID>
+<VALUE>Quản lý giao diện</VALUE>
+</item>
+<item>
+<ID>l_orderformmanager</ID>
+<VALUE>Quản lý đơn đặt hàng</VALUE>
+</item>
+<item>
+<ID>l_setting</ID>
+<VALUE>Cấu hình</VALUE>
+</item>
+<item>
+<ID>l_advertisingpossion</ID>
+<VALUE>Vị trí quảng cáo</VALUE>
+</item>
+<item>
+<ID>l_advertisinglist</ID>
+<VALUE>Danh sách quảng cáo</VALUE>
+</item>
+<item>
+<ID>l_advertisingpossionmanagement</ID>
+<VALUE>Quản lý vị trí quảng cáo</VALUE>
+</item>
+<item>
+<ID>l_loadtype</ID>
+<VALUE>Lấy ảnh theo</VALUE>
+</item>
+<item>
+<ID>l_template_title</ID>
+<VALUE>Tên giao diện</VALUE>
+</item>
+<item>
+<ID>l_numofdisplayedimages</ID>
+<VALUE>Số lượng ảnh hiển thị</VALUE>
+</item>
+<item>
+<ID>l_possion</ID>
+<VALUE>Vị trí</VALUE>
+</item>
+<item>
+<ID>l_showintop3</ID>
+<VALUE>Hiển thị top 3</VALUE>
+</item>
+<item>
+<ID>l_showSub_Menuathomepage</ID>
+<VALUE>Hiển thị menu con</VALUE>
+</item>
+<item>
+<ID>l_moneyrate</ID>
+<VALUE>Đơn vị tiền tệ</VALUE>
+</item>
+<item>
+<ID>l_rateofexchange</ID>
+<VALUE>Tỉ giá so sánh với đồng</VALUE>
+</item>
+<item>
+<ID>l_itemperpageproduct</ID>
+<VALUE>Số sản phẩm trên dòng (trang danh mục)</VALUE>
+</item>
+<item>
+<ID>l_datesend</ID>
+<VALUE>Ngày gửi</VALUE>
+</item>
+<item>
+<ID>l_orderform</ID>
+<VALUE>Đơn đặt hàng</VALUE>
+</item>
+<item>
+<ID>l_viewdetail</ID>
+<VALUE>Xem chi tiết</VALUE>
+</item>
+<item>
+<ID>l_iviews</ID>
+<VALUE>Lượt xem</VALUE>
+</item>
+<item>
+<ID>l_oldprice</ID>
+<VALUE>Giá cũ</VALUE>
+</item>
+<item>
+<ID>l_curentprice</ID>
+<VALUE>Giá hiện tại</VALUE>
+</item>
+<item>
+<ID>l_productcontent</ID>
+<VALUE>Thông tin sản phẩm</VALUE>
+</item>
+<item>
+<ID>l_productdesc</ID>
+<VALUE>Mô tả sản phẩm</VALUE>
+</item>
+<item>
+<ID>l_producttitle</ID>
+<VALUE>Tên sản phẩm</VALUE>
+</item>
+<item>
+<ID>l_productid</ID>
+<VALUE>Mã sản phẩm</VALUE>
+</item>
+	<item>
+		<ID>l_productcategories</ID>
+		<VALUE>Phân loại sản phẩm</VALUE>
+	</item>
+	<item>
+		<ID>l_productgroups</ID>
+		<VALUE>Nhóm sản phẩm</VALUE>
+	</item>
+<item>
+<ID>l_image</ID>
+<VALUE>Hình ảnh</VALUE>
+</item>
+<item>
+<ID>l_description</ID>
+<VALUE>Mô tả</VALUE>
+</item>
+<item>
+<ID>l_option</ID>
+<VALUE>Tùy chọn</VALUE>
+</item>
+<item>
+<ID>lt_emotionscate</ID>
+<VALUE>Nhóm biểu tưởng</VALUE>
+</item>
+<item>
+<ID>lt_emotionsitem</ID>
+<VALUE>Biểu tượng</VALUE>
+</item>
+<item>
+<ID>l_emoticons</ID>
+<VALUE>Icon cảm xúc</VALUE>
+</item>
+<item>
+<ID>lEmotion_Management</ID>
+<VALUE>Quản lý nhóm biểu tượng</VALUE>
+</item>
+<item>
+<ID>l_newitemsshow</ID>
+<VALUE>Số tin hiển thị</VALUE>
+</item>
+<item>
+<ID>l_displaytype</ID>
+<VALUE>Kiểu hiển thị</VALUE>
+</item>
+<item>
+<ID>l_topnewshomepage</ID>
+<VALUE>Top tin ngoài trang chủ</VALUE>
+</item>
+<item>
+<ID>l_rightnews</ID>
+<VALUE>Bên phải trang tin tức</VALUE>
+</item>
+<item>
+<ID>l_leftnews</ID>
+<VALUE>Bên trái trang tin tức</VALUE>
+</item>
+<item>
+<ID>l_imagetitledesc</ID>
+<VALUE>Hình ảnh, tiêu đề, miêu tả</VALUE>
+</item>
+<item>
+<ID>l_imagetitle</ID>
+<VALUE>Hình ảnh, tiêu đề</VALUE>
+</item>
+<item>
+<ID>l_titledesc</ID>
+<VALUE>Tiêu đề, miêu tả</VALUE>
+</item>
+<item>
+<ID>l_show</ID>
+<VALUE>Hiện</VALUE>
+</item>
+<item>
+<ID>l_category</ID>
+<VALUE>Phân mục</VALUE>
+</item>
+<item>
+<ID>l_newslistmanagement</ID>
+<VALUE>Quản lý danh sách tin</VALUE>
+</item>
+<item>
+<ID>l_hotnews</ID>
+<VALUE>Tin nóng toàn trang</VALUE>
+</item>
+<item>
+<ID>l_enablecomment</ID>
+<VALUE>Cho phép comment</VALUE>
+</item>
+<item>
+<ID>l_updatecratedate</ID>
+<VALUE>Cập nhật ngày đăng</VALUE>
+</item>
+<item>
+<ID>l_displayincate</ID>
+<VALUE>Hiển thị trên trang Danh Mục</VALUE>
+</item>
+<item>
+<ID>l_displayinindnex</ID>
+<VALUE>Hiển thị trên trang Index</VALUE>
+</item>
+<item>
+<ID>l_iteminpage</ID>
+<VALUE>Số mục trên trang</VALUE>
+</item>
+<item>
+<ID>l_iteminrow</ID>
+<VALUE>Số mục trên dòng</VALUE>
+</item>
+<item>
+<ID>l_orthersetting</ID>
+<VALUE>Các cấu hình khác </VALUE>
+</item>
+<item>
+<ID>l_itemsinsamecate</ID>
+<VALUE>Số mục cùng danh mục</VALUE>
+</item>
+<item>
+<ID>l_itemsshowsearchinpage</ID>
+<VALUE>Số mục hiển thị tìm kiếm</VALUE>
+</item>
+<item>
+<ID>l_unchecked</ID>
+<VALUE>Chưa duyệt</VALUE>
+</item>
+<item>
+<ID>l_checked</ID>
+<VALUE>Đã duyệt</VALUE>
+</item>
+<item>
+<ID>l_prdnews</ID>
+<VALUE>Sản phẩm mới</VALUE>
+</item>
+<item>
+<ID>l_prdselloff</ID>
+<VALUE>Hàng giảm giá</VALUE>
+</item>
+<item>
+<ID>l_prdbestsell</ID>
+<VALUE>Sản phẩm bán chạy</VALUE>
+</item>
+<item>
+<ID>l_prdsale</ID>
+<VALUE>Sản phẩm khuyến mại</VALUE>
+</item>
+<item>
+<ID>l_orderdetail</ID>
+<VALUE>CHI TIẾT ĐƠN HÀNG</VALUE>
+</item>
+<item>
+<ID>l_tomoney</ID>
+<VALUE>Thành tiền</VALUE>
+</item>
+<item>
+<ID>l_closewindow</ID>
+<VALUE>Đóng cửa sổ</VALUE>
+</item>
+<item>
+<ID>l_0pxshowtruesizeimage</ID>
+<VALUE>Để 0 px sẽ hiển thị kích thước thật của ảnh</VALUE>
+</item>
+<item>
+<ID>l_topproductincate</ID>
+<VALUE>Top sản phẩm hiển thị theo cate</VALUE>
+</item>
+<item>
+<ID>l_productshows</ID>
+<VALUE>Số sản phẩm</VALUE>
+</item>
+<item>
+<ID>l_topprodnewhotsale</ID>
+<VALUE>Top sản phẩm News, Hots, Sales</VALUE>
+</item>
+<item>
+<ID>l_imagesize</ID>
+<VALUE>Kích thước ảnh</VALUE>
+</item>
+<item>
+<ID>l_enableodthercart</ID>
+<VALUE>Kích hoạt giỏ hàng</VALUE>
+</item>
+<item>
+<ID>l_forumcategoriesmanager</ID>
+<VALUE>Quản lý phân mục chủ để Forum</VALUE>
+</item>
+<item>
+<ID>l_numofdown</ID>
+<VALUE>Lượt tải</VALUE>
+</item>
+<item>
+<ID>l_capacity</ID>
+<VALUE>Dung lượng</VALUE>
+</item>
+<item>
+<ID>l_showinhomepage</ID>
+<VALUE>Hiển thị trên trang Chủ</VALUE>
+</item>
+<item>
+<ID>l_filesincate</ID>
+<VALUE>Số files kèm theo nhóm</VALUE>
+</item>
+<item>
+<ID>l_filesinpage</ID>
+<VALUE>Số files trên trang</VALUE>
+</item>
+<item>
+<ID>l_filesshowsearchinpage</ID>
+<VALUE>Số files hiển thị tìm kiếm</VALUE>
+</item>
+<item>
+<ID>l_numofimgperpage</ID>
+<VALUE>Số ảnh hiển thị trên 1 trang</VALUE>
+</item>
+<item>
+<ID>l_votecate</ID>
+<VALUE>Nhóm đánh giá</VALUE>
+</item>
+<item>
+<ID>l_voteitems</ID>
+<VALUE>Danh sách đánh giá</VALUE>
+</item>
+<item>
+<ID>l_enddate</ID>
+<VALUE>Ngày kết thúc</VALUE>
+</item>
+<item>
+<ID>l_numofvote</ID>
+<VALUE>Lượt bầu chọn</VALUE>
+</item>
+<item>
+<ID>l_id</ID>
+<VALUE>Mã</VALUE>
+</item>
+<item>
+<ID>l_representationsID</ID>
+<VALUE>Ký tự đại diện</VALUE>
+</item>
+<item>
+<ID>l_default</ID>
+<VALUE>Mặc định</VALUE>
+</item>
+<item>
+<ID>l_createadv</ID>
+<VALUE>Tạo mới biển quảng cáo</VALUE>
+</item>
+<item>
+<ID>l_advtype</ID>
+<VALUE>Loại quảng cáo</VALUE>
+</item>
+<item>
+<ID>l_openpagetype</ID>
+<VALUE>Cách mở trang</VALUE>
+</item>
+<item>
+<ID>l_openinthispage</ID>
+<VALUE>Mở trong trang hiện tại</VALUE>
+</item>
+<item>
+<ID>l_openinnewpage</ID>
+<VALUE>Mở trang mới</VALUE>
+</item>
+<item>
+<ID>l_showtitle-text</ID>
+<VALUE>Hiển thị tiêu đề(-Text)</VALUE>
+</item>
+<item>
+<ID>l_feedbackcomments</ID>
+<VALUE>Ý kiến phản hồi, góp ý</VALUE>
+</item>
+<item>
+<ID>l_sender</ID>
+<VALUE>Người gửi</VALUE>
+</item>
+<item>
+<ID>l_managermember</ID>
+<VALUE>Quản lý thành viên</VALUE>
+</item>
+<item>
+<ID>l_locked</ID>
+<VALUE>Bị khóa</VALUE>
+</item>
+<item>
+<ID>l_joindate</ID>
+<VALUE>Ngày truy cập</VALUE>
+</item>
+<item>
+<ID>l_account</ID>
+<VALUE>Tài khoản</VALUE>
+</item>
+<item>
+<ID>l_colorlist</ID>
+<VALUE>Danh sách màu</VALUE>
+</item>
+<item>
+<ID>l_colormember</ID>
+<VALUE>Màu sắc thành viên</VALUE>
+</item>
+<item>
+<ID>l_descendent</ID>
+<VALUE>Giảm dần</VALUE>
+</item>
+<item>
+<ID>l_increasing</ID>
+<VALUE>Tăng dần</VALUE>
+</item>
+<item>
+<ID>l_timejoin</ID>
+<VALUE>Thời gian đăng ký</VALUE>
+</item>
+<item>
+<ID>l_lastjoin</ID>
+<VALUE>Lần cuối đăng nhập</VALUE>
+</item>
+<item>
+<ID>l_voteting</ID>
+<VALUE>Biểu quyết</VALUE>
+</item>
+<item>
+<ID>l_reseults</ID>
+<VALUE>Kết quả</VALUE>
+</item>
+<item>
+<ID>l_supportonline</ID>
+<VALUE>Hỗ trợ trực tuyến</VALUE>
+</item>
+<item>
+<ID>l_sendcomment</ID>
+<VALUE>Gửi ý kiến</VALUE>
+</item>
+<item>
+<ID>l_redo</ID>
+<VALUE>Làm lại</VALUE>
+</item>
+<item>
+<ID>l_sendcomments</ID>
+<VALUE>Gửi phản hồi</VALUE>
+</item>
+<item>
+<ID>l_sendforfriend</ID>
+<VALUE>Gửi cho bạn bè</VALUE>
+</item>
+<item>
+<ID>lt_invalidcontent</ID>
+<VALUE>Nội dung không hợp lệ</VALUE>
+</item>
+<item>
+<ID>lt_invalidsendername</ID>
+<VALUE>Tên người gởi không hợp lệ</VALUE>
+</item>
+<item>
+<ID>l_leftprods</ID>
+<VALUE>Bên trái trang sản phẩm</VALUE>
+</item>
+<item>
+<ID>l_youmustchosevotes</ID>
+<VALUE>Bạn cần lựa chọn ý kiến!</VALUE>
+</item>
+<item>
+<ID>l_thankforvote</ID>
+<VALUE>Cảm ơn đã lựa chọn ý kiến!</VALUE>
+</item>
+<item>
+<ID>l_have</ID>
+<VALUE>Có</VALUE>
+</item>
+<item>
+<ID>l_samevotewithyou</ID>
+<VALUE>người cùng ý kiến với bạn</VALUE>
+</item>
+<item>
+<ID>l_voteproduct</ID>
+<VALUE>Ý kiến đánh giá</VALUE>
+</item>
+<item>
+<ID>l_rate</ID>
+<VALUE>Đánh giá</VALUE>
+</item>
+<item>
+<ID>l_leftcontent</ID>
+<VALUE>Bên trái trang nội dung</VALUE>
+</item>
+<item>
+<ID>l_rightcontent</ID>
+<VALUE>Bên phải trang nội dung</VALUE>
+</item>
+<item>
+<ID>l_error</ID>
+<VALUE>Xin lỗi, đã có lỗi xảy ra trong trang</VALUE>
+</item>
+<item>
+<ID>l_notfount</ID>
+<VALUE>Không tìm thấy đường dẫn</VALUE>
+</item>
+<item>
+<ID>l_ordervalues</ID>
+<VALUE>Giá trị đơn hàng</VALUE>
+</item>
+<item>
+<ID>l_process</ID>
+<VALUE>Xử lý</VALUE>
+</item>
+<item>
+<ID>l_prdhot</ID>
+<VALUE>Sản phẩm đặc biệt</VALUE>
+</item>
+<item>
+<ID>l_topnews</ID>
+<VALUE>Tin nổi bật</VALUE>
+</item>
+	<item>
+		<ID>l_commonvote</ID>
+		<VALUE>Bình chọn</VALUE>
+	</item>
+	<item>
+		<ID>l_disable_not</ID>
+		<VALUE>Không kích hoạt</VALUE>
+	</item>
+	<item>
+		<ID>l_screen_setting</ID>
+		<VALUE>Cấu hình giao diện</VALUE>
+	</item>
+	<item>
+		<ID>l_linked_site</ID>
+		<VALUE>Liên kết website</VALUE>
+	</item>
+	<item>
+		<ID>l_videomusic</ID>
+		<VALUE>Đa phương tiện</VALUE>
+	</item>
+	<item>
+		<ID>l_indexcontent</ID>
+		<VALUE>Nội dung trang chủ</VALUE>
+	</item>
+	<item>
+		<ID>l_displaysettings</ID>
+		<VALUE>Cấu hình hiển thị</VALUE>
+	</item>
+	<item>
+		<ID>l_newshomedisplaystyle</ID>
+		<VALUE>Kiểu hiển thị trang chủ tin tức</VALUE>
+	</item>
+	<item>
+		<ID>l_producthomedisplaystyle</ID>
+		<VALUE>Kiểu hiển thị trang chủ sản phẩm</VALUE>
+	</item>
+	<item>
+		<ID>lt_in</ID>
+		<VALUE>trong</VALUE>
+	</item>
+	<item>
+		<ID>lt_to</ID>
+		<VALUE>đến</VALUE>
+	</item>
+	<item>
+		<ID>l_viewbytime</ID>
+		<VALUE>Xem theo thời gian</VALUE>
+	</item>
+	<item>
+		<ID>l_faq</ID>
+		<VALUE>Câu hỏi thường gặp</VALUE>
+	</item>
+	<item>
+		<ID>l_articleslibrary</ID>
+		<VALUE>Thư viện bài viết</VALUE>
+	</item>
+	<item>
+		<ID>l_suggestionmanagementcategory</ID>
+		<VALUE>Quản lý nhóm liên hệ</VALUE>
+	</item>
+	<item>
+		<ID>l_suggestionmanagement</ID>
+		<VALUE>Quản lý liên hệ</VALUE>
+	</item>
+	<item>
+		<ID>l_rating</ID>
+		<VALUE>Tỷ lệ</VALUE>
+	</item>
+	<item>
+		<ID>lt_singer</ID>
+		<VALUE>Ca sĩ</VALUE>
+	</item>
+	<item>
+		<ID>lt_present</ID>
+		<VALUE>Trình bày</VALUE>
+	</item>
+	<item>
+		<ID>lt_position</ID>
+		<VALUE>Vị trí</VALUE>
+	</item>
+	<item>
+		<ID>ig_com_functionsmanagement</ID>
+		<VALUE>Quản lý tính năng ứng dụng</VALUE>
+	</item>
+	<item>
+		<ID>ig_com_functioncode</ID>
+		<VALUE>Mã tính năng</VALUE>
+	</item>
+	<item>
+		<ID>lt_membersanalytics</ID>
+		<VALUE>Thống kê thành viên</VALUE>
+	</item>
+<item>
+<ID>lt_membergroups</ID>
+<VALUE>Nhóm thành viên</VALUE>
+</item>
+	<item>
+		<ID>l_newest</ID>
+		<VALUE>Mới nhất</VALUE>
+	</item>
+	<item>
+		<ID>l_in24hpast</ID>
+		<VALUE>24 giờ trước</VALUE>
+	</item>
+	<item>
+		<ID>l_prv24hpast</ID>
+		<VALUE>trước 24 giờ kế</VALUE>
+	</item>
+	<item>
+		<ID>l_versions</ID>
+		<VALUE>Phiên bản</VALUE>
+	</item>
+	<item>
+		<ID>l_cssclass</ID>
+		<VALUE>CSS Class</VALUE>
+	</item>
+	<item>
+		<ID>l_showincategories</ID>
+		<VALUE>Hiển thị trong (tập hợp) nhóm</VALUE>
+	</item>
+<item>
+<ID>l_commentoptions</ID>
+<VALUE>Tùy chọn phản hồi</VALUE>
+</item>
+<item>
+<ID>l_commentoptionscheck</ID>
+<VALUE>Duyệt phản hồi trước khi hiển thị</VALUE>
+</item>
+<item>
+<ID>l_commentoptionsnotcheck</ID>
+<VALUE>Hiển thị phản hồi không cần duyệt</VALUE>
+</item>
+<item>
+<ID>l_restrictedaccess</ID>
+<VALUE>Giới hạn truy cập</VALUE>
+</item>
+<item>
+<ID>l_siteconnects</ID>
+<VALUE>Kết nối website</VALUE>
+</item>
+<item>
+<ID>l_siteconnectsettings</ID>
+<VALUE>Cài đặt dịch vụ SiteConnect</VALUE>
+</item>
+	<item>
+		<ID>l_enablesendmailwhengetsuggestion</ID>
+		<VALUE>Tự động gửi mail khi có liên hệ</VALUE>
+	</item>
+	<item>
+		<ID>l_suggestionsendcontacttoemail</ID>
+		<VALUE>Gửi liên hệ đến email</VALUE>
+	</item>
+	<item>
+		<ID>l_customers</ID>
+		<VALUE>Khách hàng</VALUE>
+	</item>
+	<item>
+		<ID>l_customerslist</ID>
+		<VALUE>Danh sách khách hàng</VALUE>
+	</item>
+<item>
+<ID>scrolltop</ID>
+<VALUE>Lên đầu trang</VALUE>
+</item>
+<item>
+<ID>ltotherart</ID>
+<VALUE>Các bài viết khác</VALUE>
+</item>
+<item>
+<ID>lt_hotarticles</ID>
+<VALUE>Bài viết nổi bật</VALUE>
+</item>
+<item>
+<ID>lt_newarticles</ID>
+<VALUE>Bài viết mới</VALUE>
+</item>
+<item>
+<ID>lt_catearticles</ID>
+<VALUE>Danh mục bài viết</VALUE>
+</item>
+<item>
+<ID>lt_faqcate</ID>
+<VALUE>Danh mục hỏi đáp</VALUE>
+</item>
+<item>
+<ID>lt_lasted</ID>
+<VALUE>Mới nhất</VALUE>
+</item>
+<item>
+<ID>lt_mostdown</ID>
+<VALUE>Download nhiều nhất</VALUE>
+</item>
+<item>
+<ID>lt_catedown</ID>
+<VALUE>Danh mục tải về</VALUE>
+</item>
+<item>
+<ID>lt_openall</ID>
+<VALUE>Mở tất</VALUE>
+</item>
+<item>
+<ID>lt_closeall</ID>
+<VALUE>Đóng tất</VALUE>
+</item>
+<item>
+<ID>lt_updatenws</ID>
+<VALUE>Các tin mới cập nhật</VALUE>
+</item>
+<item>
+<ID>lt_postednws</ID>
+<VALUE>Các tin đã đăng</VALUE>
+</item>
+<item>
+<ID>l_newnews</ID>
+<VALUE>Tin mới</VALUE>
+</item>
+<item>
+<ID>lt_newscate</ID>
+<VALUE>Danh mục tin tức</VALUE>
+</item>
+<item>
+<ID>lt_procate</ID>
+<VALUE>Danh mục sản phẩm</VALUE>
+</item>
+<item>
+<ID>lt_relatedpro</ID>
+<VALUE>Sản phẩm liên quan</VALUE>
+</item>
+<item>
+<ID>lt_pricesearch</ID>
+<VALUE>Tìm theo giá</VALUE>
+</item>
+<item>
+<ID>lt_othervideo</ID>
+<VALUE>Tác phẩm khác</VALUE>
+</item>
+<item>
+<ID>lt_newmul</ID>
+<VALUE>Multimedia mới</VALUE>
+</item>
+<item>
+<ID>lt_videocate</ID>
+<VALUE>Danh mục Media</VALUE>
+</item>
+<item>
+<ID>lt_singerlist</ID>
+<VALUE>Danh sách ca sĩ</VALUE>
+</item>
+<item>
+<ID>lt_visitor</ID>
+<VALUE>Thống kê truy cập</VALUE>
+</item>
+<item>
+<ID>lt_weather</ID>
+<VALUE>Thông tin thời tiết</VALUE>
+</item>
+<item>
+<ID>lt_song</ID>
+<VALUE>Ca khúc</VALUE>
+</item>
+<item>
+<ID>lt_tructuyen</ID>
+<VALUE>Trực tuyến</VALUE>
+</item>
+<item>
+<ID>lt_tongsotruycap</ID>
+<VALUE>Tổng số truy cập</VALUE>
+</item>
+<item>
+<ID>lt_tongsohit</ID>
+<VALUE>Tổng số Hits</VALUE>
+</item>
+<item>
+<ID>lt_ucusmdl</ID>
+<VALUE>Tính năng do người dùng xây dựng</VALUE>
+</item>
+<item>
+<ID>l_membership</ID>
+<VALUE>Hội viên</VALUE>
+</item>
+<item>
+<ID>l_ordermember</ID>
+<VALUE>Yêu cầu là thành viên</VALUE>
+</item>
+<item>
+<ID>l_order</ID>
+<VALUE>Đặt hàng</VALUE>
+</item>
+<item>
+<ID>l_checkout</ID>
+<VALUE>Thanh toán Đơn hàng</VALUE>
+</item>
+<item>
+<ID>l_ultiaddon</ID>
+<VALUE>Ứng dụng</VALUE>
+</item>
+<item>
+<ID>l_singerlist</ID>
+<VALUE>Danh sách Ca sĩ</VALUE>
+</item>
+<item>
+<ID>l_co</ID>
+<VALUE>Có</VALUE>
+</item>
+<item>
+<ID>l_votesame</ID>
+<VALUE>bình chọn tương tự</VALUE>
+</item>
+<item>
+<ID>I_huongdanbaiviet</ID>
+<VALUE>Hướng dẫn bài viết</VALUE>
+</item>
+<item>
+<ID>I_Information_AboutUs</ID>
+<VALUE>Thông tin - Giới thiệu</VALUE>
+</item>
+<item>
+<ID>I_Information_Services</ID>
+<VALUE>Thông tin - Dịch vụ</VALUE>
+</item>
+<item>
+<ID>I_Ad_Management</ID>
+<VALUE>Hình ảnh - Quảng cáo</VALUE>
+</item>
+<item>
+<ID>I_Information_news</ID>
+<VALUE>Thông tin - Tin tức</VALUE>
+</item>
+<item>
+<ID>I_Utilities</ID>
+<VALUE>Tiện ích</VALUE>
+</item>
+<item>
+<ID>AboutUs</ID>
+<VALUE>Giới thiệu</VALUE>
+</item>
+<item>
+<ID>Services</ID>
+<VALUE>Dịch vụ</VALUE>
+</item>
+<item>
+<ID>I_dulieuchuadccapnhat</ID>
+<VALUE>Dữ liệu chưa được cập nhật</VALUE>
+</item>
+<item>
+<ID>l_produc_Canceled_order</ID>
+<VALUE>
+Đã hủy đặt hàng !.
+Xin cảm ơn bạn đã sử dụng dịch vụ.
+</VALUE>
+</item>
+<item>
+<ID>l_produc_Order_successful</ID>
+<VALUE>
+Đặt hàng thành công !.
+Xin cảm ơn bạn đã lựa chọn và sử dụng sản phẩm .
+Chúng tôi sẽ liên lạc với bạn qua thông tin cung cấp
+</VALUE>
+</item>
+<item>
+<ID>l_produc_Orders_exist</ID>
+<VALUE>
+Không tồn tại đơn hàng này!.
+Xin cảm ơn bạn được sử dụng dịch vụ.
+</VALUE>
+</item>
+<item>
+<ID>l_produc_our_place</ID>
+<VALUE>
+Cảm ơn bạn đặt đặt hàng !.
+Đơn hàng của bạn đã được lưu trữ và xử lý trong vòng 24 h.
+</VALUE>
+</item>
+<item>
+<ID>Not_empty_cart</ID>
+<VALUE>
+Không có sản phẩm nào giỏ hàng
+</VALUE>
+</item>
+<item>
+<ID>Giohang</ID>
+<VALUE>Giỏ hàng</VALUE>
+</item>
+<item>
+<ID>lienhe2</ID>
+<VALUE>Mọi yêu cầu, thắc mắc xin gửi mail về chúng tôi, xin chân thành cảm ơn!</VALUE>
+</item>
+<item>
+<ID>ngaycapnhat</ID>
+<VALUE>Ngày cập nhập</VALUE>
+</item>
+<item>
+<ID>cactintieptheo</ID>
+<VALUE>Các tin tiếp theo</VALUE>
+</item>
+<item>
+<ID>cactintruoc</ID>
+<VALUE>Các tin trước</VALUE>
+</item>
+<item>
+<ID>Sua</ID>
+<VALUE>Sửa</VALUE>
+</item>
+<item>
+<ID>tieptucmuahang</ID>
+<VALUE>Tiếp tục mua hàng</VALUE>
+</item>
+<item>
+<ID>datdonhang</ID>
+<VALUE>Đặt đơn hàng</VALUE>
+</item>
+
+<item>
+<ID>Mua</ID>
+<VALUE>Mua</VALUE>
+</item>
+<item>
+<ID>Themvaogiohang</ID>
+<VALUE>Thêm vào giỏ hàng</VALUE>
+</item>
+<item>
+<ID>timkiemsanpham</ID>
+<VALUE>Tìm kiếm sản phẩm</VALUE>
+</item>
+<item>
+<ID>danhmuc</ID>
+<VALUE>Danh mục</VALUE>
+</item>
+<item>
+<ID>mucgia</ID>
+<VALUE>Mức giá</VALUE>
+</item>
+<item>
+<ID>tim</ID>
+<VALUE>Tìm kiếm</VALUE>
+</item>
+<item>
+<ID>gui</ID>
+<VALUE>Gửi</VALUE>
+</item>
+<item>
+<ID>danhmucspham</ID>
+<VALUE>Danh mục sản phẩm</VALUE>
+</item>
+<item>
+<ID>HotProducts</ID>
+<VALUE>Sản phẩm nổi bật</VALUE>
+</item>
+<item>
+<ID>l_produc_contact_information</ID>
+<VALUE>Bạn vui lòng nhập các thông tin liên hệ của bạn để tiến hành đặt hàng!</VALUE>
+</item>
+<item>
+<ID>Thank_you_roducts</ID>
+<VALUE>Cảm ơn bạn đã lựa chọn sản phẩm của chúng tôi</VALUE>
+</item>
+<item>
+<ID>lt_updatepass</ID>
+<VALUE>Cập nhật mật khẩu</VALUE>
+</item>
+ <item>
+<ID>loitrang</ID>
+<VALUE>Lỗi không tìm thấy trang</VALUE>
+</item>
+ <item>
+<ID>giaiphap</ID>
+<VALUE>Giải pháp</VALUE>
+</item>
+ <item>
+<ID>dangkythanhvien</ID>
+<VALUE>Đăng ký thành viên</VALUE>
+</item>
+ <item>
+<ID>ttthanhvien</ID>
+<VALUE>Thông tin thành viên</VALUE>
+</item>
+ <item>
+<ID>capthanhvien</ID>
+<VALUE>Cập nhật thông tin</VALUE>
+</item>
+ <item>
+<ID>thaydoimk</ID>
+<VALUE>Thay đổi mật khẩu</VALUE>
+</item>
+ <item>
+<ID>chitiet</ID>
+<VALUE>Chi tiết</VALUE>
+</item>
+<item>
+<ID>xemnhanh</ID>
+<VALUE>Xem nhanh</VALUE>
+</item>
+<item>
+<ID>hdmuahang</ID>
+<VALUE>HƯỚNG DẪN MUA HÀNG</VALUE>
+</item>
+<item>
+<ID>hdthanhtoan</ID>
+<VALUE>HƯỚNG DẪN THANH TOÁN</VALUE>
+</item>
+<item>
+<ID>pththanhtoan</ID>
+<VALUE>PHƯƠNG THỨC VẬN CHUYỂN</VALUE>
+</item>
+<item>
+<ID>xinchao</ID>
+<VALUE>Xin chào</VALUE>
+</item>
+ <item>
+<ID>downloads</ID>
+<VALUE>Thư viện download</VALUE>
+</item>
+<item>
+<ID>dangkytin</ID>
+<VALUE>Đăng ký nhận tin hoặc tư vấn miễn phí</VALUE>
+</item>
+<item>
+<ID>Emailcb</ID>
+<VALUE>Email của bạn</VALUE>
+</item>
+<item>
+<ID>Emailtb</ID>
+<VALUE>Vui lòng nhập email hợp lệ</VALUE>
+</item>
+<item>
+<ID>ketnoicht</ID>
+<VALUE>Kết nối với chúng tôi</VALUE>
+</item>
+<item>
+<ID>emailtt</ID>
+<VALUE>Email này đã tồn tại trong hệ thống</VALUE>
+</item>
+<item>
+<ID>thanhcontemail</ID>
+<VALUE>Đăng ký nhận tin qua Email thành công</VALUE>
+</item>
+<item>
+<ID>Timtheotag</ID>
+<VALUE>Tìm kiếm theo thẻ tag</VALUE>
+</item>
+<item>
+<ID>trangdau</ID>
+<VALUE>Trang đầu</VALUE>
+</item>
+<item>
+<ID>trangcuoi</ID>
+<VALUE>Trang cuối</VALUE>
+</item>
+<item>
+<ID>cannang</ID>
+<VALUE>Trọng lượng</VALUE>
+</item>
+ <item>
+<ID>Niemyet</ID>
+<VALUE>Giá NY</VALUE>
+</item>
+ <item>
+<ID>sanphamcungloai</ID>
+<VALUE>Sản phẩm cùng loại</VALUE>
+</item>
+ <item>
+<ID>themvaogh</ID>
+<VALUE>Đã thêm sản phẩm vào giỏ hàng</VALUE>
+</item>
+<item>
+<ID>Dongian</ID>
+<VALUE>Đơn giá</VALUE>
+</item>
+<item>
+<ID>donvitinh</ID>
+<VALUE>ĐV tính</VALUE>
+</item>
+<item>
+<ID>ghichu</ID>
+<VALUE>Ghi chú</VALUE>
+</item>
+<item>
+<ID>phivchuyen</ID>
+<VALUE>Chưa bao gồm phí vận chuyển</VALUE>
+</item>
+<item>
+<ID>ttkhachhang</ID>
+<VALUE>Thông tin khách hàng</VALUE>
+</item>
+<item>
+<ID>tthanhpho</ID>
+<VALUE>Tỉnh/thành phố</VALUE>
+</item>
+<item>
+<ID>quanhuyen</ID>
+<VALUE>Quận/huyện</VALUE>
+</item>
+<item>
+<ID>sochinh</ID>
+<VALUE>Số chính</VALUE>
+</item>
+<item>
+<ID>sochinhdp</ID>
+<VALUE>Số dự phòng</VALUE>
+</item>
+<item>
+<ID>phthanhtoan</ID>
+<VALUE>Thanh toán và vận chuyển</VALUE>
+</item>
+<item>
+<ID>tt1</ID>
+<VALUE>Thanh toán tại cửa hàng</VALUE>
+</item>
+<item>
+<ID>tt2</ID>
+<VALUE>Thanh toán COD</VALUE>
+</item>
+<item>
+<ID>tt3</ID>
+<VALUE>Thanh toán qua ngân hàng</VALUE>
+</item>
+<item>
+<ID>tt4</ID>
+<VALUE>Xem thông tin tài khoản ngân hàng</VALUE>
+</item>
+<item>
+<ID>tt5</ID>
+<VALUE>Tài khoản giao dịch</VALUE>
+</item>
+<item>
+<ID>tt6</ID>
+<VALUE>Hình thức vận chuyển</VALUE>
+</item>
+<item>
+<ID>tt7</ID>
+<VALUE>Giao hàng tại cửa hàng</VALUE>
+</item>
+<item>
+<ID>tt8</ID>
+<VALUE>Chuyển phát nhanh</VALUE>
+</item>
+<item>
+<ID>tt9</ID>
+<VALUE>Xem tại mục Chính Sách Vận Chuyển</VALUE>
+</item>
+<item>
+<ID>tt10</ID>
+<VALUE>Các đơn vị vận tải do khách hàng chỉ định</VALUE>
+</item>
+<item>
+<ID>tt11</ID>
+<VALUE>Hàng sau khi đóng gới sẽ được chuyển tới đơn vị vận tải do quý khách chỉ định (Xe khách, xe tải, xe bus ...)</VALUE>
+</item>
+<item>
+<ID>tt12</ID>
+<VALUE>Quý khách vui lòng ghi rõ thông tin đơn vị vận tải vào ô bên dưới</VALUE>
+</item>
+<item>
+<ID>huydathang</ID>
+<VALUE>Hủy đặt hàng</VALUE>
+</item>
+<item>
+<ID>muahtem</ID>
+<VALUE>Mua thêm</VALUE>
+</item>
+<item>
+<ID>chontp</ID>
+<VALUE>Chọn tỉnh/thành phố</VALUE>
+</item>
+<item>
+<ID>chonqh</ID>
+<VALUE>Chọn quận/huyện</VALUE>
+</item>
+<item>
+<ID>gh1</ID>
+<VALUE>Hiện giỏ hàng không có sản phẩm</VALUE>
+</item>
+<item>
+<ID>gh2</ID>
+<VALUE>Trị giá đơn hàng tối thiểu lớn hơn 100.000 VNĐ</VALUE>
+</item>
+<item>
+<ID>ttdh1</ID>
+<VALUE>Bạn phải nhập họ tên</VALUE>
+</item>
+<item>
+<ID>ttdh2</ID>
+<VALUE>Bạn phải nhập địa chỉ</VALUE>
+</item>
+<item>
+<ID>ttdh3</ID>
+<VALUE>Bạn phải nhập số điện thoại liện hệ</VALUE>
+</item>
+<item>
+<ID>ttdh4</ID>
+<VALUE>Bạn phải nhập địa chỉ email</VALUE>
+</item>
+<item>
+<ID>ttdh5</ID>
+<VALUE>Địa chỉ email không hợp lệ</VALUE>
+</item>
+<item>
+<ID>thanhvien1</ID>
+<VALUE>Quên mật khẩu</VALUE>
+</item>
+<item>
+<ID>thanhvien2</ID>
+<VALUE>Nhập địa chỉ email</VALUE>
+</item>
+<item>
+<ID>thanhvien3</ID>
+<VALUE>Vui lòng nhập một địa chỉ email hợp lệ</VALUE>
+</item>
+<item>
+<ID>thanhvien4</ID>
+<VALUE>Email không được để trống</VALUE>
+</item>
+<item>
+<ID>thanhvien5</ID>
+<VALUE>Lấy lại mật khẩu</VALUE>
+</item>
+<item>
+<ID>thanhvien6</ID>
+<VALUE>Đăng ký thành công</VALUE>
+</item>
+<item>
+<ID>thanhvien7</ID>
+<VALUE>Bạn có thể sử dụng thông tin đăng ký của mình để sử dụng các tính năng trong website của chúng tôi</VALUE>
+</item>
+<item>
+<ID>thanhvien8</ID>
+<VALUE>Tên đăng nhập không được để trống</VALUE>
+</item>
+<item>
+<ID>thanhvien9</ID>
+<VALUE>Mật khẩu không được để trống</VALUE>
+</item>
+<item>
+<ID>thanhvien10</ID>
+<VALUE>Họ và tên không được để trống</VALUE>
+</item>
+<item>
+<ID>thanhvien11</ID>
+<VALUE>Số di động không được để trống</VALUE>
+</item>
+<item>
+<ID>thanhvien12</ID>
+<VALUE>Số điện thoại phải là số</VALUE>
+</item>
+<item>
+<ID>thanhvien13</ID>
+<VALUE>Địa chỉ không được để trống</VALUE>
+</item>
+<item>
+<ID>login1</ID>
+<VALUE>Đăng nhập tài khoản</VALUE>
+</item>
+<item>
+<ID>login2</ID>
+<VALUE>Tạo tài khoản mới</VALUE>
+</item>
+<item>
+<ID>login3</ID>
+<VALUE>Quên mật khẩu</VALUE>
+</item>
+<item>
+<ID>login4</ID>
+<VALUE>Tên đăng nhập hoặc mật khẩu không đúng</VALUE>
+</item>
+<item>
+<ID>login5</ID>
+<VALUE>Tài khoản không đăng nhập được hoặc đang bị khóa</VALUE>
+</item>
+<item>
+<ID>login6</ID>
+<VALUE>Cập nhật thông tin thành viên</VALUE>
+</item>
+<item>
+<ID>login7</ID>
+<VALUE>Lưu thông tin</VALUE>
+</item>
+<item>
+<ID>dangxuly</ID>
+<VALUE>Đang xử lý</VALUE>
+</item>
+  <item>
+    <ID>Tkiem</ID>
+    <VALUE>Không tìm thấy</VALUE>
+  </item>
+  <item>
+    <ID>Tkiem1</ID>
+    <VALUE>trong tài liệu nào</VALUE>
+  </item>
+  <item>
+    <ID>Tkiem2</ID>
+    <VALUE>Ðề xuất</VALUE>
+  </item>
+  <item>
+    <ID>Tkiem3</ID>
+    <VALUE>Xin bạn chắc chắn rằng tất cả các từ đều đúng chính tả</VALUE>
+  </item>
+  <item>
+    <ID>Tkiem4</ID>
+    <VALUE>Hãy thử những từ khoá khác</VALUE>
+  </item>
+  <item>
+    <ID>Tkiem5</ID>
+    <VALUE>Hãy thử những từ khoá chung hơn</VALUE>
+  </item>
+  <item>
+    <ID>Giohangt1</ID>
+    <VALUE>Quý khách sau khi mua hàng sẽ  thanh toán ngay tại cửa hàng</VALUE>
+  </item>
+    <item>
+    <ID>Giohangt2</ID>
+    <VALUE>Hàng sẽ được gửi tới địa chỉ khách yêu cầu. Quý khách nhận hàng và trực tiếp thanh toán cho nhân viên phát hàng</VALUE>
+  </item>
+  <item>
+    <ID>Giohangt3</ID>
+    <VALUE>Quý khách sẽ thanh toán qua hình thức chuyển khoản từ các thẻ ngân hàng tới các số tài khoản của chúng tôi.</VALUE>
+  </item>
+  <item>
+    <ID>diahcus</ID>
+    <VALUE>số nhà\đường\tổ\khu phố\xóm</VALUE>
+  </item>
+    <item>
+    <ID>trongluong</ID>
+    <VALUE>Trọng lượng</VALUE>
+  </item>
+
+
+  <item>
+    <ID>trongluong1</ID>
+    <VALUE>Tổng trọng lượng</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann1</ID>
+    <VALUE>Thanh toán và giao hàng tại cửa hàng</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann2</ID>
+    <VALUE>Miễn phí</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann3</ID>
+    <VALUE>Thanh toán qua ngân hàng và nhận hàng qua dịch vụ chuyển phát</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann4</ID>
+    <VALUE>COD - Nhận hàng và thanh toán cho nhân viên giao hàng</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann5</ID>
+    <VALUE>Chuyển Nhanh:</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann6</ID>
+    <VALUE>Chuyển Chậm:</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann7</ID>
+    <VALUE>Chuyển Nhanh:</VALUE>
+  </item>
+  <item>
+    <ID>Thanhtoann8</ID>
+    <VALUE>Chuyển Chậm:</VALUE>
+  </item>
+
+  <item>
+    <ID>phaithanhtoan</ID>
+    <VALUE>Tổng số tiền phải thanh toán</VALUE>
+  </item>
+  <item>
+    <ID>phaithanhtoan1</ID>
+    <VALUE>Tiền hàng + Phí vận chuyển</VALUE>
+  </item>
+
+  <item>
+    <ID>Tbrgam</ID>
+    <VALUE>Đơn hàng không được quá 5000 Gram</VALUE>
+  </item>
+    <item>
+    <ID>Giatrikhong</ID>
+    <VALUE>Dữ liệu đang được cập nhật, vui lòng liên hệ trực tiếp</VALUE>
+  </item>
+</template>
+
+
+
+
+
+
+

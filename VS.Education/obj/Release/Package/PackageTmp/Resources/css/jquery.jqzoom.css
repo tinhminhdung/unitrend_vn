@@ -1,0 +1,24 @@
+.zoomPad{cursor:crosshair;float:left;position:relative;z-index:99}
+.ctanh img{width:300px}
+.zoomPad img{border:solid 1px #d7d7d7}
+.zoomPreload{-moz-opacity:.8;background-color:#FFF;background-image:url(../images/zoomloader.gif);background-position:43px 30px;background-repeat:no-repeat;border:1px solid #CCC;color:#333;filter:alpha(opacity=80);font-family:Tahoma;font-size:12px;height:49px;left:0;opacity:.8;padding:8px;position:absolute;text-align:center;text-decoration:none;top:0;width:100px;z-index:110}
+.zoomPup{-moz-opacity:.6;background-color:#FFF;border:1px solid #CCC;cursor:crosshair;filter:alpha(opacity=60);opacity:.6;overflow:hidden;position:absolute;z-index:101}
+.zoomOverlay{background:#FFF;display:none;height:100%;left:0;position:absolute;top:0;width:100%;z-index:101}
+.zoomWindow{background:#FFF;height:auto;left:110%;position:absolute;top:40px;z-index:110}
+.zoomWrapper{border:1px solid #999;position:relative;z-index:110}
+.zoomWrapperTitle{-moz-opacity:.6;background:#999;color:#FFF;display:none;filter:alpha(opacity=60);font-size:10px;height:18px;left:0;line-height:18px;opacity:.6;overflow:hidden;position:absolute;text-align:center;top:0;width:100%;z-index:120}
+.zoomWrapperImage{display:block;overflow:hidden;position:relative;z-index:110}
+.zoomWrapperImage img{border:0;display:block;position:absolute;z-index:101}
+.zoomIframe{-moz-opacity:.8;display:block;filter:alpha(opacity=0);opacity:.8;position:absolute;z-index:-1}
+fieldset{padding:0 7px 7px}
+fieldset legend{color:#333;margin-left:15px;padding-left:3px;padding-right:3px}
+dl dd{margin:0}
+.clearfix:after{clear:both;content:".";display:block;font-size:0;height:0;line-height:0;visibility:hidden}
+.clearfix{display:block;zoom:1}
+ul#thumblist{display:block}
+ul#thumblist li{float:left;list-style:none;margin-right:2px}
+ul#thumblist li a{border:1px solid #CCC;display:block}
+ul#thumblist li a.zoomThumbActive{border:1px solid red}
+.jqzoom{float:left;text-decoration:none}
+.more-pics ul li img{border:2px solid #FFF;height:80px;width:53px}
+.slides_container a{display:block;height:533px;width:355px}

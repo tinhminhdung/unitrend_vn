@@ -1,0 +1,27 @@
+﻿.News-content .textright a{color:#f77e2d;font-size:11px;text-decoration:none;padding-bottom:20px;padding-top:20px;padding-right:5px}
+.News-content .textright{text-align:right;margin-bottom:20px;margin-top:20px}
+.News-content .gototop{background:url(../Images/go_top.gif) no-repeat scroll 0 2px transparent;padding-left:7px}
+#viewConentPage .title{font-size:12px;font-weight:700;display:block;padding-bottom:5px}
+#viewConentPage .content{line-height:16px;color:#666;padding-top:10px;text-align:justify;font-size:11px;padding-bottom:15px}
+#viewConentPage a.listitems{padding:3px 0;font-weight:700;font-size:11px;display:block}
+#viewAllPage .ptitle{font-size:12px;font-weight:700;clear:both}
+#viewAllPage .pcontent{font-size:11px;padding:2px 0 10px}
+#viewAllPageCollap .items{padding-bottom:10px}
+#viewAllPageCollap .ptitle a,#viewAllPageCollap .ptitle a:hover{font-size:11px;font-weight:700;display:block;color:#000}
+#viewAllPageCollap .pcontent{font-size:11px;padding:2px 0 10px}
+#viewListTitlePage .ptitle a,#viewListTitlePage .ptitle a:hover{font-size:12px;font-weight:700;padding-bottom:10px;display:block}
+.content{line-height:16px;color:#666;padding-top:10px;text-align:justify;font-size:13px}
+.OtherChuyenMuc div a{color:#333;font:13px;text-decoration:none;background-image:url(../Images/5.png);background-repeat:no-repeat;padding-left:15px;background-position:0 3px;line-height:22px}
+.OtherChuyenMuc div a:hover{background-image:url(../Images/4.png);color:#ffa403}
+.mypets{cursor:hand;cursor:pointer;background-image:url(../images/01.png);background-repeat:no-repeat;background-position:right;color:#2f2f2f;font-size:13px;font-weight:700;padding-top:5px;padding-bottom:4px;border-bottom:solid 1px #ccc}
+.openpet{background-image:url(../images/02.png);background-repeat:no-repeat;background-position:right}
+.technology{cursor:hand;cursor:pointer;font:bold 14px Verdana;margin:10px 0}
+.openlanguage{color:green}
+.closedlanguage{color:red}
+.thepet{padding-top:20px;padding-bottom:20px;line-height:20px;color:#5b5b5b;padding-left:20px}
+.sub-nav{background-image:url(../images/bg_sub.png);background-position:bottom;background-repeat:repeat-x;padding-bottom:2px;padding-top:10px;margin-left:10px;margin-right:10px;overflow:hidden}
+.sub-nav ul{margin:0;padding:0}
+.sub-nav ul li{float:left;display:block}
+.sub-nav ul li a{color:#545454;padding-left:10px;padding-right:10px;display:block;padding-bottom:15px}
+.sub-nav ul li a:hover,a#sub-act{color:#227a00;background-image:url(../images/sub_hover.png);background-position:bottom center;background-repeat:no-repeat}
+.type2title{background-image:url(../images/bl.png);background-repeat:no-repeat;padding-left:10px;background-position:0 4px}

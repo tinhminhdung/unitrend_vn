@@ -1,0 +1,39 @@
+﻿.bizweb-challenge__container {
+    margin: 0 auto;
+}
+
+.bizweb-challenge__container .bizweb-challenge__message, .bizweb-challenge__container .bizweb-challenge__errors {
+    text-align: center;
+}
+
+.antispam-errors {
+    color: #dc0000;
+    background-color: #fff6f6;
+    border-color: #dc0000;
+    padding: 0.5em;
+    border: 1px solid;
+}
+
+.antispam-errors ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.antispam-errors ul {
+    list-style: disc outside;
+    margin-left: 0px;
+    padding-left: 0;
+}
+
+.bizweb-challenge__container .g-recaptcha {
+    margin: 2rem 0;
+}
+
+.bizweb-challenge__container .g-recaptcha div {
+    margin: 0 auto;
+}
+
+.bizweb-challenge__container input[type="submit"]{
+    display: block;
+    margin: 0 auto;
+}
