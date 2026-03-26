@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -122,7 +122,9 @@ namespace VS.E_Commerce.cms.Display.Products
         {
             Response.Clear();
             Response.StatusCode = 400;
-            Server.Transfer("~/page-400.html");
+            Response.TrySkipIisCustomErrors = true;
+            Response.Redirect("/page-400.html", false);
+            Context.ApplicationInstance.CompleteRequest();
         }
     
         protected List<Entity.Products> NewProductInCate(string icid)
