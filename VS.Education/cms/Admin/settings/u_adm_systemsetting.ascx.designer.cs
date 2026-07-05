@@ -150,6 +150,15 @@ namespace VS.E_Commerce.cms.Admin.settings
         protected global::System.Web.UI.WebControls.TextBox txthostline;
 
         /// <summary>
+        /// ZALO control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox ZALO;
+
+        /// <summary>
         /// txtLivechat control.
         /// </summary>
         /// <remarks>

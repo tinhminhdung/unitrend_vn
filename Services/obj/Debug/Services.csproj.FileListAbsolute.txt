@@ -304,3 +304,17 @@ D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn\VS.Uni-trend.vn\Services\obj\Debug\Se
 D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn\VS.Uni-trend.vn\Services\obj\Debug\Services.csproj.Up2Date
 D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn\VS.Uni-trend.vn\Services\obj\Debug\Services.dll
 D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn\VS.Uni-trend.vn\Services\obj\Debug\Services.pdb
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\Services.dll
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\Services.pdb
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\Database.dll
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\Entity.dll
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\Framework.dll
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\MoreAll.dll
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\Framework.pdb
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\Entity.pdb
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\bin\Debug\MoreAll.pdb
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\obj\Debug\Services.csproj.Up2Date
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\obj\Debug\Services.dll
+D:\LAPTRINH\CONGTY_GOOD_DEGIN\Uni-trend.vn_GitHub\Services\obj\Debug\Services.pdb

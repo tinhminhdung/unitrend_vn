@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -751,37 +751,37 @@ namespace VS.E_Commerce.cms.Admin.Products
                     List<Entity.Products> dtdetail = SProducts.GetById(e.CommandArgument.ToString());
                     if (dtdetail.Count > 0)
                     {
-                        txtcode.Text = dtdetail[0].Code.ToString();
-                        txtname.Text = dtdetail[0].Name.ToString();
-                        txtdesc.Text = dtdetail[0].Brief.ToString();
-                        txtcontent.Text = dtdetail[0].Contents.ToString();
-                        hdimgMaxEdit.Value = dtdetail[0].Images.ToString();
-                        hdimgsmallEdit.Value = dtdetail[0].ImagesSmall.ToString();
-                        ltimg.Text = MoreImage.Image(dtdetail[0].ImagesSmall.ToString());
-                        this.txtquantity.Text = dtdetail[0].Quantity.ToString();
-                        this.txtprice.Text = dtdetail[0].Price.ToString();
-                        txtoldprice.Text = dtdetail[0].OldPrice.ToString();
-                        txttang.Text = dtdetail[0].Noidung1.ToString();
-                        txtdonvi.Text = dtdetail[0].Noidung3.ToString();
-                        txttrongluong.Text = dtdetail[0].Noidung2.ToString();
+                        txtcode.Text = dtdetail[0].Code != null ? dtdetail[0].Code.ToString() : "";
+                        txtname.Text = dtdetail[0].Name != null ? dtdetail[0].Name.ToString() : "";
+                        txtdesc.Text = dtdetail[0].Brief != null ? dtdetail[0].Brief.ToString() : "";
+                        txtcontent.Text = dtdetail[0].Contents != null ? dtdetail[0].Contents.ToString() : "";
+                        hdimgMaxEdit.Value = dtdetail[0].Images != null ? dtdetail[0].Images.ToString() : "";
+                        hdimgsmallEdit.Value = dtdetail[0].ImagesSmall != null ? dtdetail[0].ImagesSmall.ToString() : "";
+                        ltimg.Text = MoreImage.Image(dtdetail[0].ImagesSmall != null ? dtdetail[0].ImagesSmall.ToString() : "");
+                        this.txtquantity.Text = dtdetail[0].Quantity != null ? dtdetail[0].Quantity.ToString() : "";
+                        this.txtprice.Text = dtdetail[0].Price != null ? dtdetail[0].Price.ToString() : "";
+                        txtoldprice.Text = dtdetail[0].OldPrice != null ? dtdetail[0].OldPrice.ToString() : "";
+                        txttang.Text = dtdetail[0].Noidung1 != null ? dtdetail[0].Noidung1.ToString() : "";
+                        txtdonvi.Text = dtdetail[0].Noidung3 != null ? dtdetail[0].Noidung3.ToString() : "";
+                        txttrongluong.Text = dtdetail[0].Noidung2 != null ? dtdetail[0].Noidung2.ToString() : "";
 
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlHoaDonVAT, dtdetail[0].Noidung4);
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.XuatXu, dtdetail[0].XuatXu.ToString());
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.TrangThaiHang, dtdetail[0].TrangThaiHang.ToString());
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThuongHieu, dtdetail[0].ThuongHieu.ToString());
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThoiGianBaoHanh, dtdetail[0].ThoiGianBaoHanh.ToString());
+                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlHoaDonVAT, dtdetail[0].Noidung4 != null ? dtdetail[0].Noidung4.ToString() : "");
+                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.XuatXu, dtdetail[0].XuatXu != null ? dtdetail[0].XuatXu.ToString() : "");
+                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.TrangThaiHang, dtdetail[0].TrangThaiHang != null ? dtdetail[0].TrangThaiHang.ToString() : "");
+                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThuongHieu, dtdetail[0].ThuongHieu != null ? dtdetail[0].ThuongHieu.ToString() : "");
+                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThoiGianBaoHanh, dtdetail[0].ThoiGianBaoHanh != null ? dtdetail[0].ThoiGianBaoHanh.ToString() : "");
 
-                        Model.Text = dtdetail[0].Model.ToString();
-                        LinkSPNgungBan.Text = dtdetail[0].LinkSPNgungBan.ToString();
+                        Model.Text = dtdetail[0].Model != null ? dtdetail[0].Model.ToString() : "";
+                        LinkSPNgungBan.Text = dtdetail[0].LinkSPNgungBan != null ? dtdetail[0].LinkSPNgungBan.ToString() : "";
 
 
                         #region Seowwebsite
-                        txttitleseo.Text = dtdetail[0].Titleseo.ToString().Trim();
-                        txtmeta.Text = dtdetail[0].Meta.ToString().Trim();
-                        txtKeywordS.Text = dtdetail[0].Keyword.ToString().Trim();
+                        txttitleseo.Text = dtdetail[0].Titleseo != null ? dtdetail[0].Titleseo.ToString().Trim() : "";
+                        txtmeta.Text = dtdetail[0].Meta != null ? dtdetail[0].Meta.ToString().Trim() : "";
+                        txtKeywordS.Text = dtdetail[0].Keyword != null ? dtdetail[0].Keyword.ToString().Trim() : "";
                         #endregion
 
-                        if (dtdetail[0].Anh.Length > 0)
+                        if (dtdetail[0].Anh != null && dtdetail[0].Anh.Length > 0)
                         {
                             txtMImage.Text = dtdetail[0].Anh;
                             ScriptManager.RegisterClientScriptBlock(this.Page, this.Page.GetType(), "LoadImage", @"<script type='text/javascript'>LoadStringImg('" + dtdetail[0].Anh + "','" + txtMImage.ClientID + "');</script>", false);
@@ -790,6 +790,7 @@ namespace VS.E_Commerce.cms.Admin.Products
                         {
                             txtMImage.Text = "";
                         }
+
 
                         LoadListGroupNewskt(dtdetail[0].ipid.ToString());
                         LoadListGroupNews(dtdetail[0].ipid.ToString());

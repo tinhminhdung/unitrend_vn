@@ -98,7 +98,8 @@
                                         <asp:LinkButton CssClass="button nenbt green-button" ID="LinkButton1" runat="server" OnClick="lnkaddtocartgh_Click">Thêm Vào Giỏ Hàng <span>Để tìm hiểu thêm sản phẩm khác</span></asp:LinkButton>
                                         <asp:Literal ID="ltaddcompare" runat="server"></asp:Literal>
                                         <%--     <a href="#" class="button nenbt">So Sánh <span>Với các sản phẩm khác cùng loại</span></a>--%>
-                                        <a href="#" class="button nenbt open-modal-btn" onclick="openModal()">Yêu Cầu Tư Vấn <span>Nếu bạn cần tìm hiểu thêm</span></a>
+                                        <a target="_blank" class="button nenbt" href="https://zalo.me/<%=MoreAll.Other.Giatri("ZALO")%>">Yêu Cầu Tư Vấn <span>Nếu bạn cần tìm hiểu thêm</span></a>
+                                        <%--<a href="#" class="button nenbt open-modal-btn" onclick="openModal()">Yêu Cầu Tư Vấn <span>Nếu bạn cần tìm hiểu thêm</span></a>--%>
                                     </div>
                                 </div>
 

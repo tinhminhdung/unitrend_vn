@@ -225,6 +225,16 @@
                 <asp:TextBox CssClass="txt_css" ID="txthostline" runat="server" Width="200px" ></asp:TextBox>
                 </td>
             </tr>
+             <tr>
+    <td>
+    </td>
+    <td style="padding-left: 15px">
+   ZALO
+    </td>
+    <td>
+    <asp:TextBox CssClass="txt_css" ID="ZALO" runat="server" Width="200px" ></asp:TextBox>
+    </td>
+</tr>
             
              <tr>
                 <td>

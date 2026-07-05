@@ -162,6 +162,10 @@ namespace VS.E_Commerce.cms.Admin.settings
                     {
                         this.txtgiolamviec.Text = its.Value;
                     }
+                    else if (its.Properties == "ZALO")
+                    {
+                        this.ZALO.Text = its.Value;
+                    }
                 }
             }
             this.btnsetup.Text = this.label("l_update");
@@ -303,6 +307,11 @@ namespace VS.E_Commerce.cms.Admin.settings
                     obj.Lang = lang;
                     obj.Properties = "txtgiolamviec";
                     obj.Value = txtgiolamviec.Text;
+                    SSetting.UPDATE(obj);
+
+                     obj.Lang = lang;
+                    obj.Properties = "ZALO";
+                    obj.Value = ZALO.Text;
                     SSetting.UPDATE(obj);
 
 

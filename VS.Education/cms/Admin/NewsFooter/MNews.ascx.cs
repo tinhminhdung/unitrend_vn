@@ -47,7 +47,6 @@ namespace VS.E_Commerce.cms.Admin.NewsFooter
                 txtkeyword.Text = Request["kw"];
             }
             #endregion
-            this.Page.Form.DefaultButton = lnksearch.UniqueID;
 
             if (MoreAll.MoreAll.GetCookie("URole") != null)
             {
