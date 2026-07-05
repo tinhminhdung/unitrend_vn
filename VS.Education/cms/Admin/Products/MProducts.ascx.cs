@@ -55,9 +55,9 @@ namespace VS.E_Commerce.cms.Admin.Products
                 ddlordertype.SelectedValue = Request["ds"];
             }
 
-            if (Request["kw"] != null && !Request["kw"].Equals(""))
+            if (!IsPostBack && Session["SearchKeyword_Products"] != null)
             {
-                txtkeyword.Text = Request["kw"];
+                txtkeyword.Text = Session["SearchKeyword_Products"].ToString();
             }
             if (Request["HN"] != null && !Request["HN"].Equals(""))
             {
@@ -751,166 +751,134 @@ namespace VS.E_Commerce.cms.Admin.Products
                     List<Entity.Products> dtdetail = SProducts.GetById(e.CommandArgument.ToString());
                     if (dtdetail.Count > 0)
                     {
-                        txtcode.Text = dtdetail[0].Code != null ? dtdetail[0].Code.ToString() : "";
-                        txtname.Text = dtdetail[0].Name != null ? dtdetail[0].Name.ToString() : "";
-                        txtdesc.Text = dtdetail[0].Brief != null ? dtdetail[0].Brief.ToString() : "";
-                        txtcontent.Text = dtdetail[0].Contents != null ? dtdetail[0].Contents.ToString() : "";
-                        hdimgMaxEdit.Value = dtdetail[0].Images != null ? dtdetail[0].Images.ToString() : "";
-                        hdimgsmallEdit.Value = dtdetail[0].ImagesSmall != null ? dtdetail[0].ImagesSmall.ToString() : "";
-                        ltimg.Text = MoreImage.Image(dtdetail[0].ImagesSmall != null ? dtdetail[0].ImagesSmall.ToString() : "");
-                        this.txtquantity.Text = dtdetail[0].Quantity != null ? dtdetail[0].Quantity.ToString() : "";
-                        this.txtprice.Text = dtdetail[0].Price != null ? dtdetail[0].Price.ToString() : "";
-                        txtoldprice.Text = dtdetail[0].OldPrice != null ? dtdetail[0].OldPrice.ToString() : "";
-                        txttang.Text = dtdetail[0].Noidung1 != null ? dtdetail[0].Noidung1.ToString() : "";
-                        txtdonvi.Text = dtdetail[0].Noidung3 != null ? dtdetail[0].Noidung3.ToString() : "";
-                        txttrongluong.Text = dtdetail[0].Noidung2 != null ? dtdetail[0].Noidung2.ToString() : "";
+                        try
+                        {
+                            txtcode.Text = dtdetail[0].Code != null ? dtdetail[0].Code.ToString() : "";
+                            txtname.Text = dtdetail[0].Name != null ? dtdetail[0].Name.ToString() : "";
+                            txtdesc.Text = dtdetail[0].Brief != null ? dtdetail[0].Brief.ToString() : "";
+                            txtcontent.Text = dtdetail[0].Contents != null ? dtdetail[0].Contents.ToString() : "";
+                            hdimgMaxEdit.Value = dtdetail[0].Images != null ? dtdetail[0].Images.ToString() : "";
+                            hdimgsmallEdit.Value = dtdetail[0].ImagesSmall != null ? dtdetail[0].ImagesSmall.ToString() : "";
+                            ltimg.Text = MoreImage.Image(dtdetail[0].ImagesSmall != null ? dtdetail[0].ImagesSmall.ToString() : "");
+                            this.txtquantity.Text = dtdetail[0].Quantity != null ? dtdetail[0].Quantity.ToString() : "";
+                            this.txtprice.Text = dtdetail[0].Price != null ? dtdetail[0].Price.ToString() : "";
+                            txtoldprice.Text = dtdetail[0].OldPrice != null ? dtdetail[0].OldPrice.ToString() : "";
+                            txttang.Text = dtdetail[0].Noidung1 != null ? dtdetail[0].Noidung1.ToString() : "";
+                            txtdonvi.Text = dtdetail[0].Noidung3 != null ? dtdetail[0].Noidung3.ToString() : "";
+                            txttrongluong.Text = dtdetail[0].Noidung2 != null ? dtdetail[0].Noidung2.ToString() : "";
 
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlHoaDonVAT, dtdetail[0].Noidung4 != null ? dtdetail[0].Noidung4.ToString() : "");
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.XuatXu, dtdetail[0].XuatXu != null ? dtdetail[0].XuatXu.ToString() : "");
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.TrangThaiHang, dtdetail[0].TrangThaiHang != null ? dtdetail[0].TrangThaiHang.ToString() : "");
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThuongHieu, dtdetail[0].ThuongHieu != null ? dtdetail[0].ThuongHieu.ToString() : "");
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThoiGianBaoHanh, dtdetail[0].ThoiGianBaoHanh != null ? dtdetail[0].ThoiGianBaoHanh.ToString() : "");
+                            WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlHoaDonVAT, dtdetail[0].Noidung4 != null ? dtdetail[0].Noidung4.ToString() : "");
+                            WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.XuatXu, dtdetail[0].XuatXu != null ? dtdetail[0].XuatXu.ToString() : "");
+                            WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.TrangThaiHang, dtdetail[0].TrangThaiHang != null ? dtdetail[0].TrangThaiHang.ToString() : "");
+                            WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThuongHieu, dtdetail[0].ThuongHieu != null ? dtdetail[0].ThuongHieu.ToString() : "");
+                            WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlThoiGianBaoHanh, dtdetail[0].ThoiGianBaoHanh != null ? dtdetail[0].ThoiGianBaoHanh.ToString() : "");
 
-                        Model.Text = dtdetail[0].Model != null ? dtdetail[0].Model.ToString() : "";
-                        LinkSPNgungBan.Text = dtdetail[0].LinkSPNgungBan != null ? dtdetail[0].LinkSPNgungBan.ToString() : "";
-
+                            Model.Text = dtdetail[0].Model != null ? dtdetail[0].Model.ToString() : "";
+                            LinkSPNgungBan.Text = dtdetail[0].LinkSPNgungBan != null ? dtdetail[0].LinkSPNgungBan.ToString() : "";
+                        } catch { }
 
                         #region Seowwebsite
-                        txttitleseo.Text = dtdetail[0].Titleseo != null ? dtdetail[0].Titleseo.ToString().Trim() : "";
-                        txtmeta.Text = dtdetail[0].Meta != null ? dtdetail[0].Meta.ToString().Trim() : "";
-                        txtKeywordS.Text = dtdetail[0].Keyword != null ? dtdetail[0].Keyword.ToString().Trim() : "";
+                        try
+                        {
+                            txttitleseo.Text = dtdetail[0].Titleseo != null ? dtdetail[0].Titleseo.ToString().Trim() : "";
+                            txtmeta.Text = dtdetail[0].Meta != null ? dtdetail[0].Meta.ToString().Trim() : "";
+                            txtKeywordS.Text = dtdetail[0].Keyword != null ? dtdetail[0].Keyword.ToString().Trim() : "";
+                        } catch { }
                         #endregion
 
-                        if (dtdetail[0].Anh != null && dtdetail[0].Anh.Length > 0)
+                        try
                         {
-                            txtMImage.Text = dtdetail[0].Anh;
-                            ScriptManager.RegisterClientScriptBlock(this.Page, this.Page.GetType(), "LoadImage", @"<script type='text/javascript'>LoadStringImg('" + dtdetail[0].Anh + "','" + txtMImage.ClientID + "');</script>", false);
-                        }
-                        else
-                        {
-                            txtMImage.Text = "";
-                        }
-
-
-                        LoadListGroupNewskt(dtdetail[0].ipid.ToString());
-                        LoadListGroupNews(dtdetail[0].ipid.ToString());
-
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlcategoriesdetail, dtdetail[0].icid.ToString());
-
-                        List<Entity.Menu> cha = SMenu.Name_Text("select * from  Menu where ID=" + dtdetail[0].icid.ToString() + "");
-                        if (cha.Count > 0)
-                        {
-                            List<Entity.Menu> danhmuc = SMenu.Name_Text("select * from Menu where  ID=" + cha[0].Parent_ID.ToString() + "");
-                            if (danhmuc.Count > 0)
+                            if (dtdetail[0].Anh != null && dtdetail[0].Anh.Length > 0)
                             {
-                                // LoadChaDetail(danhmuc[0].Parent_ID.ToString());
-                                WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlcategoriesdetail, danhmuc[0].ID.ToString());
-                                LoadCon();
+                                txtMImage.Text = dtdetail[0].Anh;
+                                ScriptManager.RegisterClientScriptBlock(this.Page, this.Page.GetType(), "LoadImage", @"<script type='text/javascript'>LoadStringImg('" + dtdetail[0].Anh + "','" + txtMImage.ClientID + "');</script>", false);
                             }
-                        }
+                            else
+                            {
+                                txtMImage.Text = "";
+                            }
+                        } catch { }
 
-                        WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlcategoriesdetail_Con, dtdetail[0].icid.ToString());
+                        try
+                        {
+                            LoadListGroupNewskt(dtdetail[0].ipid.ToString());
+                            LoadListGroupNews(dtdetail[0].ipid.ToString());
 
+                            WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlcategoriesdetail, dtdetail[0].icid.ToString());
 
-                        if (dtdetail[0].Status.ToString().Trim().Equals("0"))
-                        {
-                            this.chkstatus.Checked = false;
-                        }
-                        else if (dtdetail[0].Status.ToString().Equals("1"))
-                        {
-                            this.chkstatus.Checked = true;
-                        }
-                        if (dtdetail[0].News.ToString().Trim().Equals("0"))
-                        {
-                            this.Checknews.Checked = false;
-                        }
-                        else if (dtdetail[0].News.ToString().Equals("1"))
-                        {
-                            this.Checknews.Checked = true;
-                        }
+                            List<Entity.Menu> cha = SMenu.Name_Text("select * from  Menu where ID=" + dtdetail[0].icid.ToString() + "");
+                            if (cha.Count > 0)
+                            {
+                                List<Entity.Menu> danhmuc = SMenu.Name_Text("select * from Menu where  ID=" + cha[0].Parent_ID.ToString() + "");
+                                if (danhmuc.Count > 0)
+                                {
+                                    WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlcategoriesdetail, danhmuc[0].ID.ToString());
+                                    LoadCon();
+                                }
+                            }
 
-                        if (dtdetail[0].Home.ToString().Trim().Equals("0"))
-                        {
-                            this.CheckHome.Checked = false;
-                        }
-                        else if (dtdetail[0].Home.ToString().Equals("1"))
-                        {
-                            this.CheckHome.Checked = true;
-                        }
+                            WebControlsUtilities.SetSelectedIndexInDropDownList(ref this.ddlcategoriesdetail_Con, dtdetail[0].icid.ToString());
+                        } catch { }
+
                         #region Check
-
-                        if (dtdetail[0].Check_01.ToString().Trim().Equals("0"))
+                        try
                         {
-                            this.Check_01.Checked = false;
-                        }
-                        else if (dtdetail[0].Check_01.ToString().Equals("1"))
-                        {
-                            this.Check_01.Checked = true;
-                        }
-                        if (dtdetail[0].Check_02.ToString().Trim().Equals("0"))
-                        {
-                            this.Check_02.Checked = false;
-                        }
-                        else if (dtdetail[0].Check_02.ToString().Equals("1"))
-                        {
-                            this.Check_02.Checked = true;
-                        }
-                        if (dtdetail[0].Check_03.ToString().Trim().Equals("0"))
-                        {
-                            this.Check_03.Checked = false;
-                        }
-                        else if (dtdetail[0].Check_03.ToString().Equals("1"))
-                        {
-                            this.Check_03.Checked = true;
-                        }
-                        if (dtdetail[0].Check_04.ToString().Trim().Equals("0"))
-                        {
-                            this.Check_04.Checked = false;
-                        }
-                        else if (dtdetail[0].Check_04.ToString().Equals("1"))
-                        {
-                            this.Check_04.Checked = true;
-                        }
-                        if (dtdetail[0].Check_05.ToString().Trim().Equals("0"))
-                        {
-                            this.Check_05.Checked = false;
-                        }
-                        else if (dtdetail[0].Check_05.ToString().Equals("1"))
-                        {
-                            this.Check_05.Checked = true;
-                        }
+                            this.chkstatus.Checked = dtdetail[0].Status != null && dtdetail[0].Status.ToString().Trim() == "1";
+                            this.Checknews.Checked = dtdetail[0].News != null && dtdetail[0].News.ToString().Trim() == "1";
+                            this.CheckHome.Checked = dtdetail[0].Home != null && dtdetail[0].Home.ToString().Trim() == "1";
+                            
+                            this.Check_01.Checked = dtdetail[0].Check_01 != null && dtdetail[0].Check_01.ToString().Trim() == "1";
+                            this.Check_02.Checked = dtdetail[0].Check_02 != null && dtdetail[0].Check_02.ToString().Trim() == "1";
+                            this.Check_03.Checked = dtdetail[0].Check_03 != null && dtdetail[0].Check_03.ToString().Trim() == "1";
+                            this.Check_04.Checked = dtdetail[0].Check_04 != null && dtdetail[0].Check_04.ToString().Trim() == "1";
+                            this.Check_05.Checked = dtdetail[0].Check_05 != null && dtdetail[0].Check_05.ToString().Trim() == "1";
+                        } catch { }
                         #endregion
 
                         #region Update
-                        this.txtfromday.Text = Convert.ToDateTime(dtdetail[0].Create_Date).ToString("MM/dd/yyyy HH:mm");
-                        this.txtindays.Text = ((Convert.ToDateTime(dtdetail[0].Modified_Date).Ticks - Convert.ToDateTime(dtdetail[0].Create_Date).Ticks) / 0xc92a69c000L).ToString();
-                        if (dtdetail[0].Chekdata.ToString().Equals("1"))
+                        try
                         {
-                            this.chkdaytype.Checked = true;
-                            this.pnadddate.Visible = true;
-                        }
-                        else
-                        {
-                            this.chkdaytype.Checked = false;
-                            this.pnadddate.Visible = false;
-                        }
+                            if (dtdetail[0].Create_Date != null)
+                            {
+                                this.txtfromday.Text = Convert.ToDateTime(dtdetail[0].Create_Date).ToString("MM/dd/yyyy HH:mm");
+                            }
+                            if (dtdetail[0].Modified_Date != null && dtdetail[0].Create_Date != null)
+                            {
+                                this.txtindays.Text = ((Convert.ToDateTime(dtdetail[0].Modified_Date).Ticks - Convert.ToDateTime(dtdetail[0].Create_Date).Ticks) / 0xc92a69c000L).ToString();
+                            }
+                            
+                            if (dtdetail[0].Chekdata != null && dtdetail[0].Chekdata.ToString() == "1")
+                            {
+                                this.chkdaytype.Checked = true;
+                                this.pnadddate.Visible = true;
+                            }
+                            else
+                            {
+                                this.chkdaytype.Checked = false;
+                                this.pnadddate.Visible = false;
+                            }
+                        } catch { }
                         #endregion
 
-
-                        if (dtdetail[0].Equals.ToString().Trim().Equals("1"))
+                        try
                         {
-                            this.rdFromLinks.Checked = true;
-                            this.rdFromComputer.Checked = false;
-                            this.LoadView();
-                            this.txtvimg.Text = dtdetail[0].Images.ToString();
-                        }
-                        else
-                        {
-                            this.rdFromComputer.Checked = true;
-                            this.rdFromLinks.Checked = false;
-                            this.LoadView();
-                            this.hdFileName.Value = dtdetail[0].Images.ToString();
-                        }
+                            // Avoid crash on Equals property
+                            if (dtdetail[0].Equals != null && dtdetail[0].Equals.ToString().Trim() == "1")
+                            {
+                                this.rdFromLinks.Checked = true;
+                                this.rdFromComputer.Checked = false;
+                                this.LoadView();
+                                this.txtvimg.Text = dtdetail[0].Images != null ? dtdetail[0].Images.ToString() : "";
+                            }
+                            else
+                            {
+                                this.rdFromComputer.Checked = true;
+                                this.rdFromLinks.Checked = false;
+                                this.LoadView();
+                                this.hdFileName.Value = dtdetail[0].Images != null ? dtdetail[0].Images.ToString() : "";
+                            }
+                        } catch { }
+                        
                         MultiView1.ActiveViewIndex = 1;
                         hdinsertupdate.Value = "update";
                         hdid.Value = dtdetail[0].ipid.ToString();
@@ -1347,7 +1315,8 @@ namespace VS.E_Commerce.cms.Admin.Products
 
         protected void LoadRequest()
         {
-            Response.Redirect("admin.aspx?u=pro&su=items&id=" + ddlcategories.SelectedValue + "&st=" + ddlstatus.SelectedValue + "&us=" + ddlorderby.SelectedValue + "&ds=" + ddlordertype.SelectedValue + "&kw=" + txtkeyword.Text + "&HN=" + ddlHinhAnhNoiDung.SelectedValue + "&tl=" + dddltailieu.SelectedValue + "");
+            Session["SearchKeyword_Products"] = txtkeyword.Text;
+            Response.Redirect("admin.aspx?u=pro&su=items&id=" + ddlcategories.SelectedValue + "&st=" + ddlstatus.SelectedValue + "&us=" + ddlorderby.SelectedValue + "&ds=" + ddlordertype.SelectedValue + "&HN=" + ddlHinhAnhNoiDung.SelectedValue + "&tl=" + dddltailieu.SelectedValue + "");
         }
 
         protected string MoreImages(string ipid, string icid)
